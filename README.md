@@ -19,7 +19,7 @@ Follow the instruction on this repository "MACS3" (https://github.com/macs3-proj
 3 min
 
 # Demo
-Run this [code](MACS3_Nabe_20210811.ipynb) in ipynb environment.
+Run this [code](MACS3_Nabe.ipynb) in ipynb environment.
 ## Run data
 
 ## Expected output
