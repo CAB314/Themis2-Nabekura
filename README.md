@@ -15,18 +15,23 @@ Nothing
 # Installation guide
 ## Instructions
 Follow the instruction on this repository "MACS3" (https://github.com/macs3-project/MACS).
+```
+pip install MACS3==3.0.0a6
+```
+
 ## Typical install time
 3 min
 
 # Demo
-Run this [code](MACS3_Nabe.ipynb) in ipynb environment.
 ## Run data
+Run this [code](MACS3_Nabe.ipynb) in ipynb environment.
 
 ## Expected output
-See [here]()
+See [here](Demooutput)
+
 ## Expected run time
-2.30 min
+7 sec
 
 # Instructions for use
 ## How to run the software on your data
-- 
+Run all cells
