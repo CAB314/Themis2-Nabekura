@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000019789	Hey2	GO:0065004	protein-DNA complex assembly	protein-DNA_complex_assembly
+ENSMUSG00000053477	Tcf4	GO:0065004	protein-DNA complex assembly	protein-DNA_complex_assembly
+ENSMUSG00000055024	Ep300	GO:0065004	protein-DNA complex assembly	protein-DNA_complex_assembly
+ENSMUSG00000032405	Pias1	GO:0065004	protein-DNA complex assembly	protein-DNA_complex_assembly
+ENSMUSG00000020679	Hnf1b	GO:0065004	protein-DNA complex assembly	protein-DNA_complex_assembly

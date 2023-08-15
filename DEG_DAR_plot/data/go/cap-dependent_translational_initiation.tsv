@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000020743	Mif4gd	GO:0002191	cap-dependent translational initiation	cap-dependent_translational_initiation
+ENSMUSG00000016554	Eif3d	GO:0002191	cap-dependent translational initiation	cap-dependent_translational_initiation
+ENSMUSG00000022774	Ncbp2	GO:0002191	cap-dependent translational initiation	cap-dependent_translational_initiation
+ENSMUSG00000028330	Ncbp1	GO:0002191	cap-dependent translational initiation	cap-dependent_translational_initiation
+ENSMUSG00000004642	Slbp	GO:0002191	cap-dependent translational initiation	cap-dependent_translational_initiation

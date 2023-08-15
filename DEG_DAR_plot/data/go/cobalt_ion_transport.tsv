@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000021629	Slc30a5	GO:0006824	cobalt ion transport	cobalt_ion_transport
+ENSMUSG00000061273	Mmgt1	GO:0006824	cobalt ion transport	cobalt_ion_transport
+ENSMUSG00000024682	Cblif	GO:0006824	cobalt ion transport	cobalt_ion_transport
+ENSMUSG00000053897	Slc39a8	GO:0006824	cobalt ion transport	cobalt_ion_transport
+ENSMUSG00000048497	Mmgt2	GO:0006824	cobalt ion transport	cobalt_ion_transport
+ENSMUSG00000023030	Slc11a2	GO:0006824	cobalt ion transport	cobalt_ion_transport
+ENSMUSG00000034591	Slc41a2	GO:0006824	cobalt ion transport	cobalt_ion_transport
+ENSMUSG00000020432	Tcn2	GO:0006824	cobalt ion transport	cobalt_ion_transport

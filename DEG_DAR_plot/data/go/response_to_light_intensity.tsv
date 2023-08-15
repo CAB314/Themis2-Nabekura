@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000064360	mt-Nd3	GO:0009642	response to light intensity	response_to_light_intensity
+ENSMUSG00000039419	Cntnap2	GO:0009642	response to light intensity	response_to_light_intensity
+ENSMUSG00000061731	Ext1	GO:0009642	response to light intensity	response_to_light_intensity
+ENSMUSG00000035681	Kcnc2	GO:0009642	response to light intensity	response_to_light_intensity
+ENSMUSG00000009108	Gnat2	GO:0009642	response to light intensity	response_to_light_intensity
+ENSMUSG00000058975	Kcnc1	GO:0009642	response to light intensity	response_to_light_intensity
+ENSMUSG00000034837	Gnat1	GO:0009642	response to light intensity	response_to_light_intensity
+ENSMUSG00000027187	Cat	GO:0009642	response to light intensity	response_to_light_intensity

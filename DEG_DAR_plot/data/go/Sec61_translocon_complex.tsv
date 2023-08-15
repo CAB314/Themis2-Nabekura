@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000002014	Ssr4	GO:0005784	Sec61 translocon complex	Sec61_translocon_complex
+ENSMUSG00000030082	Sec61a1	GO:0005784	Sec61 translocon complex	Sec61_translocon_complex
+ENSMUSG00000030654	Arl6ip1	GO:0005784	Sec61 translocon complex	Sec61_translocon_complex
+ENSMUSG00000053317	Sec61b	GO:0005784	Sec61 translocon complex	Sec61_translocon_complex
+ENSMUSG00000025816	Sec61a2	GO:0005784	Sec61 translocon complex	Sec61_translocon_complex

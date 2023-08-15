@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000012396	Nanog	GO:0043697	cell dedifferentiation	cell_dedifferentiation
+ENSMUSG00000021255	Esrrb	GO:0043697	cell dedifferentiation	cell_dedifferentiation
+ENSMUSG00000040274	Cdk6	GO:0043697	cell dedifferentiation	cell_dedifferentiation
+ENSMUSG00000029697	Fezf1	GO:0043697	cell dedifferentiation	cell_dedifferentiation
+ENSMUSG00000021743	Fezf2	GO:0043697	cell dedifferentiation	cell_dedifferentiation

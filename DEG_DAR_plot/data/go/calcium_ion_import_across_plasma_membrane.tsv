@@ -1,0 +1,18 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000015968	Cacna1d	GO:0098703	calcium ion import across plasma membrane	calcium_ion_import_across_plasma_membrane
+ENSMUSG00000030523	Trpm1	GO:0098703	calcium ion import across plasma membrane	calcium_ion_import_across_plasma_membrane
+ENSMUSG00000034656	Cacna1a	GO:0098703	calcium ion import across plasma membrane	calcium_ion_import_across_plasma_membrane
+ENSMUSG00000041771	Slc24a4	GO:0098703	calcium ion import across plasma membrane	calcium_ion_import_across_plasma_membrane
+ENSMUSG00000035873	Pawr	GO:0098703	calcium ion import across plasma membrane	calcium_ion_import_across_plasma_membrane
+ENSMUSG00000079055	Slc8a3	GO:0098703	calcium ion import across plasma membrane	calcium_ion_import_across_plasma_membrane
+ENSMUSG00000079157	Nalf1	GO:0098703	calcium ion import across plasma membrane	calcium_ion_import_across_plasma_membrane
+ENSMUSG00000071719	Nalf2	GO:0098703	calcium ion import across plasma membrane	calcium_ion_import_across_plasma_membrane
+ENSMUSG00000037996	Slc24a2	GO:0098703	calcium ion import across plasma membrane	calcium_ion_import_across_plasma_membrane
+ENSMUSG00000009292	Trpm2	GO:0098703	calcium ion import across plasma membrane	calcium_ion_import_across_plasma_membrane
+ENSMUSG00000051331	Cacna1c	GO:0098703	calcium ion import across plasma membrane	calcium_ion_import_across_plasma_membrane
+ENSMUSG00000026407	Cacna1s	GO:0098703	calcium ion import across plasma membrane	calcium_ion_import_across_plasma_membrane
+ENSMUSG00000005952	Trpv1	GO:0098703	calcium ion import across plasma membrane	calcium_ion_import_across_plasma_membrane
+ENSMUSG00000029868	Trpv6	GO:0098703	calcium ion import across plasma membrane	calcium_ion_import_across_plasma_membrane
+ENSMUSG00000036899	Trpv5	GO:0098703	calcium ion import across plasma membrane	calcium_ion_import_across_plasma_membrane
+ENSMUSG00000030376	Slc8a2	GO:0098703	calcium ion import across plasma membrane	calcium_ion_import_across_plasma_membrane
+ENSMUSG00000004113	Cacna1b	GO:0098703	calcium ion import across plasma membrane	calcium_ion_import_across_plasma_membrane

@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000074637	Sox2	GO:0090649	response to oxygen-glucose deprivation	response_to_oxygen-glucose_deprivation
+ENSMUSG00000026241	Nppc	GO:0090649	response to oxygen-glucose deprivation	response_to_oxygen-glucose_deprivation
+ENSMUSG00000011958	Bnip2	GO:0090649	response to oxygen-glucose deprivation	response_to_oxygen-glucose_deprivation
+ENSMUSG00000078566	Bnip3	GO:0090649	response to oxygen-glucose deprivation	response_to_oxygen-glucose_deprivation
+ENSMUSG00000026872	Zeb2	GO:0090649	response to oxygen-glucose deprivation	response_to_oxygen-glucose_deprivation

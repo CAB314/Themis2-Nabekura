@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024789	Jak2	GO:0035166	post-embryonic hemopoiesis	post-embryonic_hemopoiesis
+ENSMUSG00000003549	Ercc1	GO:0035166	post-embryonic hemopoiesis	post-embryonic_hemopoiesis
+ENSMUSG00000032114	Slc37a4	GO:0035166	post-embryonic hemopoiesis	post-embryonic_hemopoiesis
+ENSMUSG00000003032	Klf4	GO:0035166	post-embryonic hemopoiesis	post-embryonic_hemopoiesis
+ENSMUSG00000032220	Myo1e	GO:0035166	post-embryonic hemopoiesis	post-embryonic_hemopoiesis

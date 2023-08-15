@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000020063	Sirt1	GO:0090335	regulation of brown fat cell differentiation	regulation_of_brown_fat_cell_differentiation
+ENSMUSG00000028991	Mtor	GO:0090335	regulation of brown fat cell differentiation	regulation_of_brown_fat_cell_differentiation
+ENSMUSG00000039384	Dusp10	GO:0090335	regulation of brown fat cell differentiation	regulation_of_brown_fat_cell_differentiation
+ENSMUSG00000055932	Fto	GO:0090335	regulation of brown fat cell differentiation	regulation_of_brown_fat_cell_differentiation
+ENSMUSG00000059201	Lep	GO:0090335	regulation of brown fat cell differentiation	regulation_of_brown_fat_cell_differentiation

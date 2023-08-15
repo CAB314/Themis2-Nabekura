@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000059456	Ptk2b	GO:0004972	NMDA glutamate receptor activity	NMDA_glutamate_receptor_activity
+ENSMUSG00000059003	Grin2a	GO:0004972	NMDA glutamate receptor activity	NMDA_glutamate_receptor_activity
+ENSMUSG00000030209	Grin2b	GO:0004972	NMDA glutamate receptor activity	NMDA_glutamate_receptor_activity
+ENSMUSG00000035745	Grin3b	GO:0004972	NMDA glutamate receptor activity	NMDA_glutamate_receptor_activity
+ENSMUSG00000039579	Grin3a	GO:0004972	NMDA glutamate receptor activity	NMDA_glutamate_receptor_activity
+ENSMUSG00000026959	Grin1	GO:0004972	NMDA glutamate receptor activity	NMDA_glutamate_receptor_activity
+ENSMUSG00000002771	Grin2d	GO:0004972	NMDA glutamate receptor activity	NMDA_glutamate_receptor_activity
+ENSMUSG00000020734	Grin2c	GO:0004972	NMDA glutamate receptor activity	NMDA_glutamate_receptor_activity

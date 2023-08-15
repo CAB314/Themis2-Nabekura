@@ -1,0 +1,12 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000036110	Slc17a2	GO:0015747	urate transport	urate_transport
+ENSMUSG00000036083	Slc17a3	GO:0015747	urate transport	urate_transport
+ENSMUSG00000021335	Slc17a1	GO:0015747	urate transport	urate_transport
+ENSMUSG00000021336	Slc17a4	GO:0015747	urate transport	urate_transport
+ENSMUSG00000032849	Abcc4	GO:0015747	urate transport	urate_transport
+ENSMUSG00000029299	Abcg3	GO:0015747	urate transport	urate_transport
+ENSMUSG00000061742	Slc22a12	GO:0015747	urate transport	urate_transport
+ENSMUSG00000029802	Abcg2	GO:0015747	urate transport	urate_transport
+ENSMUSG00000030963	Umod	GO:0015747	urate transport	urate_transport
+ENSMUSG00000074028	Slc22a13	GO:0015747	urate transport	urate_transport
+ENSMUSG00000005107	Slc2a9	GO:0015747	urate transport	urate_transport

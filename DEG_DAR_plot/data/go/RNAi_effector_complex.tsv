@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000065606	Mir16-2	GO:0031332	RNAi effector complex	RNAi_effector_complex
+ENSMUSG00000092995	Mir16-1	GO:0031332	RNAi effector complex	RNAi_effector_complex
+ENSMUSG00000065402	Mir122	GO:0031332	RNAi effector complex	RNAi_effector_complex
+ENSMUSG00000070084	Mir486	GO:0031332	RNAi effector complex	RNAi_effector_complex
+ENSMUSG00000065401	Mir144	GO:0031332	RNAi effector complex	RNAi_effector_complex
+ENSMUSG00000118991	Mir451b	GO:0031332	RNAi effector complex	RNAi_effector_complex
+ENSMUSG00000118889	Mir451a	GO:0031332	RNAi effector complex	RNAi_effector_complex

@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000052926	Rnaseh2a	GO:0004523	RNA-DNA hybrid ribonuclease activity	RNA-DNA_hybrid_ribonuclease_activity
+ENSMUSG00000024742	Fen1	GO:0004523	RNA-DNA hybrid ribonuclease activity	RNA-DNA_hybrid_ribonuclease_activity
+ENSMUSG00000020630	Rnaseh1	GO:0004523	RNA-DNA hybrid ribonuclease activity	RNA-DNA_hybrid_ribonuclease_activity
+ENSMUSG00000075592	Nynrin	GO:0004523	RNA-DNA hybrid ribonuclease activity	RNA-DNA_hybrid_ribonuclease_activity
+ENSMUSG00000010751	Tnfrsf22	GO:0004523	RNA-DNA hybrid ribonuclease activity	RNA-DNA_hybrid_ribonuclease_activity

@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000020062	Slc5a8	GO:0015705	iodide transport	iodide_transport
+ENSMUSG00000053469	Tg	GO:0015705	iodide transport	iodide_transport
+ENSMUSG00000020651	Slc26a4	GO:0015705	iodide transport	iodide_transport
+ENSMUSG00000000792	Slc5a5	GO:0015705	iodide transport	iodide_transport
+ENSMUSG00000040569	Slc26a7	GO:0015705	iodide transport	iodide_transport
+ENSMUSG00000031075	Ano1	GO:0015705	iodide transport	iodide_transport
+ENSMUSG00000009545	Kcnq1	GO:0015705	iodide transport	iodide_transport

@@ -1,0 +1,13 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000038646	Ramac	GO:0005845	mRNA cap binding complex	mRNA_cap_binding_complex
+ENSMUSG00000036698	Ago2	GO:0005845	mRNA cap binding complex	mRNA_cap_binding_complex
+ENSMUSG00000074895	Eif4e1b	GO:0005845	mRNA cap binding complex	mRNA_cap_binding_complex
+ENSMUSG00000026254	Eif4e2	GO:0005845	mRNA cap binding complex	mRNA_cap_binding_complex
+ENSMUSG00000028156	Eif4e	GO:0005845	mRNA cap binding complex	mRNA_cap_binding_complex
+ENSMUSG00000093661	Eif4e3	GO:0005845	mRNA cap binding complex	mRNA_cap_binding_complex
+ENSMUSG00000022774	Ncbp2	GO:0005845	mRNA cap binding complex	mRNA_cap_binding_complex
+ENSMUSG00000009535	Rnmt	GO:0005845	mRNA cap binding complex	mRNA_cap_binding_complex
+ENSMUSG00000074826	Gm10767	GO:0005845	mRNA cap binding complex	mRNA_cap_binding_complex
+ENSMUSG00000030447	Cyfip1	GO:0005845	mRNA cap binding complex	mRNA_cap_binding_complex
+ENSMUSG00000028330	Ncbp1	GO:0005845	mRNA cap binding complex	mRNA_cap_binding_complex
+ENSMUSG00000020783	Ncbp3	GO:0005845	mRNA cap binding complex	mRNA_cap_binding_complex

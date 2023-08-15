@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000040966	Slc22a2	GO:0015847	putrescine transport	putrescine_transport
+ENSMUSG00000023829	Slc22a1	GO:0015847	putrescine transport	putrescine_transport
+ENSMUSG00000069855	Slc47a2	GO:0015847	putrescine transport	putrescine_transport
+ENSMUSG00000010122	Slc47a1	GO:0015847	putrescine transport	putrescine_transport
+ENSMUSG00000022533	Atp13a3	GO:0015847	putrescine transport	putrescine_transport

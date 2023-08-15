@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000017404	Rpl19	GO:1990932	5.8S rRNA binding	5.8S_rRNA_binding
+ENSMUSG00000006333	Rps9	GO:1990932	5.8S rRNA binding	5.8S_rRNA_binding
+ENSMUSG00000003970	Rpl8	GO:1990932	5.8S rRNA binding	5.8S_rRNA_binding
+ENSMUSG00000090862	Rps13	GO:1990932	5.8S rRNA binding	5.8S_rRNA_binding
+ENSMUSG00000029614	Rpl6	GO:1990932	5.8S rRNA binding	5.8S_rRNA_binding

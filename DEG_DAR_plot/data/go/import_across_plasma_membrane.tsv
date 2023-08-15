@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000023995	Tspo2	GO:0098739	import across plasma membrane	import_across_plasma_membrane
+ENSMUSG00000022094	Slc39a14	GO:0098739	import across plasma membrane	import_across_plasma_membrane
+ENSMUSG00000030096	Slc6a6	GO:0098739	import across plasma membrane	import_across_plasma_membrane
+ENSMUSG00000025726	Slc28a1	GO:0098739	import across plasma membrane	import_across_plasma_membrane
+ENSMUSG00000020733	Nherf1	GO:0098739	import across plasma membrane	import_across_plasma_membrane

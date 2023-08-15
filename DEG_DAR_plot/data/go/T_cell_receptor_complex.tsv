@@ -1,0 +1,15 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000030775	Trat1	GO:0042101	T cell receptor complex	T_cell_receptor_complex
+ENSMUSG00000022636	Alcam	GO:0042101	T cell receptor complex	T_cell_receptor_complex
+ENSMUSG00000074272	Ceacam1	GO:0042101	T cell receptor complex	T_cell_receptor_complex
+ENSMUSG00000054385	Ceacam2	GO:0042101	T cell receptor complex	T_cell_receptor_complex
+ENSMUSG00000021457	Syk	GO:0042101	T cell receptor complex	T_cell_receptor_complex
+ENSMUSG00000024670	Cd6	GO:0042101	T cell receptor complex	T_cell_receptor_complex
+ENSMUSG00000076928	Trac	GO:0042101	T cell receptor complex	T_cell_receptor_complex
+ENSMUSG00000076755	Trgv1	GO:0042101	T cell receptor complex	T_cell_receptor_complex
+ENSMUSG00000032094	Cd3d	GO:0042101	T cell receptor complex	T_cell_receptor_complex
+ENSMUSG00000032093	Cd3e	GO:0042101	T cell receptor complex	T_cell_receptor_complex
+ENSMUSG00000005763	Cd247	GO:0042101	T cell receptor complex	T_cell_receptor_complex
+ENSMUSG00000026117	Zap70	GO:0042101	T cell receptor complex	T_cell_receptor_complex
+ENSMUSG00000026786	Apbb1ip	GO:0042101	T cell receptor complex	T_cell_receptor_complex
+ENSMUSG00000057058	Skap1	GO:0042101	T cell receptor complex	T_cell_receptor_complex

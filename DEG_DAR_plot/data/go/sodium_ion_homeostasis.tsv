@@ -1,0 +1,14 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000031616	Ednra	GO:0055078	sodium ion homeostasis	sodium_ion_homeostasis
+ENSMUSG00000022122	Ednrb	GO:0055078	sodium ion homeostasis	sodium_ion_homeostasis
+ENSMUSG00000022435	Upk3a	GO:0055078	sodium ion homeostasis	sodium_ion_homeostasis
+ENSMUSG00000037994	Slc9b2	GO:0055078	sodium ion homeostasis	sodium_ion_homeostasis
+ENSMUSG00000061731	Ext1	GO:0055078	sodium ion homeostasis	sodium_ion_homeostasis
+ENSMUSG00000031766	Slc12a3	GO:0055078	sodium ion homeostasis	sodium_ion_homeostasis
+ENSMUSG00000030963	Umod	GO:0055078	sodium ion homeostasis	sodium_ion_homeostasis
+ENSMUSG00000000216	Scnn1g	GO:0055078	sodium ion homeostasis	sodium_ion_homeostasis
+ENSMUSG00000030873	Scnn1b	GO:0055078	sodium ion homeostasis	sodium_ion_homeostasis
+ENSMUSG00000030340	Scnn1a	GO:0055078	sodium ion homeostasis	sodium_ion_homeostasis
+ENSMUSG00000038537	Mc3r	GO:0055078	sodium ion homeostasis	sodium_ion_homeostasis
+ENSMUSG00000027198	Ext2	GO:0055078	sodium ion homeostasis	sodium_ion_homeostasis
+ENSMUSG00000034810	Scn7a	GO:0055078	sodium ion homeostasis	sodium_ion_homeostasis

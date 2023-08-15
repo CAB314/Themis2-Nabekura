@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024590	Lmnb1	GO:0090435	protein localization to nuclear envelope	protein_localization_to_nuclear_envelope
+ENSMUSG00000026466	Tor1aip1	GO:0090435	protein localization to nuclear envelope	protein_localization_to_nuclear_envelope
+ENSMUSG00000050565	Tor1aip2	GO:0090435	protein localization to nuclear envelope	protein_localization_to_nuclear_envelope
+ENSMUSG00000044700	Tmem201	GO:0090435	protein localization to nuclear envelope	protein_localization_to_nuclear_envelope
+ENSMUSG00000040250	Ints13	GO:0090435	protein localization to nuclear envelope	protein_localization_to_nuclear_envelope
+ENSMUSG00000028063	Lmna	GO:0090435	protein localization to nuclear envelope	protein_localization_to_nuclear_envelope
+ENSMUSG00000062075	Lmnb2	GO:0090435	protein localization to nuclear envelope	protein_localization_to_nuclear_envelope
+ENSMUSG00000030867	Plk1	GO:0090435	protein localization to nuclear envelope	protein_localization_to_nuclear_envelope

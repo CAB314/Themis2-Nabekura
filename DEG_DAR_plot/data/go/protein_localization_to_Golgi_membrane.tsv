@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000038352	Arl5c	GO:1903292	protein localization to Golgi membrane	protein_localization_to_Golgi_membrane
+ENSMUSG00000017418	Arl5b	GO:1903292	protein localization to Golgi membrane	protein_localization_to_Golgi_membrane
+ENSMUSG00000032549	Rab6b	GO:1903292	protein localization to Golgi membrane	protein_localization_to_Golgi_membrane
+ENSMUSG00000030704	Rab6a	GO:1903292	protein localization to Golgi membrane	protein_localization_to_Golgi_membrane
+ENSMUSG00000036093	Arl5a	GO:1903292	protein localization to Golgi membrane	protein_localization_to_Golgi_membrane

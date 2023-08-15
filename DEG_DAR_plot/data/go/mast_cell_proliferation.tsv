@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000004043	Stat5a	GO:0070662	mast cell proliferation	mast_cell_proliferation
+ENSMUSG00000005672	Kit	GO:0070662	mast cell proliferation	mast_cell_proliferation
+ENSMUSG00000033220	Rac2	GO:0070662	mast cell proliferation	mast_cell_proliferation
+ENSMUSG00000018914	Il3	GO:0070662	mast cell proliferation	mast_cell_proliferation
+ENSMUSG00000019966	Kitl	GO:0070662	mast cell proliferation	mast_cell_proliferation
+ENSMUSG00000020716	Nf1	GO:0070662	mast cell proliferation	mast_cell_proliferation

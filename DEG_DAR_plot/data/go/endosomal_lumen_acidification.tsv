@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000000817	Fasl	GO:0048388	endosomal lumen acidification	endosomal_lumen_acidification
+ENSMUSG00000040904	Gm21988	GO:0048388	endosomal lumen acidification	endosomal_lumen_acidification
+ENSMUSG00000093989	Rnasek	GO:0048388	endosomal lumen acidification	endosomal_lumen_acidification
+ENSMUSG00000042797	Aqp11	GO:0048388	endosomal lumen acidification	endosomal_lumen_acidification
+ENSMUSG00000026411	Tmem9	GO:0048388	endosomal lumen acidification	endosomal_lumen_acidification

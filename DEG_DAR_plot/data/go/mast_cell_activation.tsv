@@ -1,0 +1,11 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000005125	Ndrg1	GO:0045576	mast cell activation	mast_cell_activation
+ENSMUSG00000112023	Lilrb4b	GO:0045576	mast cell activation	mast_cell_activation
+ENSMUSG00000039005	Tlr4	GO:0045576	mast cell activation	mast_cell_activation
+ENSMUSG00000002699	Lcp2	GO:0045576	mast cell activation	mast_cell_activation
+ENSMUSG00000028191	Bcl10	GO:0045576	mast cell activation	mast_cell_activation
+ENSMUSG00000021194	Chga	GO:0045576	mast cell activation	mast_cell_activation
+ENSMUSG00000058715	Fcer1g	GO:0045576	mast cell activation	mast_cell_activation
+ENSMUSG00000015355	Cd48	GO:0045576	mast cell activation	mast_cell_activation
+ENSMUSG00000074109	Mrgprx2	GO:0045576	mast cell activation	mast_cell_activation
+ENSMUSG00000029204	Rhoh	GO:0045576	mast cell activation	mast_cell_activation

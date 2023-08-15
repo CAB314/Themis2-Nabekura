@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000021466	Ptch1	GO:0009957	epidermal cell fate specification	epidermal_cell_fate_specification
+ENSMUSG00000076050	Mir450b	GO:0009957	epidermal cell fate specification	epidermal_cell_fate_specification
+ENSMUSG00000028681	Ptch2	GO:0009957	epidermal cell fate specification	epidermal_cell_fate_specification
+ENSMUSG00000039191	Rbpj	GO:0009957	epidermal cell fate specification	epidermal_cell_fate_specification
+ENSMUSG00000026923	Notch1	GO:0009957	epidermal cell fate specification	epidermal_cell_fate_specification

@@ -1,0 +1,11 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000022575	Gsdmd	GO:0099103	channel activator activity	channel_activator_activity
+ENSMUSG00000022156	Gzme	GO:0099103	channel activator activity	channel_activator_activity
+ENSMUSG00000059256	Gzmd	GO:0099103	channel activator activity	channel_activator_activity
+ENSMUSG00000040284	Gzmg	GO:0099103	channel activator activity	channel_activator_activity
+ENSMUSG00000015443	Gzmn	GO:0099103	channel activator activity	channel_activator_activity
+ENSMUSG00000015441	Gzmf	GO:0099103	channel activator activity	channel_activator_activity
+ENSMUSG00000079186	Gzmc	GO:0099103	channel activator activity	channel_activator_activity
+ENSMUSG00000015437	Gzmb	GO:0099103	channel activator activity	channel_activator_activity
+ENSMUSG00000030987	Stim1	GO:0099103	channel activator activity	channel_activator_activity
+ENSMUSG00000020733	Nherf1	GO:0099103	channel activator activity	channel_activator_activity

@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000025076	Casp7	GO:0070227	lymphocyte apoptotic process	lymphocyte_apoptotic_process
+ENSMUSG00000029468	P2rx7	GO:0070227	lymphocyte apoptotic process	lymphocyte_apoptotic_process
+ENSMUSG00000024778	Fas	GO:0070227	lymphocyte apoptotic process	lymphocyte_apoptotic_process
+ENSMUSG00000057329	Bcl2	GO:0070227	lymphocyte apoptotic process	lymphocyte_apoptotic_process
+ENSMUSG00000002083	Bbc3	GO:0070227	lymphocyte apoptotic process	lymphocyte_apoptotic_process
+ENSMUSG00000027381	Bcl2l11	GO:0070227	lymphocyte apoptotic process	lymphocyte_apoptotic_process

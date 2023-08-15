@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000037085	Trmt12	GO:0008175	tRNA methyltransferase activity	tRNA_methyltransferase_activity
+ENSMUSG00000047583	Tyw3	GO:0008175	tRNA methyltransferase activity	tRNA_methyltransferase_activity
+ENSMUSG00000037525	Bcdin3d	GO:0008175	tRNA methyltransferase activity	tRNA_methyltransferase_activity
+ENSMUSG00000031171	Ftsj1	GO:0008175	tRNA methyltransferase activity	tRNA_methyltransferase_activity
+ENSMUSG00000026723	Trdmt1	GO:0008175	tRNA methyltransferase activity	tRNA_methyltransferase_activity
+ENSMUSG00000039620	Trmt9b	GO:0008175	tRNA methyltransferase activity	tRNA_methyltransferase_activity
+ENSMUSG00000033439	Trmt13	GO:0008175	tRNA methyltransferase activity	tRNA_methyltransferase_activity
+ENSMUSG00000074890	Lcmt2	GO:0008175	tRNA methyltransferase activity	tRNA_methyltransferase_activity

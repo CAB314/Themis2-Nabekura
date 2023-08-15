@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000033792	Atp7a	GO:0071281	cellular response to iron ion	cellular_response_to_iron_ion
+ENSMUSG00000006611	Hfe	GO:0071281	cellular response to iron ion	cellular_response_to_iron_ion
+ENSMUSG00000039004	Bmp6	GO:0071281	cellular response to iron ion	cellular_response_to_iron_ion
+ENSMUSG00000022797	Tfrc	GO:0071281	cellular response to iron ion	cellular_response_to_iron_ion
+ENSMUSG00000032554	Trf	GO:0071281	cellular response to iron ion	cellular_response_to_iron_ion
+ENSMUSG00000060802	B2m	GO:0071281	cellular response to iron ion	cellular_response_to_iron_ion
+ENSMUSG00000029716	Tfr2	GO:0071281	cellular response to iron ion	cellular_response_to_iron_ion

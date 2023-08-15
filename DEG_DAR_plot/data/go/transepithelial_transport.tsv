@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000029299	Abcg3	GO:0070633	transepithelial transport	transepithelial_transport
+ENSMUSG00000022865	Cxadr	GO:0070633	transepithelial transport	transepithelial_transport
+ENSMUSG00000025194	Abcc2	GO:0070633	transepithelial transport	transepithelial_transport
+ENSMUSG00000040584	Abcb1a	GO:0070633	transepithelial transport	transepithelial_transport
+ENSMUSG00000028970	Abcb1b	GO:0070633	transepithelial transport	transepithelial_transport
+ENSMUSG00000038148	Cldn16	GO:0070633	transepithelial transport	transepithelial_transport
+ENSMUSG00000023088	Abcc1	GO:0070633	transepithelial transport	transepithelial_transport
+ENSMUSG00000023259	Slc26a6	GO:0070633	transepithelial transport	transepithelial_transport

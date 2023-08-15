@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000008932	Slc1a7	GO:0042886	amide transport	amide_transport
+ENSMUSG00000010122	Slc47a1	GO:0042886	amide transport	amide_transport
+ENSMUSG00000029802	Abcg2	GO:0042886	amide transport	amide_transport
+ENSMUSG00000023088	Abcc1	GO:0042886	amide transport	amide_transport
+ENSMUSG00000018459	Slc13a3	GO:0042886	amide transport	amide_transport

@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000006369	Fbln1	GO:0072378	blood coagulation, fibrin clot formation	blood_coagulation,_fibrin_clot_formation
+ENSMUSG00000033860	Fgg	GO:0072378	blood coagulation, fibrin clot formation	blood_coagulation,_fibrin_clot_formation
+ENSMUSG00000028001	Fga	GO:0072378	blood coagulation, fibrin clot formation	blood_coagulation,_fibrin_clot_formation
+ENSMUSG00000033831	Fgb	GO:0072378	blood coagulation, fibrin clot formation	blood_coagulation,_fibrin_clot_formation
+ENSMUSG00000039109	F13a1	GO:0072378	blood coagulation, fibrin clot formation	blood_coagulation,_fibrin_clot_formation
+ENSMUSG00000020689	Itgb3	GO:0072378	blood coagulation, fibrin clot formation	blood_coagulation,_fibrin_clot_formation
+ENSMUSG00000026368	F13b	GO:0072378	blood coagulation, fibrin clot formation	blood_coagulation,_fibrin_clot_formation

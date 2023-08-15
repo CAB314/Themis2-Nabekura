@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000062312	Erbb2	GO:0038135	ERBB2-ERBB4 signaling pathway	ERBB2-ERBB4_signaling_pathway
+ENSMUSG00000024486	Hbegf	GO:0038135	ERBB2-ERBB4 signaling pathway	ERBB2-ERBB4_signaling_pathway
+ENSMUSG00000062991	Nrg1	GO:0038135	ERBB2-ERBB4 signaling pathway	ERBB2-ERBB4_signaling_pathway
+ENSMUSG00000062209	Erbb4	GO:0038135	ERBB2-ERBB4 signaling pathway	ERBB2-ERBB4_signaling_pathway
+ENSMUSG00000029377	Ereg	GO:0038135	ERBB2-ERBB4 signaling pathway	ERBB2-ERBB4_signaling_pathway

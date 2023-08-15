@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000055301	Adh7	GO:0044282	small molecule catabolic process	small_molecule_catabolic_process
+ENSMUSG00000074207	Adh1	GO:0044282	small molecule catabolic process	small_molecule_catabolic_process
+ENSMUSG00000053054	Adh6a	GO:0044282	small molecule catabolic process	small_molecule_catabolic_process
+ENSMUSG00000074206	Adh6b	GO:0044282	small molecule catabolic process	small_molecule_catabolic_process
+ENSMUSG00000037797	Adh4	GO:0044282	small molecule catabolic process	small_molecule_catabolic_process
+ENSMUSG00000028138	Adh5	GO:0044282	small molecule catabolic process	small_molecule_catabolic_process
+ENSMUSG00000027227	Sord	GO:0044282	small molecule catabolic process	small_molecule_catabolic_process

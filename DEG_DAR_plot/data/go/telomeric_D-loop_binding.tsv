@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024174	Pot1b	GO:0061821	telomeric D-loop binding	telomeric_D-loop_binding
+ENSMUSG00000031583	Wrn	GO:0061821	telomeric D-loop binding	telomeric_D-loop_binding
+ENSMUSG00000029676	Pot1a	GO:0061821	telomeric D-loop binding	telomeric_D-loop_binding
+ENSMUSG00000030528	Blm	GO:0061821	telomeric D-loop binding	telomeric_D-loop_binding
+ENSMUSG00000033762	Recql4	GO:0061821	telomeric D-loop binding	telomeric_D-loop_binding

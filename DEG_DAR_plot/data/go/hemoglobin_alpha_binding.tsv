@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000073940	Hbb-bt	GO:0031721	hemoglobin alpha binding	hemoglobin_alpha_binding
+ENSMUSG00000052305	Hbb-bs	GO:0031721	hemoglobin alpha binding	hemoglobin_alpha_binding
+ENSMUSG00000078621	Hbb-bh2	GO:0031721	hemoglobin alpha binding	hemoglobin_alpha_binding
+ENSMUSG00000052217	Hbb-bh1	GO:0031721	hemoglobin alpha binding	hemoglobin_alpha_binding
+ENSMUSG00000052187	Hbb-y	GO:0031721	hemoglobin alpha binding	hemoglobin_alpha_binding

@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000020689	Itgb3	GO:0019960	C-X3-C chemokine binding	C-X3-C_chemokine_binding
+ENSMUSG00000025809	Itgb1	GO:0019960	C-X3-C chemokine binding	C-X3-C_chemokine_binding
+ENSMUSG00000052336	Cx3cr1	GO:0019960	C-X3-C chemokine binding	C-X3-C_chemokine_binding
+ENSMUSG00000027009	Itga4	GO:0019960	C-X3-C chemokine binding	C-X3-C_chemokine_binding
+ENSMUSG00000027087	Itgav	GO:0019960	C-X3-C chemokine binding	C-X3-C_chemokine_binding

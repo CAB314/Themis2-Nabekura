@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000025383	Il23a	GO:0043382	positive regulation of memory T cell differentiation	positive_regulation_of_memory_T_cell_differentiation
+ENSMUSG00000026700	Tnfsf4	GO:0043382	positive regulation of memory T cell differentiation	positive_regulation_of_memory_T_cell_differentiation
+ENSMUSG00000016493	Cd46	GO:0043382	positive regulation of memory T cell differentiation	positive_regulation_of_memory_T_cell_differentiation
+ENSMUSG00000036322	H2-Ea	GO:0043382	positive regulation of memory T cell differentiation	positive_regulation_of_memory_T_cell_differentiation
+ENSMUSG00000027513	Pck1	GO:0043382	positive regulation of memory T cell differentiation	positive_regulation_of_memory_T_cell_differentiation

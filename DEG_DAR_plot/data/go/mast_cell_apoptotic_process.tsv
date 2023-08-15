@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000004043	Stat5a	GO:0033024	mast cell apoptotic process	mast_cell_apoptotic_process
+ENSMUSG00000018914	Il3	GO:0033024	mast cell apoptotic process	mast_cell_apoptotic_process
+ENSMUSG00000058715	Fcer1g	GO:0033024	mast cell apoptotic process	mast_cell_apoptotic_process
+ENSMUSG00000019966	Kitl	GO:0033024	mast cell apoptotic process	mast_cell_apoptotic_process
+ENSMUSG00000020716	Nf1	GO:0033024	mast cell apoptotic process	mast_cell_apoptotic_process

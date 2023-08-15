@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000033855	Ston1	GO:0006929	substrate-dependent cell migration	substrate-dependent_cell_migration
+ENSMUSG00000032911	Cspg4	GO:0006929	substrate-dependent cell migration	substrate-dependent_cell_migration
+ENSMUSG00000015533	Itga2	GO:0006929	substrate-dependent cell migration	substrate-dependent_cell_migration
+ENSMUSG00000024219	Anks1	GO:0006929	substrate-dependent cell migration	substrate-dependent_cell_migration
+ENSMUSG00000022676	Snai2	GO:0006929	substrate-dependent cell migration	substrate-dependent_cell_migration
+ENSMUSG00000028661	Epha8	GO:0006929	substrate-dependent cell migration	substrate-dependent_cell_migration
+ENSMUSG00000032243	Itga11	GO:0006929	substrate-dependent cell migration	substrate-dependent_cell_migration
+ENSMUSG00000055805	Fmnl1	GO:0006929	substrate-dependent cell migration	substrate-dependent_cell_migration

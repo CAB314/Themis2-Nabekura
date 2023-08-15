@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000059336	Slc14a1	GO:0015204	urea transmembrane transporter activity	urea_transmembrane_transporter_activity
+ENSMUSG00000024552	Slc14a2	GO:0015204	urea transmembrane transporter activity	urea_transmembrane_transporter_activity
+ENSMUSG00000032204	Aqp9	GO:0015204	urea transmembrane transporter activity	urea_transmembrane_transporter_activity
+ENSMUSG00000028427	Aqp7	GO:0015204	urea transmembrane transporter activity	urea_transmembrane_transporter_activity
+ENSMUSG00000028435	Aqp3	GO:0015204	urea transmembrane transporter activity	urea_transmembrane_transporter_activity

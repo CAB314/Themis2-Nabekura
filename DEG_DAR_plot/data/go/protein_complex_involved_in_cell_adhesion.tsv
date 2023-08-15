@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000031990	Jam3	GO:0098636	protein complex involved in cell adhesion	protein_complex_involved_in_cell_adhesion
+ENSMUSG00000026012	Cd28	GO:0098636	protein complex involved in cell adhesion	protein_complex_involved_in_cell_adhesion
+ENSMUSG00000026011	Ctla4	GO:0098636	protein complex involved in cell adhesion	protein_complex_involved_in_cell_adhesion
+ENSMUSG00000053062	Jam2	GO:0098636	protein complex involved in cell adhesion	protein_complex_involved_in_cell_adhesion
+ENSMUSG00000075122	Cd80	GO:0098636	protein complex involved in cell adhesion	protein_complex_involved_in_cell_adhesion

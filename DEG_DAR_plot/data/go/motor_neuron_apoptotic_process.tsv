@@ -1,0 +1,19 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024935	Slc1a1	GO:0097049	motor neuron apoptotic process	motor_neuron_apoptotic_process
+ENSMUSG00000024778	Fas	GO:0097049	motor neuron apoptotic process	motor_neuron_apoptotic_process
+ENSMUSG00000022055	Nefl	GO:0097049	motor neuron apoptotic process	motor_neuron_apoptotic_process
+ENSMUSG00000024290	Rock1	GO:0097049	motor neuron apoptotic process	motor_neuron_apoptotic_process
+ENSMUSG00000018166	Erbb3	GO:0097049	motor neuron apoptotic process	motor_neuron_apoptotic_process
+ENSMUSG00000041936	Agrn	GO:0097049	motor neuron apoptotic process	motor_neuron_apoptotic_process
+ENSMUSG00000033396	Spg11	GO:0097049	motor neuron apoptotic process	motor_neuron_apoptotic_process
+ENSMUSG00000020262	Adarb1	GO:0097049	motor neuron apoptotic process	motor_neuron_apoptotic_process
+ENSMUSG00000027104	Atf2	GO:0097049	motor neuron apoptotic process	motor_neuron_apoptotic_process
+ENSMUSG00000057329	Bcl2	GO:0097049	motor neuron apoptotic process	motor_neuron_apoptotic_process
+ENSMUSG00000057280	Musk	GO:0097049	motor neuron apoptotic process	motor_neuron_apoptotic_process
+ENSMUSG00000028444	Cntfr	GO:0097049	motor neuron apoptotic process	motor_neuron_apoptotic_process
+ENSMUSG00000007815	Rhoa	GO:0097049	motor neuron apoptotic process	motor_neuron_apoptotic_process
+ENSMUSG00000020128	Vps54	GO:0097049	motor neuron apoptotic process	motor_neuron_apoptotic_process
+ENSMUSG00000037613	Tnfrsf23	GO:0097049	motor neuron apoptotic process	motor_neuron_apoptotic_process
+ENSMUSG00000031077	Fadd	GO:0097049	motor neuron apoptotic process	motor_neuron_apoptotic_process
+ENSMUSG00000003873	Bax	GO:0097049	motor neuron apoptotic process	motor_neuron_apoptotic_process
+ENSMUSG00000002104	Rapsn	GO:0097049	motor neuron apoptotic process	motor_neuron_apoptotic_process

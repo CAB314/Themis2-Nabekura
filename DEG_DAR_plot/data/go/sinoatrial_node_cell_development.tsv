@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000071317	Bves	GO:0060931	sinoatrial node cell development	sinoatrial_node_cell_development
+ENSMUSG00000032419	Tbx18	GO:0060931	sinoatrial node cell development	sinoatrial_node_cell_development
+ENSMUSG00000042258	Isl1	GO:0060931	sinoatrial node cell development	sinoatrial_node_cell_development
+ENSMUSG00000027833	Shox2	GO:0060931	sinoatrial node cell development	sinoatrial_node_cell_development
+ENSMUSG00000022803	Popdc2	GO:0060931	sinoatrial node cell development	sinoatrial_node_cell_development
+ENSMUSG00000018604	Tbx3	GO:0060931	sinoatrial node cell development	sinoatrial_node_cell_development

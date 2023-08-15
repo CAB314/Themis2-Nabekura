@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000022033	Pbk	GO:0032873	negative regulation of stress-activated MAPK cascade	negative_regulation_of_stress-activated_MAPK_cascade
+ENSMUSG00000044167	Foxo1	GO:0032873	negative regulation of stress-activated MAPK cascade	negative_regulation_of_stress-activated_MAPK_cascade
+ENSMUSG00000039384	Dusp10	GO:0032873	negative regulation of stress-activated MAPK cascade	negative_regulation_of_stress-activated_MAPK_cascade
+ENSMUSG00000001517	Foxm1	GO:0032873	negative regulation of stress-activated MAPK cascade	negative_regulation_of_stress-activated_MAPK_cascade
+ENSMUSG00000060803	Gstp1	GO:0032873	negative regulation of stress-activated MAPK cascade	negative_regulation_of_stress-activated_MAPK_cascade
+ENSMUSG00000032604	Qars	GO:0032873	negative regulation of stress-activated MAPK cascade	negative_regulation_of_stress-activated_MAPK_cascade
+ENSMUSG00000071866	Ppia	GO:0032873	negative regulation of stress-activated MAPK cascade	negative_regulation_of_stress-activated_MAPK_cascade

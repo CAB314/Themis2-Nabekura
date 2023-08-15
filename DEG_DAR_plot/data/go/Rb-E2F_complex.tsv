@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000038482	Tfdp1	GO:0035189	Rb-E2F complex	Rb-E2F_complex
+ENSMUSG00000022105	Rb1	GO:0035189	Rb-E2F complex	Rb-E2F_complex
+ENSMUSG00000027490	E2f1	GO:0035189	Rb-E2F complex	Rb-E2F_complex
+ENSMUSG00000018983	E2f2	GO:0035189	Rb-E2F complex	Rb-E2F_complex
+ENSMUSG00000034957	Cebpa	GO:0035189	Rb-E2F complex	Rb-E2F_complex

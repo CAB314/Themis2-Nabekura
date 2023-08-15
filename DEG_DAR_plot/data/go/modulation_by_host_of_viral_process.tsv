@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000020580	Rock2	GO:0044788	modulation by host of viral process	modulation_by_host_of_viral_process
+ENSMUSG00000017831	Rab5a	GO:0044788	modulation by host of viral process	modulation_by_host_of_viral_process
+ENSMUSG00000026433	Rab29	GO:0044788	modulation by host of viral process	modulation_by_host_of_viral_process
+ENSMUSG00000041720	Pi4ka	GO:0044788	modulation by host of viral process	modulation_by_host_of_viral_process
+ENSMUSG00000006699	Cdc42	GO:0044788	modulation by host of viral process	modulation_by_host_of_viral_process
+ENSMUSG00000025153	Fasn	GO:0044788	modulation by host of viral process	modulation_by_host_of_viral_process
+ENSMUSG00000036499	Eea1	GO:0044788	modulation by host of viral process	modulation_by_host_of_viral_process
+ENSMUSG00000015656	Hspa8	GO:0044788	modulation by host of viral process	modulation_by_host_of_viral_process

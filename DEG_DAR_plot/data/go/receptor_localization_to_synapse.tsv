@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024109	Nrxn1	GO:0097120	receptor localization to synapse	receptor_localization_to_synapse
+ENSMUSG00000050321	Neto1	GO:0097120	receptor localization to synapse	receptor_localization_to_synapse
+ENSMUSG00000063887	Nlgn1	GO:0097120	receptor localization to synapse	receptor_localization_to_synapse
+ENSMUSG00000042453	Reln	GO:0097120	receptor localization to synapse	receptor_localization_to_synapse
+ENSMUSG00000020886	Dlg4	GO:0097120	receptor localization to synapse	receptor_localization_to_synapse
+ENSMUSG00000020728	Cep112	GO:0097120	receptor localization to synapse	receptor_localization_to_synapse

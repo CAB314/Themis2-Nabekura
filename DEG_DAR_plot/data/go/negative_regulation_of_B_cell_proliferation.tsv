@@ -1,0 +1,18 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000057672	Pkn1	GO:0030889	negative regulation of B cell proliferation	negative_regulation_of_B_cell_proliferation
+ENSMUSG00000031628	Casp3	GO:0030889	negative regulation of B cell proliferation	negative_regulation_of_B_cell_proliferation
+ENSMUSG00000034218	Atm	GO:0030889	negative regulation of B cell proliferation	negative_regulation_of_B_cell_proliferation
+ENSMUSG00000031264	Btk	GO:0030889	negative regulation of B cell proliferation	negative_regulation_of_B_cell_proliferation
+ENSMUSG00000047139	Cd24a	GO:0030889	negative regulation of B cell proliferation	negative_regulation_of_B_cell_proliferation
+ENSMUSG00000010142	Tnfrsf13b	GO:0030889	negative regulation of B cell proliferation	negative_regulation_of_B_cell_proliferation
+ENSMUSG00000035873	Pawr	GO:0030889	negative regulation of B cell proliferation	negative_regulation_of_B_cell_proliferation
+ENSMUSG00000016529	Il10	GO:0030889	negative regulation of B cell proliferation	negative_regulation_of_B_cell_proliferation
+ENSMUSG00000040423	Rc3h1	GO:0030889	negative regulation of B cell proliferation	negative_regulation_of_B_cell_proliferation
+ENSMUSG00000023915	Tnfrsf21	GO:0030889	negative regulation of B cell proliferation	negative_regulation_of_B_cell_proliferation
+ENSMUSG00000026011	Ctla4	GO:0030889	negative regulation of B cell proliferation	negative_regulation_of_B_cell_proliferation
+ENSMUSG00000013663	Pten	GO:0030889	negative regulation of B cell proliferation	negative_regulation_of_B_cell_proliferation
+ENSMUSG00000042228	Lyn	GO:0030889	negative regulation of B cell proliferation	negative_regulation_of_B_cell_proliferation
+ENSMUSG00000044303	Cdkn2a	GO:0030889	negative regulation of B cell proliferation	negative_regulation_of_B_cell_proliferation
+ENSMUSG00000026288	Inpp5d	GO:0030889	negative regulation of B cell proliferation	negative_regulation_of_B_cell_proliferation
+ENSMUSG00000034652	Cd300a	GO:0030889	negative regulation of B cell proliferation	negative_regulation_of_B_cell_proliferation
+ENSMUSG00000030579	Tyrobp	GO:0030889	negative regulation of B cell proliferation	negative_regulation_of_B_cell_proliferation

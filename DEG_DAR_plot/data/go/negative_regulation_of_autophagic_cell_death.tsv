@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000023992	Trem2	GO:1904093	negative regulation of autophagic cell death	negative_regulation_of_autophagic_cell_death
+ENSMUSG00000024121	Atp6v0c	GO:1904093	negative regulation of autophagic cell death	negative_regulation_of_autophagic_cell_death
+ENSMUSG00000028581	Laptm5	GO:1904093	negative regulation of autophagic cell death	negative_regulation_of_autophagic_cell_death
+ENSMUSG00000038160	Atg5	GO:1904093	negative regulation of autophagic cell death	negative_regulation_of_autophagic_cell_death
+ENSMUSG00000040093	Bmf	GO:1904093	negative regulation of autophagic cell death	negative_regulation_of_autophagic_cell_death

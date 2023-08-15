@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000026235	Epha4	GO:0098883	synapse pruning	synapse_pruning
+ENSMUSG00000036905	C1qb	GO:0098883	synapse pruning	synapse_pruning
+ENSMUSG00000036896	C1qc	GO:0098883	synapse pruning	synapse_pruning
+ENSMUSG00000036887	C1qa	GO:0098883	synapse pruning	synapse_pruning
+ENSMUSG00000052336	Cx3cr1	GO:0098883	synapse pruning	synapse_pruning

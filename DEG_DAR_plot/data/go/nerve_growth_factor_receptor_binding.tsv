@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000046432	Bex3	GO:0005163	nerve growth factor receptor binding	nerve_growth_factor_receptor_binding
+ENSMUSG00000049107	Ntf3	GO:0005163	nerve growth factor receptor binding	nerve_growth_factor_receptor_binding
+ENSMUSG00000027859	Ngf	GO:0005163	nerve growth factor receptor binding	nerve_growth_factor_receptor_binding
+ENSMUSG00000048482	Bdnf	GO:0005163	nerve growth factor receptor binding	nerve_growth_factor_receptor_binding
+ENSMUSG00000074121	Ntf5	GO:0005163	nerve growth factor receptor binding	nerve_growth_factor_receptor_binding

@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000053977	Cd8a	GO:0023024	MHC class I protein complex binding	MHC_class_I_protein_complex_binding
+ENSMUSG00000038304	Cd160	GO:0023024	MHC class I protein complex binding	MHC_class_I_protein_complex_binding
+ENSMUSG00000030165	Klrd1	GO:0023024	MHC class I protein complex binding	MHC_class_I_protein_complex_binding
+ENSMUSG00000052736	Klrc2	GO:0023024	MHC class I protein complex binding	MHC_class_I_protein_complex_binding
+ENSMUSG00000030167	Klrc1	GO:0023024	MHC class I protein complex binding	MHC_class_I_protein_complex_binding
+ENSMUSG00000038213	Tapbpl	GO:0023024	MHC class I protein complex binding	MHC_class_I_protein_complex_binding

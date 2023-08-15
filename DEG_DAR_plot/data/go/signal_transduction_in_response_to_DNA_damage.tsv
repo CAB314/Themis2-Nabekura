@@ -1,0 +1,17 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000020038	Cry1	GO:0042770	signal transduction in response to DNA damage	signal_transduction_in_response_to_DNA_damage
+ENSMUSG00000059923	Grb2	GO:0042770	signal transduction in response to DNA damage	signal_transduction_in_response_to_DNA_damage
+ENSMUSG00000034218	Atm	GO:0042770	signal transduction in response to DNA damage	signal_transduction_in_response_to_DNA_damage
+ENSMUSG00000032113	Chek1	GO:0042770	signal transduction in response to DNA damage	signal_transduction_in_response_to_DNA_damage
+ENSMUSG00000053110	Yap1	GO:0042770	signal transduction in response to DNA damage	signal_transduction_in_response_to_DNA_damage
+ENSMUSG00000029521	Chek2	GO:0042770	signal transduction in response to DNA damage	signal_transduction_in_response_to_DNA_damage
+ENSMUSG00000032534	Cep63	GO:0042770	signal transduction in response to DNA damage	signal_transduction_in_response_to_DNA_damage
+ENSMUSG00000053436	Mapk14	GO:0042770	signal transduction in response to DNA damage	signal_transduction_in_response_to_DNA_damage
+ENSMUSG00000017550	Atad5	GO:0042770	signal transduction in response to DNA damage	signal_transduction_in_response_to_DNA_damage
+ENSMUSG00000090083	Rnf8	GO:0042770	signal transduction in response to DNA damage	signal_transduction_in_response_to_DNA_damage
+ENSMUSG00000022997	Wnt1	GO:0042770	signal transduction in response to DNA damage	signal_transduction_in_response_to_DNA_damage
+ENSMUSG00000004446	Bid	GO:0042770	signal transduction in response to DNA damage	signal_transduction_in_response_to_DNA_damage
+ENSMUSG00000026842	Abl1	GO:0042770	signal transduction in response to DNA damage	signal_transduction_in_response_to_DNA_damage
+ENSMUSG00000028914	Casp9	GO:0042770	signal transduction in response to DNA damage	signal_transduction_in_response_to_DNA_damage
+ENSMUSG00000036390	Gadd45a	GO:0042770	signal transduction in response to DNA damage	signal_transduction_in_response_to_DNA_damage
+ENSMUSG00000063065	Mapk3	GO:0042770	signal transduction in response to DNA damage	signal_transduction_in_response_to_DNA_damage

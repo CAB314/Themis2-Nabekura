@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000032047	Acat1	GO:0006550	isoleucine catabolic process	isoleucine_catabolic_process
+ENSMUSG00000030802	Bckdk	GO:0006550	isoleucine catabolic process	isoleucine_catabolic_process
+ENSMUSG00000025260	Hsd17b10	GO:0006550	isoleucine catabolic process	isoleucine_catabolic_process
+ENSMUSG00000030861	Acadsb	GO:0006550	isoleucine catabolic process	isoleucine_catabolic_process
+ENSMUSG00000030826	Bcat2	GO:0006550	isoleucine catabolic process	isoleucine_catabolic_process

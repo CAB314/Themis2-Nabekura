@@ -1,0 +1,10 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000000409	Lck	GO:0042492	gamma-delta T cell differentiation	gamma-delta_T_cell_differentiation
+ENSMUSG00000021457	Syk	GO:0042492	gamma-delta T cell differentiation	gamma-delta_T_cell_differentiation
+ENSMUSG00000020919	Stat5b	GO:0042492	gamma-delta T cell differentiation	gamma-delta_T_cell_differentiation
+ENSMUSG00000004043	Stat5a	GO:0042492	gamma-delta T cell differentiation	gamma-delta_T_cell_differentiation
+ENSMUSG00000089773	Skint1	GO:0042492	gamma-delta T cell differentiation	gamma-delta_T_cell_differentiation
+ENSMUSG00000002799	Jag2	GO:0042492	gamma-delta T cell differentiation	gamma-delta_T_cell_differentiation
+ENSMUSG00000000782	Tcf7	GO:0042492	gamma-delta T cell differentiation	gamma-delta_T_cell_differentiation
+ENSMUSG00000026395	Ptprc	GO:0042492	gamma-delta T cell differentiation	gamma-delta_T_cell_differentiation
+ENSMUSG00000070643	Sox13	GO:0042492	gamma-delta T cell differentiation	gamma-delta_T_cell_differentiation

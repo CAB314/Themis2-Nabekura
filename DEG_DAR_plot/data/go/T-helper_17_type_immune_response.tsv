@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000004040	Stat3	GO:0072538	T-helper 17 type immune response	T-helper_17_type_immune_response
+ENSMUSG00000019842	Traf3ip2	GO:0072538	T-helper 17 type immune response	T-helper_17_type_immune_response
+ENSMUSG00000002897	Il17ra	GO:0072538	T-helper 17 type immune response	T-helper_17_type_immune_response
+ENSMUSG00000038845	Phb	GO:0072538	T-helper 17 type immune response	T-helper_17_type_immune_response
+ENSMUSG00000026923	Notch1	GO:0072538	T-helper 17 type immune response	T-helper_17_type_immune_response

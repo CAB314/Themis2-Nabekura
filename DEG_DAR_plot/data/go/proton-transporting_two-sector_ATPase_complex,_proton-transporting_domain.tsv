@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024121	Atp6v0c	GO:0033177	proton-transporting two-sector ATPase complex, proton-transporting domain	proton-transporting_two-sector_ATPase_complex,_proton-transporting_domain
+ENSMUSG00000018770	Atp5g3	GO:0033177	proton-transporting two-sector ATPase complex, proton-transporting domain	proton-transporting_two-sector_ATPase_complex,_proton-transporting_domain
+ENSMUSG00000062683	Atp5g2	GO:0033177	proton-transporting two-sector ATPase complex, proton-transporting domain	proton-transporting_two-sector_ATPase_complex,_proton-transporting_domain
+ENSMUSG00000006057	Atp5g1	GO:0033177	proton-transporting two-sector ATPase complex, proton-transporting domain	proton-transporting_two-sector_ATPase_complex,_proton-transporting_domain
+ENSMUSG00000033379	Atp6v0b	GO:0033177	proton-transporting two-sector ATPase complex, proton-transporting domain	proton-transporting_two-sector_ATPase_complex,_proton-transporting_domain

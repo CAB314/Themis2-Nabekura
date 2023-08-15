@@ -1,0 +1,13 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000028034	Fubp1	GO:0048103	somatic stem cell division	somatic_stem_cell_division
+ENSMUSG00000009900	Wnt3a	GO:0048103	somatic stem cell division	somatic_stem_cell_division
+ENSMUSG00000030093	Wnt7a	GO:0048103	somatic stem cell division	somatic_stem_cell_division
+ENSMUSG00000005672	Kit	GO:0048103	somatic stem cell division	somatic_stem_cell_division
+ENSMUSG00000039239	Tgfb2	GO:0048103	somatic stem cell division	somatic_stem_cell_division
+ENSMUSG00000041075	Fzd7	GO:0048103	somatic stem cell division	somatic_stem_cell_division
+ENSMUSG00000045817	Zfp36l2	GO:0048103	somatic stem cell division	somatic_stem_cell_division
+ENSMUSG00000026556	Vangl2	GO:0048103	somatic stem cell division	somatic_stem_cell_division
+ENSMUSG00000044303	Cdkn2a	GO:0048103	somatic stem cell division	somatic_stem_cell_division
+ENSMUSG00000038692	Hoxb4	GO:0048103	somatic stem cell division	somatic_stem_cell_division
+ENSMUSG00000026923	Notch1	GO:0048103	somatic stem cell division	somatic_stem_cell_division
+ENSMUSG00000026739	Bmi1	GO:0048103	somatic stem cell division	somatic_stem_cell_division

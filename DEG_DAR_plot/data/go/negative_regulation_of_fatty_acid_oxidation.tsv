@@ -1,0 +1,12 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000070126	Mir199a-2	GO:0046322	negative regulation of fatty acid oxidation	negative_regulation_of_fatty_acid_oxidation
+ENSMUSG00000065516	Mir214	GO:0046322	negative regulation of fatty acid oxidation	negative_regulation_of_fatty_acid_oxidation
+ENSMUSG00000026692	Fmo4	GO:0046322	negative regulation of fatty acid oxidation	negative_regulation_of_fatty_acid_oxidation
+ENSMUSG00000040181	Fmo1	GO:0046322	negative regulation of fatty acid oxidation	negative_regulation_of_fatty_acid_oxidation
+ENSMUSG00000040170	Fmo2	GO:0046322	negative regulation of fatty acid oxidation	negative_regulation_of_fatty_acid_oxidation
+ENSMUSG00000030747	Dgat2	GO:0046322	negative regulation of fatty acid oxidation	negative_regulation_of_fatty_acid_oxidation
+ENSMUSG00000042010	Acacb	GO:0046322	negative regulation of fatty acid oxidation	negative_regulation_of_fatty_acid_oxidation
+ENSMUSG00000029524	Sirt4	GO:0046322	negative regulation of fatty acid oxidation	negative_regulation_of_fatty_acid_oxidation
+ENSMUSG00000020263	Appl2	GO:0046322	negative regulation of fatty acid oxidation	negative_regulation_of_fatty_acid_oxidation
+ENSMUSG00000018574	Acadvl	GO:0046322	negative regulation of fatty acid oxidation	negative_regulation_of_fatty_acid_oxidation
+ENSMUSG00000000567	Sox9	GO:0046322	negative regulation of fatty acid oxidation	negative_regulation_of_fatty_acid_oxidation

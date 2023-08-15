@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000075701	Selenos	GO:0051775	response to redox state	response_to_redox_state
+ENSMUSG00000027737	Slc7a11	GO:0051775	response to redox state	response_to_redox_state
+ENSMUSG00000029238	Clock	GO:0051775	response to redox state	response_to_redox_state
+ENSMUSG00000028138	Adh5	GO:0051775	response to redox state	response_to_redox_state
+ENSMUSG00000021313	Ryr2	GO:0051775	response to redox state	response_to_redox_state
+ENSMUSG00000020635	Fkbp1b	GO:0051775	response to redox state	response_to_redox_state
+ENSMUSG00000055116	Arntl	GO:0051775	response to redox state	response_to_redox_state
+ENSMUSG00000026077	Npas2	GO:0051775	response to redox state	response_to_redox_state

@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000055447	Cd47	GO:0070487	monocyte aggregation	monocyte_aggregation
+ENSMUSG00000026365	Cfh	GO:0070487	monocyte aggregation	monocyte_aggregation
+ENSMUSG00000005087	Cd44	GO:0070487	monocyte aggregation	monocyte_aggregation
+ENSMUSG00000027398	Il1b	GO:0070487	monocyte aggregation	monocyte_aggregation
+ENSMUSG00000008999	Bmp7	GO:0070487	monocyte aggregation	monocyte_aggregation

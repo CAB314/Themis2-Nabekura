@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000105200	Mir378a	GO:0045069	regulation of viral genome replication	regulation_of_viral_genome_replication
+ENSMUSG00000105904	Mir24-1	GO:0045069	regulation of viral genome replication	regulation_of_viral_genome_replication
+ENSMUSG00000057329	Bcl2	GO:0045069	regulation of viral genome replication	regulation_of_viral_genome_replication
+ENSMUSG00000065541	Mir24-2	GO:0045069	regulation of viral genome replication	regulation_of_viral_genome_replication
+ENSMUSG00000020719	Ddx5	GO:0045069	regulation of viral genome replication	regulation_of_viral_genome_replication
+ENSMUSG00000065527	Mir93	GO:0045069	regulation of viral genome replication	regulation_of_viral_genome_replication
+ENSMUSG00000085501	Gm11772	GO:0045069	regulation of viral genome replication	regulation_of_viral_genome_replication
+ENSMUSG00000071866	Ppia	GO:0045069	regulation of viral genome replication	regulation_of_viral_genome_replication

@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000026241	Nppc	GO:0051447	negative regulation of meiotic cell cycle	negative_regulation_of_meiotic_cell_cycle
+ENSMUSG00000024190	Dusp1	GO:0051447	negative regulation of meiotic cell cycle	negative_regulation_of_meiotic_cell_cycle
+ENSMUSG00000005034	Prkacb	GO:0051447	negative regulation of meiotic cell cycle	negative_regulation_of_meiotic_cell_cycle
+ENSMUSG00000005469	Prkaca	GO:0051447	negative regulation of meiotic cell cycle	negative_regulation_of_meiotic_cell_cycle
+ENSMUSG00000028469	Npr2	GO:0051447	negative regulation of meiotic cell cycle	negative_regulation_of_meiotic_cell_cycle

@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000000751	Rpa1	GO:0043047	single-stranded telomeric DNA binding	single-stranded_telomeric_DNA_binding
+ENSMUSG00000024174	Pot1b	GO:0043047	single-stranded telomeric DNA binding	single-stranded_telomeric_DNA_binding
+ENSMUSG00000004980	Hnrnpa2b1	GO:0043047	single-stranded telomeric DNA binding	single-stranded_telomeric_DNA_binding
+ENSMUSG00000042694	Stn1	GO:0043047	single-stranded telomeric DNA binding	single-stranded_telomeric_DNA_binding
+ENSMUSG00000029676	Pot1a	GO:0043047	single-stranded telomeric DNA binding	single-stranded_telomeric_DNA_binding

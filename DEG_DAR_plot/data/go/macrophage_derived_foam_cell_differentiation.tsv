@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000021994	Wnt5a	GO:0010742	macrophage derived foam cell differentiation	macrophage_derived_foam_cell_differentiation
+ENSMUSG00000042682	Selenok	GO:0010742	macrophage derived foam cell differentiation	macrophage_derived_foam_cell_differentiation
+ENSMUSG00000026104	Stat1	GO:0010742	macrophage derived foam cell differentiation	macrophage_derived_foam_cell_differentiation
+ENSMUSG00000055024	Ep300	GO:0010742	macrophage derived foam cell differentiation	macrophage_derived_foam_cell_differentiation
+ENSMUSG00000026600	Soat1	GO:0010742	macrophage derived foam cell differentiation	macrophage_derived_foam_cell_differentiation

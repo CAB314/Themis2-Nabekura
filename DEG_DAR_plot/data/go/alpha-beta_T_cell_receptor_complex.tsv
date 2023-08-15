@@ -1,0 +1,11 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000076861	Trav18	GO:0042105	alpha-beta T cell receptor complex	alpha-beta_T_cell_receptor_complex
+ENSMUSG00000076928	Trac	GO:0042105	alpha-beta T cell receptor complex	alpha-beta_T_cell_receptor_complex
+ENSMUSG00000002033	Cd3g	GO:0042105	alpha-beta T cell receptor complex	alpha-beta_T_cell_receptor_complex
+ENSMUSG00000032094	Cd3d	GO:0042105	alpha-beta T cell receptor complex	alpha-beta_T_cell_receptor_complex
+ENSMUSG00000032093	Cd3e	GO:0042105	alpha-beta T cell receptor complex	alpha-beta_T_cell_receptor_complex
+ENSMUSG00000005763	Cd247	GO:0042105	alpha-beta T cell receptor complex	alpha-beta_T_cell_receptor_complex
+ENSMUSG00000004266	Ptpn6	GO:0042105	alpha-beta T cell receptor complex	alpha-beta_T_cell_receptor_complex
+ENSMUSG00000076475	Trbv19	GO:0042105	alpha-beta T cell receptor complex	alpha-beta_T_cell_receptor_complex
+ENSMUSG00000076490	Trbc1	GO:0042105	alpha-beta T cell receptor complex	alpha-beta_T_cell_receptor_complex
+ENSMUSG00000076498	Trbc2	GO:0042105	alpha-beta T cell receptor complex	alpha-beta_T_cell_receptor_complex

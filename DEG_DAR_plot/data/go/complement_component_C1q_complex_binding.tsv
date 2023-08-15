@@ -1,0 +1,10 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024593	Megf10	GO:0001849	complement component C1q complex binding	complement_component_C1q_complex_binding
+ENSMUSG00000073418	C4b	GO:0001849	complement component C1q complex binding	complement_component_C1q_complex_binding
+ENSMUSG00000027832	Ptx3	GO:0001849	complement component C1q complex binding	complement_component_C1q_complex_binding
+ENSMUSG00000003814	Calr	GO:0001849	complement component C1q complex binding	complement_component_C1q_complex_binding
+ENSMUSG00000037942	Crp	GO:0001849	complement component C1q complex binding	complement_component_C1q_complex_binding
+ENSMUSG00000026542	Apcs	GO:0001849	complement component C1q complex binding	complement_component_C1q_complex_binding
+ENSMUSG00000079180	Mptx2	GO:0001849	complement component C1q complex binding	complement_component_C1q_complex_binding
+ENSMUSG00000018446	C1qbp	GO:0001849	complement component C1q complex binding	complement_component_C1q_complex_binding
+ENSMUSG00000027435	Cd93	GO:0001849	complement component C1q complex binding	complement_component_C1q_complex_binding

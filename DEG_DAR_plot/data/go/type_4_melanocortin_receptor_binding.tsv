@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000039956	Mrap	GO:0031782	type 4 melanocortin receptor binding	type_4_melanocortin_receptor_binding
+ENSMUSG00000005705	Agrp	GO:0031782	type 4 melanocortin receptor binding	type_4_melanocortin_receptor_binding
+ENSMUSG00000042761	Mrap2	GO:0031782	type 4 melanocortin receptor binding	type_4_melanocortin_receptor_binding
+ENSMUSG00000020660	Pomc	GO:0031782	type 4 melanocortin receptor binding	type_4_melanocortin_receptor_binding
+ENSMUSG00000027596	a	GO:0031782	type 4 melanocortin receptor binding	type_4_melanocortin_receptor_binding

@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000028011	Tdo2	GO:0019441	tryptophan catabolic process to kynurenine	tryptophan_catabolic_process_to_kynurenine
+ENSMUSG00000031549	Ido2	GO:0019441	tryptophan catabolic process to kynurenine	tryptophan_catabolic_process_to_kynurenine
+ENSMUSG00000031551	Ido1	GO:0019441	tryptophan catabolic process to kynurenine	tryptophan_catabolic_process_to_kynurenine
+ENSMUSG00000017718	Afmid	GO:0019441	tryptophan catabolic process to kynurenine	tryptophan_catabolic_process_to_kynurenine
+ENSMUSG00000026866	Kynu	GO:0019441	tryptophan catabolic process to kynurenine	tryptophan_catabolic_process_to_kynurenine

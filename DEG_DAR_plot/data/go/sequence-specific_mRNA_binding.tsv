@@ -1,0 +1,17 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000046434	Hnrnpa1	GO:1990825	sequence-specific mRNA binding	sequence-specific_mRNA_binding
+ENSMUSG00000038132	Rbm24	GO:1990825	sequence-specific mRNA binding	sequence-specific_mRNA_binding
+ENSMUSG00000024360	Etf1	GO:1990825	sequence-specific mRNA binding	sequence-specific_mRNA_binding
+ENSMUSG00000042699	Dhx9	GO:1990825	sequence-specific mRNA binding	sequence-specific_mRNA_binding
+ENSMUSG00000028911	Srsf4	GO:1990825	sequence-specific mRNA binding	sequence-specific_mRNA_binding
+ENSMUSG00000030411	Nova2	GO:1990825	sequence-specific mRNA binding	sequence-specific_mRNA_binding
+ENSMUSG00000021047	Nova1	GO:1990825	sequence-specific mRNA binding	sequence-specific_mRNA_binding
+ENSMUSG00000068882	Ssb	GO:1990825	sequence-specific mRNA binding	sequence-specific_mRNA_binding
+ENSMUSG00000021707	Dhfr	GO:1990825	sequence-specific mRNA binding	sequence-specific_mRNA_binding
+ENSMUSG00000038884	Shfl	GO:1990825	sequence-specific mRNA binding	sequence-specific_mRNA_binding
+ENSMUSG00000050966	Lin28a	GO:1990825	sequence-specific mRNA binding	sequence-specific_mRNA_binding
+ENSMUSG00000034839	Larp6	GO:1990825	sequence-specific mRNA binding	sequence-specific_mRNA_binding
+ENSMUSG00000000838	Fmr1	GO:1990825	sequence-specific mRNA binding	sequence-specific_mRNA_binding
+ENSMUSG00000071172	Srsf3	GO:1990825	sequence-specific mRNA binding	sequence-specific_mRNA_binding
+ENSMUSG00000041939	Mvk	GO:1990825	sequence-specific mRNA binding	sequence-specific_mRNA_binding
+ENSMUSG00000025747	Tyms	GO:1990825	sequence-specific mRNA binding	sequence-specific_mRNA_binding

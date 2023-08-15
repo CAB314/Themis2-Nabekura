@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024778	Fas	GO:0005031	tumor necrosis factor receptor activity	tumor_necrosis_factor_receptor_activity
+ENSMUSG00000034457	Eda2r	GO:0005031	tumor necrosis factor receptor activity	tumor_necrosis_factor_receptor_activity
+ENSMUSG00000026321	Tnfrsf11a	GO:0005031	tumor necrosis factor receptor activity	tumor_necrosis_factor_receptor_activity
+ENSMUSG00000028599	Tnfrsf1b	GO:0005031	tumor necrosis factor receptor activity	tumor_necrosis_factor_receptor_activity
+ENSMUSG00000030341	Tnfrsf1a	GO:0005031	tumor necrosis factor receptor activity	tumor_necrosis_factor_receptor_activity
+ENSMUSG00000037613	Tnfrsf23	GO:0005031	tumor necrosis factor receptor activity	tumor_necrosis_factor_receptor_activity
+ENSMUSG00000029075	Tnfrsf4	GO:0005031	tumor necrosis factor receptor activity	tumor_necrosis_factor_receptor_activity
+ENSMUSG00000041954	Tnfrsf18	GO:0005031	tumor necrosis factor receptor activity	tumor_necrosis_factor_receptor_activity

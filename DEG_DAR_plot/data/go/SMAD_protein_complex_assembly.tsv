@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000031681	Smad1	GO:0007183	SMAD protein complex assembly	SMAD_protein_complex_assembly
+ENSMUSG00000002603	Tgfb1	GO:0007183	SMAD protein complex assembly	SMAD_protein_complex_assembly
+ENSMUSG00000024515	Smad4	GO:0007183	SMAD protein complex assembly	SMAD_protein_complex_assembly
+ENSMUSG00000024563	Smad2	GO:0007183	SMAD protein complex assembly	SMAD_protein_complex_assembly
+ENSMUSG00000032402	Smad3	GO:0007183	SMAD protein complex assembly	SMAD_protein_complex_assembly
+ENSMUSG00000046058	Eid2	GO:0007183	SMAD protein complex assembly	SMAD_protein_complex_assembly

@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000036181	H1f2	GO:0098532	histone H3-K27 trimethylation	histone_H3-K27_trimethylation
+ENSMUSG00000029687	Ezh2	GO:0098532	histone H3-K27 trimethylation	histone_H3-K27_trimethylation
+ENSMUSG00000006920	Ezh1	GO:0098532	histone H3-K27 trimethylation	histone_H3-K27_trimethylation
+ENSMUSG00000051627	H1f4	GO:0098532	histone H3-K27 trimethylation	histone_H3-K27_trimethylation
+ENSMUSG00000017548	Suz12	GO:0098532	histone H3-K27 trimethylation	histone_H3-K27_trimethylation

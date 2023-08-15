@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000056758	Hmga2	GO:0071141	SMAD protein complex	SMAD_protein_complex
+ENSMUSG00000024515	Smad4	GO:0071141	SMAD protein complex	SMAD_protein_complex
+ENSMUSG00000024563	Smad2	GO:0071141	SMAD protein complex	SMAD_protein_complex
+ENSMUSG00000021039	Snw1	GO:0071141	SMAD protein complex	SMAD_protein_complex
+ENSMUSG00000032402	Smad3	GO:0071141	SMAD protein complex	SMAD_protein_complex

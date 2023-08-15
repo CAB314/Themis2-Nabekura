@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000051212	Gpr183	GO:0061470	T follicular helper cell differentiation	T_follicular_helper_cell_differentiation
+ENSMUSG00000027718	Il21	GO:0061470	T follicular helper cell differentiation	T_follicular_helper_cell_differentiation
+ENSMUSG00000040423	Rc3h1	GO:0061470	T follicular helper cell differentiation	T_follicular_helper_cell_differentiation
+ENSMUSG00000030067	Foxp1	GO:0061470	T follicular helper cell differentiation	T_follicular_helper_cell_differentiation
+ENSMUSG00000075376	Rc3h2	GO:0061470	T follicular helper cell differentiation	T_follicular_helper_cell_differentiation
+ENSMUSG00000025746	Il6	GO:0061470	T follicular helper cell differentiation	T_follicular_helper_cell_differentiation

@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000026514	Cnih3	GO:0016247	channel regulator activity	channel_regulator_activity
+ENSMUSG00000069806	Cacng7	GO:0016247	channel regulator activity	channel_regulator_activity
+ENSMUSG00000019146	Cacng2	GO:0016247	channel regulator activity	channel_regulator_activity
+ENSMUSG00000024873	Cnih2	GO:0016247	channel regulator activity	channel_regulator_activity
+ENSMUSG00000020723	Cacng4	GO:0016247	channel regulator activity	channel_regulator_activity
+ENSMUSG00000040373	Cacng5	GO:0016247	channel regulator activity	channel_regulator_activity
+ENSMUSG00000066189	Cacng3	GO:0016247	channel regulator activity	channel_regulator_activity
+ENSMUSG00000006058	Snf8	GO:0016247	channel regulator activity	channel_regulator_activity

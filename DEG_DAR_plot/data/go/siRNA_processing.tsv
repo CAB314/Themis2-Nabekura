@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000021611	Tert	GO:0030422	siRNA processing	siRNA_processing
+ENSMUSG00000036698	Ago2	GO:0030422	siRNA processing	siRNA_processing
+ENSMUSG00000056820	Tsnax	GO:0030422	siRNA processing	siRNA_processing
+ENSMUSG00000041415	Dicer1	GO:0030422	siRNA processing	siRNA_processing
+ENSMUSG00000045662	Henmt1	GO:0030422	siRNA processing	siRNA_processing
+ENSMUSG00000023051	Tarbp2	GO:0030422	siRNA processing	siRNA_processing
+ENSMUSG00000002731	Prkra	GO:0030422	siRNA processing	siRNA_processing
+ENSMUSG00000026374	Tsn	GO:0030422	siRNA processing	siRNA_processing

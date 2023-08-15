@@ -1,0 +1,10 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000034266	Batf	GO:0072540	T-helper 17 cell lineage commitment	T-helper_17_cell_lineage_commitment
+ENSMUSG00000002603	Tgfb1	GO:0072540	T-helper 17 cell lineage commitment	T-helper_17_cell_lineage_commitment
+ENSMUSG00000021356	Irf4	GO:0072540	T-helper 17 cell lineage commitment	T-helper_17_cell_lineage_commitment
+ENSMUSG00000004040	Stat3	GO:0072540	T-helper 17 cell lineage commitment	T-helper_17_cell_lineage_commitment
+ENSMUSG00000031154	Otud5	GO:0072540	T-helper 17 cell lineage commitment	T-helper_17_cell_lineage_commitment
+ENSMUSG00000027947	Il6ra	GO:0072540	T-helper 17 cell lineage commitment	T-helper_17_cell_lineage_commitment
+ENSMUSG00000015314	Slamf6	GO:0072540	T-helper 17 cell lineage commitment	T-helper_17_cell_lineage_commitment
+ENSMUSG00000004707	Ly9	GO:0072540	T-helper 17 cell lineage commitment	T-helper_17_cell_lineage_commitment
+ENSMUSG00000025746	Il6	GO:0072540	T-helper 17 cell lineage commitment	T-helper_17_cell_lineage_commitment

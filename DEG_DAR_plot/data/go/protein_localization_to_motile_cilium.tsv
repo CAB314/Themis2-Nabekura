@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000022375	Dnaaf11	GO:0120229	protein localization to motile cilium	protein_localization_to_motile_cilium
+ENSMUSG00000018581	Dnah11	GO:0120229	protein localization to motile cilium	protein_localization_to_motile_cilium
+ENSMUSG00000035394	Cfap53	GO:0120229	protein localization to motile cilium	protein_localization_to_motile_cilium
+ENSMUSG00000006784	Odad4	GO:0120229	protein localization to motile cilium	protein_localization_to_motile_cilium
+ENSMUSG00000046585	Cfap58	GO:0120229	protein localization to motile cilium	protein_localization_to_motile_cilium

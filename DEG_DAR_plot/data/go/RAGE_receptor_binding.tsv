@@ -1,0 +1,11 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000066551	Hmgb1	GO:0050786	RAGE receptor binding	RAGE_receptor_binding
+ENSMUSG00000045551	Fpr1	GO:0050786	RAGE receptor binding	RAGE_receptor_binding
+ENSMUSG00000052270	Fpr2	GO:0050786	RAGE receptor binding	RAGE_receptor_binding
+ENSMUSG00000079700	Fpr3	GO:0050786	RAGE receptor binding	RAGE_receptor_binding
+ENSMUSG00000022892	App	GO:0050786	RAGE receptor binding	RAGE_receptor_binding
+ENSMUSG00000033208	S100b	GO:0050786	RAGE receptor binding	RAGE_receptor_binding
+ENSMUSG00000054717	Hmgb2	GO:0050786	RAGE receptor binding	RAGE_receptor_binding
+ENSMUSG00000042312	S100a13	GO:0050786	RAGE receptor binding	RAGE_receptor_binding
+ENSMUSG00000001020	S100a4	GO:0050786	RAGE receptor binding	RAGE_receptor_binding
+ENSMUSG00000063767	S100a7a	GO:0050786	RAGE receptor binding	RAGE_receptor_binding

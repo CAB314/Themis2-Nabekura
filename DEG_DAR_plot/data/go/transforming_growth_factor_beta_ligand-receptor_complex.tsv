@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000074272	Ceacam1	GO:0070021	transforming growth factor beta ligand-receptor complex	transforming_growth_factor_beta_ligand-receptor_complex
+ENSMUSG00000054385	Ceacam2	GO:0070021	transforming growth factor beta ligand-receptor complex	transforming_growth_factor_beta_ligand-receptor_complex
+ENSMUSG00000002603	Tgfb1	GO:0070021	transforming growth factor beta ligand-receptor complex	transforming_growth_factor_beta_ligand-receptor_complex
+ENSMUSG00000032440	Tgfbr2	GO:0070021	transforming growth factor beta ligand-receptor complex	transforming_growth_factor_beta_ligand-receptor_complex
+ENSMUSG00000007613	Tgfbr1	GO:0070021	transforming growth factor beta ligand-receptor complex	transforming_growth_factor_beta_ligand-receptor_complex

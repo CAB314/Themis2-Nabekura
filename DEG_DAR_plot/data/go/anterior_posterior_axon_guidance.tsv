@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000060534	Dcc	GO:0033564	anterior/posterior axon guidance	anterior_posterior_axon_guidance
+ENSMUSG00000059921	Unc5c	GO:0033564	anterior/posterior axon guidance	anterior_posterior_axon_guidance
+ENSMUSG00000020099	Unc5b	GO:0033564	anterior/posterior axon guidance	anterior_posterior_axon_guidance
+ENSMUSG00000025876	Unc5a	GO:0033564	anterior/posterior axon guidance	anterior_posterior_axon_guidance
+ENSMUSG00000020902	Ntn1	GO:0033564	anterior/posterior axon guidance	anterior_posterior_axon_guidance

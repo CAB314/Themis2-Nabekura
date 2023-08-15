@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000026504	Sdccag8	GO:0097733	photoreceptor cell cilium	photoreceptor_cell_cilium
+ENSMUSG00000002763	Pex6	GO:0097733	photoreceptor cell cilium	photoreceptor_cell_cilium
+ENSMUSG00000020284	Cfap410	GO:0097733	photoreceptor cell cilium	photoreceptor_cell_cilium
+ENSMUSG00000025900	Rp1	GO:0097733	photoreceptor cell cilium	photoreceptor_cell_cilium
+ENSMUSG00000007107	Atp1a4	GO:0097733	photoreceptor cell cilium	photoreceptor_cell_cilium
+ENSMUSG00000017858	Ift52	GO:0097733	photoreceptor cell cilium	photoreceptor_cell_cilium
+ENSMUSG00000049811	Fam161a	GO:0097733	photoreceptor cell cilium	photoreceptor_cell_cilium
+ENSMUSG00000045288	Ush1g	GO:0097733	photoreceptor cell cilium	photoreceptor_cell_cilium

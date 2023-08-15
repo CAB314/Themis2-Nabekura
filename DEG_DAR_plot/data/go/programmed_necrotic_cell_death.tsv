@@ -1,0 +1,11 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000021408	Ripk1	GO:0097300	programmed necrotic cell death	programmed_necrotic_cell_death
+ENSMUSG00000021936	Mapk8	GO:0097300	programmed necrotic cell death	programmed_necrotic_cell_death
+ENSMUSG00000071369	Map3k5	GO:0097300	programmed necrotic cell death	programmed_necrotic_cell_death
+ENSMUSG00000022221	Ripk3	GO:0097300	programmed necrotic cell death	programmed_necrotic_cell_death
+ENSMUSG00000038295	Atg9b	GO:0097300	programmed necrotic cell death	programmed_necrotic_cell_death
+ENSMUSG00000025888	Casp1	GO:0097300	programmed necrotic cell death	programmed_necrotic_cell_death
+ENSMUSG00000069830	Nlrp1a	GO:0097300	programmed necrotic cell death	programmed_necrotic_cell_death
+ENSMUSG00000033124	Atg9a	GO:0097300	programmed necrotic cell death	programmed_necrotic_cell_death
+ENSMUSG00000003184	Irf3	GO:0097300	programmed necrotic cell death	programmed_necrotic_cell_death
+ENSMUSG00000026942	Traf2	GO:0097300	programmed necrotic cell death	programmed_necrotic_cell_death

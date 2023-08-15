@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000043183	Simc1	GO:0032184	SUMO polymer binding	SUMO_polymer_binding
+ENSMUSG00000038248	Sobp	GO:0032184	SUMO polymer binding	SUMO_polymer_binding
+ENSMUSG00000029110	Rnf4	GO:0032184	SUMO polymer binding	SUMO_polymer_binding
+ENSMUSG00000032217	Rnf111	GO:0032184	SUMO polymer binding	SUMO_polymer_binding
+ENSMUSG00000028282	Casp8ap2	GO:0032184	SUMO polymer binding	SUMO_polymer_binding

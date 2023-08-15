@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000035842	Ddx11	GO:0051880	G-quadruplex DNA binding	G-quadruplex_DNA_binding
+ENSMUSG00000027770	Dhx36	GO:0051880	G-quadruplex DNA binding	G-quadruplex_DNA_binding
+ENSMUSG00000031583	Wrn	GO:0051880	G-quadruplex DNA binding	G-quadruplex_DNA_binding
+ENSMUSG00000030528	Blm	GO:0051880	G-quadruplex DNA binding	G-quadruplex_DNA_binding
+ENSMUSG00000041064	Pif1	GO:0051880	G-quadruplex DNA binding	G-quadruplex_DNA_binding
+ENSMUSG00000041168	Lonp1	GO:0051880	G-quadruplex DNA binding	G-quadruplex_DNA_binding
+ENSMUSG00000030057	Cnbp	GO:0051880	G-quadruplex DNA binding	G-quadruplex_DNA_binding
+ENSMUSG00000020857	Nme2	GO:0051880	G-quadruplex DNA binding	G-quadruplex_DNA_binding

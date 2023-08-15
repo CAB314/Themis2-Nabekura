@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000079057	Cyp4v3	GO:0010430	fatty acid omega-oxidation	fatty_acid_omega-oxidation
+ENSMUSG00000055301	Adh7	GO:0010430	fatty acid omega-oxidation	fatty_acid_omega-oxidation
+ENSMUSG00000037797	Adh4	GO:0010430	fatty acid omega-oxidation	fatty_acid_omega-oxidation
+ENSMUSG00000028138	Adh5	GO:0010430	fatty acid omega-oxidation	fatty_acid_omega-oxidation
+ENSMUSG00000024055	Cyp4f13	GO:0010430	fatty acid omega-oxidation	fatty_acid_omega-oxidation
+ENSMUSG00000003484	Cyp4f18	GO:0010430	fatty acid omega-oxidation	fatty_acid_omega-oxidation

@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000014074	Rnf168	GO:0033522	histone H2A ubiquitination	histone_H2A_ubiquitination
+ENSMUSG00000016308	Ube2a	GO:0033522	histone H2A ubiquitination	histone_H2A_ubiquitination
+ENSMUSG00000023977	Ubr2	GO:0033522	histone H2A ubiquitination	histone_H2A_ubiquitination
+ENSMUSG00000090083	Rnf8	GO:0033522	histone H2A ubiquitination	histone_H2A_ubiquitination
+ENSMUSG00000098374	Gm28043	GO:0033522	histone H2A ubiquitination	histone_H2A_ubiquitination

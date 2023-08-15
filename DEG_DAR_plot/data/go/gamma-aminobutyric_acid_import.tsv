@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000030096	Slc6a6	GO:0051939	gamma-aminobutyric acid import	gamma-aminobutyric_acid_import
+ENSMUSG00000030108	Slc6a13	GO:0051939	gamma-aminobutyric acid import	gamma-aminobutyric_acid_import
+ENSMUSG00000030310	Slc6a1	GO:0051939	gamma-aminobutyric acid import	gamma-aminobutyric_acid_import
+ENSMUSG00000020733	Nherf1	GO:0051939	gamma-aminobutyric acid import	gamma-aminobutyric_acid_import
+ENSMUSG00000037771	Slc32a1	GO:0051939	gamma-aminobutyric acid import	gamma-aminobutyric_acid_import

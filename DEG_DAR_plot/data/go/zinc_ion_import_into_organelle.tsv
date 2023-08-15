@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000021629	Slc30a5	GO:0062111	zinc ion import into organelle	zinc_ion_import_into_organelle
+ENSMUSG00000022315	Slc30a8	GO:0062111	zinc ion import into organelle	zinc_ion_import_into_organelle
+ENSMUSG00000026614	Slc30a10	GO:0062111	zinc ion import into organelle	zinc_ion_import_into_organelle
+ENSMUSG00000028836	Slc30a2	GO:0062111	zinc ion import into organelle	zinc_ion_import_into_organelle
+ENSMUSG00000037434	Slc30a1	GO:0062111	zinc ion import into organelle	zinc_ion_import_into_organelle

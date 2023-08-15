@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000029321	Slc10a6	GO:0008508	bile acid:sodium symporter activity	bile_acid:sodium_symporter_activity
+ENSMUSG00000060204	Slc10a4-ps	GO:0008508	bile acid:sodium symporter activity	bile_acid:sodium_symporter_activity
+ENSMUSG00000029219	Slc10a4	GO:0008508	bile acid:sodium symporter activity	bile_acid:sodium_symporter_activity
+ENSMUSG00000032806	Slc10a3	GO:0008508	bile acid:sodium symporter activity	bile_acid:sodium_symporter_activity
+ENSMUSG00000058921	Slc10a5	GO:0008508	bile acid:sodium symporter activity	bile_acid:sodium_symporter_activity
+ENSMUSG00000021135	Slc10a1	GO:0008508	bile acid:sodium symporter activity	bile_acid:sodium_symporter_activity
+ENSMUSG00000023073	Slc10a2	GO:0008508	bile acid:sodium symporter activity	bile_acid:sodium_symporter_activity

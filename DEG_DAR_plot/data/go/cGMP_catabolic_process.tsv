@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000023868	Pde10a	GO:0046069	cGMP catabolic process	cGMP_catabolic_process
+ENSMUSG00000041119	Pde9a	GO:0046069	cGMP catabolic process	cGMP_catabolic_process
+ENSMUSG00000053965	Pde5a	GO:0046069	cGMP catabolic process	cGMP_catabolic_process
+ENSMUSG00000110195	Pde2a	GO:0046069	cGMP catabolic process	cGMP_catabolic_process
+ENSMUSG00000059173	Pde1a	GO:0046069	cGMP catabolic process	cGMP_catabolic_process

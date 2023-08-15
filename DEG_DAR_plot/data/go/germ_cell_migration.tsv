@@ -1,0 +1,11 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024837	Dmrt1	GO:0008354	germ cell migration	germ_cell_migration
+ENSMUSG00000002603	Tgfb1	GO:0008354	germ cell migration	germ_cell_migration
+ENSMUSG00000022865	Cxadr	GO:0008354	germ cell migration	germ_cell_migration
+ENSMUSG00000005672	Kit	GO:0008354	germ cell migration	germ_cell_migration
+ENSMUSG00000050295	Foxc1	GO:0008354	germ cell migration	germ_cell_migration
+ENSMUSG00000061353	Cxcl12	GO:0008354	germ cell migration	germ_cell_migration
+ENSMUSG00000029909	Prss37	GO:0008354	germ cell migration	germ_cell_migration
+ENSMUSG00000025809	Itgb1	GO:0008354	germ cell migration	germ_cell_migration
+ENSMUSG00000030968	Pdilt	GO:0008354	germ cell migration	germ_cell_migration
+ENSMUSG00000007613	Tgfbr1	GO:0008354	germ cell migration	germ_cell_migration

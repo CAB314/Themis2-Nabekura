@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000023992	Trem2	GO:0070891	lipoteichoic acid binding	lipoteichoic_acid_binding
+ENSMUSG00000051439	Cd14	GO:0070891	lipoteichoic acid binding	lipoteichoic_acid_binding
+ENSMUSG00000024670	Cd6	GO:0070891	lipoteichoic acid binding	lipoteichoic_acid_binding
+ENSMUSG00000016024	Lbp	GO:0070891	lipoteichoic acid binding	lipoteichoic_acid_binding
+ENSMUSG00000038745	Nlrp6	GO:0070891	lipoteichoic acid binding	lipoteichoic_acid_binding

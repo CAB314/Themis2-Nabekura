@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024621	Csf1r	GO:0035702	monocyte homeostasis	monocyte_homeostasis
+ENSMUSG00000006389	Mpl	GO:0035702	monocyte homeostasis	monocyte_homeostasis
+ENSMUSG00000014599	Csf1	GO:0035702	monocyte homeostasis	monocyte_homeostasis
+ENSMUSG00000042594	Sh2b3	GO:0035702	monocyte homeostasis	monocyte_homeostasis
+ENSMUSG00000035385	Ccl2	GO:0035702	monocyte homeostasis	monocyte_homeostasis

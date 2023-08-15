@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000017776	Crk	GO:2000404	regulation of T cell migration	regulation_of_T_cell_migration
+ENSMUSG00000096001	Gpr15lg	GO:2000404	regulation of T cell migration	regulation_of_T_cell_migration
+ENSMUSG00000006134	Crkl	GO:2000404	regulation of T cell migration	regulation_of_T_cell_migration
+ENSMUSG00000028108	Ecm1	GO:2000404	regulation of T cell migration	regulation_of_T_cell_migration
+ENSMUSG00000040899	Ccr6	GO:2000404	regulation of T cell migration	regulation_of_T_cell_migration
+ENSMUSG00000049103	Ccr2	GO:2000404	regulation of T cell migration	regulation_of_T_cell_migration
+ENSMUSG00000040447	Spns2	GO:2000404	regulation of T cell migration	regulation_of_T_cell_migration
+ENSMUSG00000051457	Spn	GO:2000404	regulation of T cell migration	regulation_of_T_cell_migration

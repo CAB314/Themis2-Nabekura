@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000046434	Hnrnpa1	GO:0033592	RNA strand annealing activity	RNA_strand_annealing_activity
+ENSMUSG00000027680	Fxr1	GO:0033592	RNA strand annealing activity	RNA_strand_annealing_activity
+ENSMUSG00000039224	D1Pas1	GO:0033592	RNA strand annealing activity	RNA_strand_annealing_activity
+ENSMUSG00000000787	Ddx3x	GO:0033592	RNA strand annealing activity	RNA_strand_annealing_activity
+ENSMUSG00000000838	Fmr1	GO:0033592	RNA strand annealing activity	RNA_strand_annealing_activity

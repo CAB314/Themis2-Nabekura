@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000049511	Htr1b	GO:0071502	cellular response to temperature stimulus	cellular_response_to_temperature_stimulus
+ENSMUSG00000024957	Kcnk4	GO:0071502	cellular response to temperature stimulus	cellular_response_to_temperature_stimulus
+ENSMUSG00000009292	Trpm2	GO:0071502	cellular response to temperature stimulus	cellular_response_to_temperature_stimulus
+ENSMUSG00000026228	Htr2b	GO:0071502	cellular response to temperature stimulus	cellular_response_to_temperature_stimulus
+ENSMUSG00000005952	Trpv1	GO:0071502	cellular response to temperature stimulus	cellular_response_to_temperature_stimulus

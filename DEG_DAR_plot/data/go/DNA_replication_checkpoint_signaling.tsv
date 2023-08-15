@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000036875	Dna2	GO:0000076	DNA replication checkpoint signaling	DNA_replication_checkpoint_signaling
+ENSMUSG00000038569	Rad9b	GO:0000076	DNA replication checkpoint signaling	DNA_replication_checkpoint_signaling
+ENSMUSG00000039994	Timeless	GO:0000076	DNA replication checkpoint signaling	DNA_replication_checkpoint_signaling
+ENSMUSG00000024824	Rad9a	GO:0000076	DNA replication checkpoint signaling	DNA_replication_checkpoint_signaling
+ENSMUSG00000006585	Cdt1	GO:0000076	DNA replication checkpoint signaling	DNA_replication_checkpoint_signaling
+ENSMUSG00000042489	Clspn	GO:0000076	DNA replication checkpoint signaling	DNA_replication_checkpoint_signaling
+ENSMUSG00000032397	Tipin	GO:0000076	DNA replication checkpoint signaling	DNA_replication_checkpoint_signaling

@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000010047	Hyal2	GO:0006027	glycosaminoglycan catabolic process	glycosaminoglycan_catabolic_process
+ENSMUSG00000033540	Idua	GO:0006027	glycosaminoglycan catabolic process	glycosaminoglycan_catabolic_process
+ENSMUSG00000030787	Lyve1	GO:0006027	glycosaminoglycan catabolic process	glycosaminoglycan_catabolic_process
+ENSMUSG00000035847	Ids	GO:0006027	glycosaminoglycan catabolic process	glycosaminoglycan_catabolic_process
+ENSMUSG00000005043	Sgsh	GO:0006027	glycosaminoglycan catabolic process	glycosaminoglycan_catabolic_process

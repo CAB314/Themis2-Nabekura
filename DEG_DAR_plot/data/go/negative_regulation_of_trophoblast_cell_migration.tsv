@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000037171	Nodal	GO:1901164	negative regulation of trophoblast cell migration	negative_regulation_of_trophoblast_cell_migration
+ENSMUSG00000030220	Arhgdib	GO:1901164	negative regulation of trophoblast cell migration	negative_regulation_of_trophoblast_cell_migration
+ENSMUSG00000001131	Timp1	GO:1901164	negative regulation of trophoblast cell migration	negative_regulation_of_trophoblast_cell_migration
+ENSMUSG00000003814	Calr	GO:1901164	negative regulation of trophoblast cell migration	negative_regulation_of_trophoblast_cell_migration
+ENSMUSG00000026834	Acvr1c	GO:1901164	negative regulation of trophoblast cell migration	negative_regulation_of_trophoblast_cell_migration

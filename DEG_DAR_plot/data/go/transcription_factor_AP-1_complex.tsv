@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000021250	Fos	GO:0035976	transcription factor AP-1 complex	transcription_factor_AP-1_complex
+ENSMUSG00000052837	Junb	GO:0035976	transcription factor AP-1 complex	transcription_factor_AP-1_complex
+ENSMUSG00000071076	Jund	GO:0035976	transcription factor AP-1 complex	transcription_factor_AP-1_complex
+ENSMUSG00000027544	Nfatc2	GO:0035976	transcription factor AP-1 complex	transcription_factor_AP-1_complex
+ENSMUSG00000052684	Jun	GO:0035976	transcription factor AP-1 complex	transcription_factor_AP-1_complex

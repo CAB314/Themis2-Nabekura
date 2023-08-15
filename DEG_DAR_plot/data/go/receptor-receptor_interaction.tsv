@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000045730	Adrb2	GO:0090722	receptor-receptor interaction	receptor-receptor_interaction
+ENSMUSG00000037225	Fgf2	GO:0090722	receptor-receptor interaction	receptor-receptor_interaction
+ENSMUSG00000021721	Htr1a	GO:0090722	receptor-receptor interaction	receptor-receptor_interaction
+ENSMUSG00000031603	Fgf20	GO:0090722	receptor-receptor interaction	receptor-receptor_interaction
+ENSMUSG00000031565	Fgfr1	GO:0090722	receptor-receptor interaction	receptor-receptor_interaction

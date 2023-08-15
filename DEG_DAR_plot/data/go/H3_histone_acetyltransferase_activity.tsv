@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000000708	Kat2b	GO:0010484	H3 histone acetyltransferase activity	H3_histone_acetyltransferase_activity
+ENSMUSG00000020918	Kat2a	GO:0010484	H3 histone acetyltransferase activity	H3_histone_acetyltransferase_activity
+ENSMUSG00000055024	Ep300	GO:0010484	H3 histone acetyltransferase activity	H3_histone_acetyltransferase_activity
+ENSMUSG00000041147	Brca2	GO:0010484	H3 histone acetyltransferase activity	H3_histone_acetyltransferase_activity
+ENSMUSG00000001150	Mcm3ap	GO:0010484	H3 histone acetyltransferase activity	H3_histone_acetyltransferase_activity

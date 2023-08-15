@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000041112	Elmo1	GO:0030029	actin filament-based process	actin_filament-based_process
+ENSMUSG00000049076	Acap2	GO:0030029	actin filament-based process	actin_filament-based_process
+ENSMUSG00000075284	Wipf1	GO:0030029	actin filament-based process	actin_filament-based_process
+ENSMUSG00000068699	Flnc	GO:0030029	actin filament-based process	actin_filament-based_process
+ENSMUSG00000026582	Sele	GO:0030029	actin filament-based process	actin_filament-based_process

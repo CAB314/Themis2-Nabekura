@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000028800	Hdac1	GO:0070932	histone H3 deacetylation	histone_H3_deacetylation
+ENSMUSG00000020063	Sirt1	GO:0070932	histone H3 deacetylation	histone_H3_deacetylation
+ENSMUSG00000019777	Hdac2	GO:0070932	histone H3 deacetylation	histone_H3_deacetylation
+ENSMUSG00000025138	Sirt7	GO:0070932	histone H3 deacetylation	histone_H3_deacetylation
+ENSMUSG00000026313	Hdac4	GO:0070932	histone H3 deacetylation	histone_H3_deacetylation
+ENSMUSG00000026436	Elk4	GO:0070932	histone H3 deacetylation	histone_H3_deacetylation

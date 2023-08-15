@@ -1,0 +1,12 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000064351	mt-Co1	GO:0045277	respiratory chain complex IV	respiratory_chain_complex_IV
+ENSMUSG00000064354	mt-Co2	GO:0045277	respiratory chain complex IV	respiratory_chain_complex_IV
+ENSMUSG00000064358	mt-Co3	GO:0045277	respiratory chain complex IV	respiratory_chain_complex_IV
+ENSMUSG00000031231	Cox7b	GO:0045277	respiratory chain complex IV	respiratory_chain_complex_IV
+ENSMUSG00000049387	Cox7b2	GO:0045277	respiratory chain complex IV	respiratory_chain_complex_IV
+ENSMUSG00000035885	Cox8a	GO:0045277	respiratory chain complex IV	respiratory_chain_complex_IV
+ENSMUSG00000051671	Coa6	GO:0045277	respiratory chain complex IV	respiratory_chain_complex_IV
+ENSMUSG00000043319	Cox8c	GO:0045277	respiratory chain complex IV	respiratory_chain_complex_IV
+ENSMUSG00000051811	Cox6b2	GO:0045277	respiratory chain complex IV	respiratory_chain_complex_IV
+ENSMUSG00000025488	Cox8b	GO:0045277	respiratory chain complex IV	respiratory_chain_complex_IV
+ENSMUSG00000036751	Cox6b1	GO:0045277	respiratory chain complex IV	respiratory_chain_complex_IV

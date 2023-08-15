@@ -1,0 +1,10 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000042699	Dhx9	GO:0070922	RISC complex assembly	RISC_complex_assembly
+ENSMUSG00000036698	Ago2	GO:0070922	RISC complex assembly	RISC_complex_assembly
+ENSMUSG00000041415	Dicer1	GO:0070922	RISC complex assembly	RISC_complex_assembly
+ENSMUSG00000027951	Adar	GO:0070922	RISC complex assembly	RISC_complex_assembly
+ENSMUSG00000023051	Tarbp2	GO:0070922	RISC complex assembly	RISC_complex_assembly
+ENSMUSG00000028842	Ago3	GO:0070922	RISC complex assembly	RISC_complex_assembly
+ENSMUSG00000041530	Ago1	GO:0070922	RISC complex assembly	RISC_complex_assembly
+ENSMUSG00000042500	Ago4	GO:0070922	RISC complex assembly	RISC_complex_assembly
+ENSMUSG00000027079	Clp1	GO:0070922	RISC complex assembly	RISC_complex_assembly

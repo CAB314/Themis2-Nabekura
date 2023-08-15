@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024287	Thoc1	GO:2000002	negative regulation of DNA damage checkpoint	negative_regulation_of_DNA_damage_checkpoint
+ENSMUSG00000029521	Chek2	GO:2000002	negative regulation of DNA damage checkpoint	negative_regulation_of_DNA_damage_checkpoint
+ENSMUSG00000024002	Brd4	GO:2000002	negative regulation of DNA damage checkpoint	negative_regulation_of_DNA_damage_checkpoint
+ENSMUSG00000019432	Ddx39b	GO:2000002	negative regulation of DNA damage checkpoint	negative_regulation_of_DNA_damage_checkpoint
+ENSMUSG00000034274	Thoc5	GO:2000002	negative regulation of DNA damage checkpoint	negative_regulation_of_DNA_damage_checkpoint

@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000066878	Gm10184	GO:0043657	host cell	host_cell
+ENSMUSG00000003731	Kpna6	GO:0043657	host cell	host_cell
+ENSMUSG00000092074	Dynlt1a	GO:0043657	host cell	host_cell
+ENSMUSG00000096255	Dynlt1b	GO:0043657	host cell	host_cell
+ENSMUSG00000000579	Dynlt1c	GO:0043657	host cell	host_cell
+ENSMUSG00000095677	Dynlt1f	GO:0043657	host cell	host_cell
+ENSMUSG00000018362	Kpna2	GO:0043657	host cell	host_cell

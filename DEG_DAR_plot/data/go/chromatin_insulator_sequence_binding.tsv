@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000005698	Ctcf	GO:0043035	chromatin insulator sequence binding	chromatin_insulator_sequence_binding
+ENSMUSG00000052751	Repin1	GO:0043035	chromatin insulator sequence binding	chromatin_insulator_sequence_binding
+ENSMUSG00000079509	Zfx	GO:0043035	chromatin insulator sequence binding	chromatin_insulator_sequence_binding
+ENSMUSG00000001065	Zfp276	GO:0043035	chromatin insulator sequence binding	chromatin_insulator_sequence_binding
+ENSMUSG00000037243	Zfp692	GO:0043035	chromatin insulator sequence binding	chromatin_insulator_sequence_binding
+ENSMUSG00000070495	Ctcfl	GO:0043035	chromatin insulator sequence binding	chromatin_insulator_sequence_binding

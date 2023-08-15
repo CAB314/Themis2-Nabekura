@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000008450	Nutf2	GO:0044613	nuclear pore central transport channel	nuclear_pore_central_transport_channel
+ENSMUSG00000072944	Nup62cl	GO:0044613	nuclear pore central transport channel	nuclear_pore_central_transport_channel
+ENSMUSG00000109511	Nup62	GO:0044613	nuclear pore central transport channel	nuclear_pore_central_transport_channel
+ENSMUSG00000071497	Nutf2-ps1	GO:0044613	nuclear pore central transport channel	nuclear_pore_central_transport_channel
+ENSMUSG00000042271	Nxt2	GO:0044613	nuclear pore central transport channel	nuclear_pore_central_transport_channel
+ENSMUSG00000034826	Nup54	GO:0044613	nuclear pore central transport channel	nuclear_pore_central_transport_channel
+ENSMUSG00000026999	Nup35	GO:0044613	nuclear pore central transport channel	nuclear_pore_central_transport_channel
+ENSMUSG00000036992	Nxt1	GO:0044613	nuclear pore central transport channel	nuclear_pore_central_transport_channel

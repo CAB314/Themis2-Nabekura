@@ -1,0 +1,10 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024169	Ift140	GO:0120199	cone photoreceptor outer segment	cone_photoreceptor_outer_segment
+ENSMUSG00000041771	Slc24a4	GO:0120199	cone photoreceptor outer segment	cone_photoreceptor_outer_segment
+ENSMUSG00000044375	Pcare	GO:0120199	cone photoreceptor outer segment	cone_photoreceptor_outer_segment
+ENSMUSG00000038079	Tmem237	GO:0120199	cone photoreceptor outer segment	cone_photoreceptor_outer_segment
+ENSMUSG00000023979	Guca1b	GO:0120199	cone photoreceptor outer segment	cone_photoreceptor_outer_segment
+ENSMUSG00000023982	Guca1a	GO:0120199	cone photoreceptor outer segment	cone_photoreceptor_outer_segment
+ENSMUSG00000049353	Rd3	GO:0120199	cone photoreceptor outer segment	cone_photoreceptor_outer_segment
+ENSMUSG00000058831	Opn1sw	GO:0120199	cone photoreceptor outer segment	cone_photoreceptor_outer_segment
+ENSMUSG00000026114	Cnga3	GO:0120199	cone photoreceptor outer segment	cone_photoreceptor_outer_segment

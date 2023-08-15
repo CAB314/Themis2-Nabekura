@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000040651	Tasor	GO:0008595	anterior/posterior axis specification, embryo	anterior_posterior_axis_specification,_embryo
+ENSMUSG00000021994	Wnt5a	GO:0008595	anterior/posterior axis specification, embryo	anterior_posterior_axis_specification,_embryo
+ENSMUSG00000045005	Fzd5	GO:0008595	anterior/posterior axis specification, embryo	anterior_posterior_axis_specification,_embryo
+ENSMUSG00000020170	Frs2	GO:0008595	anterior/posterior axis specification, embryo	anterior_posterior_axis_specification,_embryo
+ENSMUSG00000018604	Tbx3	GO:0008595	anterior/posterior axis specification, embryo	anterior_posterior_axis_specification,_embryo

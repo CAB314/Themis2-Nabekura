@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000022673	Mcm4	GO:0006271	DNA strand elongation involved in DNA replication	DNA_strand_elongation_involved_in_DNA_replication
+ENSMUSG00000041859	Mcm3	GO:0006271	DNA strand elongation involved in DNA replication	DNA_strand_elongation_involved_in_DNA_replication
+ENSMUSG00000006678	Pola1	GO:0006271	DNA strand elongation involved in DNA replication	DNA_strand_elongation_involved_in_DNA_replication
+ENSMUSG00000020471	Pold2	GO:0006271	DNA strand elongation involved in DNA replication	DNA_strand_elongation_involved_in_DNA_replication
+ENSMUSG00000029730	Mcm7	GO:0006271	DNA strand elongation involved in DNA replication	DNA_strand_elongation_involved_in_DNA_replication

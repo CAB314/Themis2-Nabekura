@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000021994	Wnt5a	GO:0003344	pericardium morphogenesis	pericardium_morphogenesis
+ENSMUSG00000031965	Tbx20	GO:0003344	pericardium morphogenesis	pericardium_morphogenesis
+ENSMUSG00000024241	Sos1	GO:0003344	pericardium morphogenesis	pericardium_morphogenesis
+ENSMUSG00000032179	Bmp5	GO:0003344	pericardium morphogenesis	pericardium_morphogenesis
+ENSMUSG00000008999	Bmp7	GO:0003344	pericardium morphogenesis	pericardium_morphogenesis
+ENSMUSG00000026923	Notch1	GO:0003344	pericardium morphogenesis	pericardium_morphogenesis
+ENSMUSG00000027314	Dll4	GO:0003344	pericardium morphogenesis	pericardium_morphogenesis

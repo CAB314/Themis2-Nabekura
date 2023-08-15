@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000058499	Pip	GO:0019864	IgG binding	IgG_binding
+ENSMUSG00000059089	Fcgr4	GO:0019864	IgG binding	IgG_binding
+ENSMUSG00000058715	Fcer1g	GO:0019864	IgG binding	IgG_binding
+ENSMUSG00000015947	Fcgr1	GO:0019864	IgG binding	IgG_binding
+ENSMUSG00000030963	Umod	GO:0019864	IgG binding	IgG_binding
+ENSMUSG00000003420	Fcgrt	GO:0019864	IgG binding	IgG_binding

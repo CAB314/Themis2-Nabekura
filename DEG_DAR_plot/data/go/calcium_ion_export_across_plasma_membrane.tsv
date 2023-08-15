@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000031376	Atp2b3	GO:1990034	calcium ion export across plasma membrane	calcium_ion_export_across_plasma_membrane
+ENSMUSG00000044026	Slc35g1	GO:1990034	calcium ion export across plasma membrane	calcium_ion_export_across_plasma_membrane
+ENSMUSG00000019943	Atp2b1	GO:1990034	calcium ion export across plasma membrane	calcium_ion_export_across_plasma_membrane
+ENSMUSG00000041771	Slc24a4	GO:1990034	calcium ion export across plasma membrane	calcium_ion_export_across_plasma_membrane
+ENSMUSG00000079055	Slc8a3	GO:1990034	calcium ion export across plasma membrane	calcium_ion_export_across_plasma_membrane
+ENSMUSG00000030376	Slc8a2	GO:1990034	calcium ion export across plasma membrane	calcium_ion_export_across_plasma_membrane

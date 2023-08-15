@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000082079	Dnmt3c	GO:0032776	DNA methylation on cytosine	DNA_methylation_on_cytosine
+ENSMUSG00000004099	Dnmt1	GO:0032776	DNA methylation on cytosine	DNA_methylation_on_cytosine
+ENSMUSG00000020661	Dnmt3a	GO:0032776	DNA methylation on cytosine	DNA_methylation_on_cytosine
+ENSMUSG00000000730	Dnmt3l	GO:0032776	DNA methylation on cytosine	DNA_methylation_on_cytosine
+ENSMUSG00000027478	Dnmt3b	GO:0032776	DNA methylation on cytosine	DNA_methylation_on_cytosine

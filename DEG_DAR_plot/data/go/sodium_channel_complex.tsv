@@ -1,0 +1,10 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000055567	Unc80	GO:0034706	sodium channel complex	sodium_channel_complex
+ENSMUSG00000032511	Scn5a	GO:0034706	sodium channel complex	sodium_channel_complex
+ENSMUSG00000019194	Scn1b	GO:0034706	sodium channel complex	sodium_channel_complex
+ENSMUSG00000000216	Scnn1g	GO:0034706	sodium channel complex	sodium_channel_complex
+ENSMUSG00000030873	Scnn1b	GO:0034706	sodium channel complex	sodium_channel_complex
+ENSMUSG00000030340	Scnn1a	GO:0034706	sodium channel complex	sodium_channel_complex
+ENSMUSG00000038260	Trpm4	GO:0034706	sodium channel complex	sodium_channel_complex
+ENSMUSG00000075318	Scn2a	GO:0034706	sodium channel complex	sodium_channel_complex
+ENSMUSG00000064329	Scn1a	GO:0034706	sodium channel complex	sodium_channel_complex

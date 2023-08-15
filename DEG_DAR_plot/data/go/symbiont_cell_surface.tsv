@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000073418	C4b	GO:0106139	symbiont cell surface	symbiont_cell_surface
+ENSMUSG00000105504	Gbp5	GO:0106139	symbiont cell surface	symbiont_cell_surface
+ENSMUSG00000028270	Gbp2	GO:0106139	symbiont cell surface	symbiont_cell_surface
+ENSMUSG00000070594	Cfhr4	GO:0106139	symbiont cell surface	symbiont_cell_surface
+ENSMUSG00000026365	Cfh	GO:0106139	symbiont cell surface	symbiont_cell_surface

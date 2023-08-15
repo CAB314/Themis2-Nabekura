@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000062232	Rapgef2	GO:0071321	cellular response to cGMP	cellular_response_to_cGMP
+ENSMUSG00000020838	Slc6a4	GO:0071321	cellular response to cGMP	cellular_response_to_cGMP
+ENSMUSG00000032338	Hcn4	GO:0071321	cellular response to cGMP	cellular_response_to_cGMP
+ENSMUSG00000041741	Pde3a	GO:0071321	cellular response to cGMP	cellular_response_to_cGMP
+ENSMUSG00000110195	Pde2a	GO:0071321	cellular response to cGMP	cellular_response_to_cGMP
+ENSMUSG00000020331	Hcn2	GO:0071321	cellular response to cGMP	cellular_response_to_cGMP
+ENSMUSG00000028469	Npr2	GO:0071321	cellular response to cGMP	cellular_response_to_cGMP

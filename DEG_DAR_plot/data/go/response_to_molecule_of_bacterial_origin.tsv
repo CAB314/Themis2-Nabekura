@@ -1,0 +1,11 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000045322	Tlr9	GO:0002237	response to molecule of bacterial origin	response_to_molecule_of_bacterial_origin
+ENSMUSG00000051439	Cd14	GO:0002237	response to molecule of bacterial origin	response_to_molecule_of_bacterial_origin
+ENSMUSG00000024339	Tap2	GO:0002237	response to molecule of bacterial origin	response_to_molecule_of_bacterial_origin
+ENSMUSG00000047139	Cd24a	GO:0002237	response to molecule of bacterial origin	response_to_molecule_of_bacterial_origin
+ENSMUSG00000071311	Gpr31b	GO:0002237	response to molecule of bacterial origin	response_to_molecule_of_bacterial_origin
+ENSMUSG00000016529	Il10	GO:0002237	response to molecule of bacterial origin	response_to_molecule_of_bacterial_origin
+ENSMUSG00000016206	H2-M3	GO:0002237	response to molecule of bacterial origin	response_to_molecule_of_bacterial_origin
+ENSMUSG00000019850	Tnfaip3	GO:0002237	response to molecule of bacterial origin	response_to_molecule_of_bacterial_origin
+ENSMUSG00000060802	B2m	GO:0002237	response to molecule of bacterial origin	response_to_molecule_of_bacterial_origin
+ENSMUSG00000058427	Cxcl2	GO:0002237	response to molecule of bacterial origin	response_to_molecule_of_bacterial_origin

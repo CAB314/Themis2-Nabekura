@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000058298	Mcm9	GO:0032407	MutSalpha complex binding	MutSalpha_complex_binding
+ENSMUSG00000032409	Atr	GO:0032407	MutSalpha complex binding	MutSalpha_complex_binding
+ENSMUSG00000049734	Trex1	GO:0032407	MutSalpha complex binding	MutSalpha_complex_binding
+ENSMUSG00000028687	Mutyh	GO:0032407	MutSalpha complex binding	MutSalpha_complex_binding
+ENSMUSG00000032498	Mlh1	GO:0032407	MutSalpha complex binding	MutSalpha_complex_binding
+ENSMUSG00000027353	Mcm8	GO:0032407	MutSalpha complex binding	MutSalpha_complex_binding
+ENSMUSG00000079109	Pms2	GO:0032407	MutSalpha complex binding	MutSalpha_complex_binding

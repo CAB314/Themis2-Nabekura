@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000029467	Atp2a2	GO:0014883	transition between fast and slow fiber	transition_between_fast_and_slow_fiber
+ENSMUSG00000028161	Ppp3ca	GO:0014883	transition between fast and slow fiber	transition_between_fast_and_slow_fiber
+ENSMUSG00000091898	Tnnc1	GO:0014883	transition between fast and slow fiber	transition_between_fast_and_slow_fiber
+ENSMUSG00000064179	Tnnt1	GO:0014883	transition between fast and slow fiber	transition_between_fast_and_slow_fiber
+ENSMUSG00000006457	Actn3	GO:0014883	transition between fast and slow fiber	transition_between_fast_and_slow_fiber
+ENSMUSG00000053093	Myh7	GO:0014883	transition between fast and slow fiber	transition_between_fast_and_slow_fiber
+ENSMUSG00000026418	Tnni1	GO:0014883	transition between fast and slow fiber	transition_between_fast_and_slow_fiber
+ENSMUSG00000015942	Gtf2ird2	GO:0014883	transition between fast and slow fiber	transition_between_fast_and_slow_fiber

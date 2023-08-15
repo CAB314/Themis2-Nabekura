@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000005161	Prdx2	GO:0008430	selenium binding	selenium_binding
+ENSMUSG00000037072	Selenof	GO:0008430	selenium binding	selenium_binding
+ENSMUSG00000064373	Selenop	GO:0008430	selenium binding	selenium_binding
+ENSMUSG00000018339	Gpx3	GO:0008430	selenium binding	selenium_binding
+ENSMUSG00000068877	Selenbp2	GO:0008430	selenium binding	selenium_binding
+ENSMUSG00000068874	Selenbp1	GO:0008430	selenium binding	selenium_binding
+ENSMUSG00000075706	Gpx4	GO:0008430	selenium binding	selenium_binding
+ENSMUSG00000029608	Rph3a	GO:0008430	selenium binding	selenium_binding

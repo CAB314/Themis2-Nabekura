@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000036438	Calm2	GO:0140056	organelle localization by membrane tethering	organelle_localization_by_membrane_tethering
+ENSMUSG00000029467	Atp2a2	GO:0140056	organelle localization by membrane tethering	organelle_localization_by_membrane_tethering
+ENSMUSG00000001175	Calm1	GO:0140056	organelle localization by membrane tethering	organelle_localization_by_membrane_tethering
+ENSMUSG00000018171	Vmp1	GO:0140056	organelle localization by membrane tethering	organelle_localization_by_membrane_tethering
+ENSMUSG00000019370	Calm3	GO:0140056	organelle localization by membrane tethering	organelle_localization_by_membrane_tethering

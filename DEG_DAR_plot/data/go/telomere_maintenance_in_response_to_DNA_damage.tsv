@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000029003	Mad2l2	GO:0043247	telomere maintenance in response to DNA damage	telomere_maintenance_in_response_to_DNA_damage
+ENSMUSG00000024174	Pot1b	GO:0043247	telomere maintenance in response to DNA damage	telomere_maintenance_in_response_to_DNA_damage
+ENSMUSG00000118537	Shld3	GO:0043247	telomere maintenance in response to DNA damage	telomere_maintenance_in_response_to_DNA_damage
+ENSMUSG00000038685	Rtel1	GO:0043247	telomere maintenance in response to DNA damage	telomere_maintenance_in_response_to_DNA_damage
+ENSMUSG00000041471	Shld2	GO:0043247	telomere maintenance in response to DNA damage	telomere_maintenance_in_response_to_DNA_damage
+ENSMUSG00000044991	Shld1	GO:0043247	telomere maintenance in response to DNA damage	telomere_maintenance_in_response_to_DNA_damage
+ENSMUSG00000036202	Rif1	GO:0043247	telomere maintenance in response to DNA damage	telomere_maintenance_in_response_to_DNA_damage

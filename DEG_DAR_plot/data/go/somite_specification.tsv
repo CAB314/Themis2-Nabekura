@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000072945	Ripply1	GO:0001757	somite specification	somite_specification
+ENSMUSG00000036144	Meox2	GO:0001757	somite specification	somite_specification
+ENSMUSG00000014773	Dll1	GO:0001757	somite specification	somite_specification
+ENSMUSG00000001493	Meox1	GO:0001757	somite specification	somite_specification
+ENSMUSG00000020173	Cobl	GO:0001757	somite specification	somite_specification

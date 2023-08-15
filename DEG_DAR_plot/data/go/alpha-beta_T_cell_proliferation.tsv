@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000039521	Foxp3	GO:0046633	alpha-beta T cell proliferation	alpha-beta_T_cell_proliferation
+ENSMUSG00000020143	Dock2	GO:0046633	alpha-beta T cell proliferation	alpha-beta_T_cell_proliferation
+ENSMUSG00000030528	Blm	GO:0046633	alpha-beta T cell proliferation	alpha-beta_T_cell_proliferation
+ENSMUSG00000074491	Clec4g	GO:0046633	alpha-beta T cell proliferation	alpha-beta_T_cell_proliferation
+ENSMUSG00000026395	Ptprc	GO:0046633	alpha-beta T cell proliferation	alpha-beta_T_cell_proliferation

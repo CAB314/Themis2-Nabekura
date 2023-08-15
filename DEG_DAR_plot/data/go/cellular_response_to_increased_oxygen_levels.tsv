@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000052459	Atp6v1a	GO:0036295	cellular response to increased oxygen levels	cellular_response_to_increased_oxygen_levels
+ENSMUSG00000039105	Atp6v1g1	GO:0036295	cellular response to increased oxygen levels	cellular_response_to_increased_oxygen_levels
+ENSMUSG00000019087	Atp6ap1	GO:0036295	cellular response to increased oxygen levels	cellular_response_to_increased_oxygen_levels
+ENSMUSG00000038023	Atp6v0a2	GO:0036295	cellular response to increased oxygen levels	cellular_response_to_increased_oxygen_levels
+ENSMUSG00000051232	Tmem199	GO:0036295	cellular response to increased oxygen levels	cellular_response_to_increased_oxygen_levels
+ENSMUSG00000013160	Atp6v0d1	GO:0036295	cellular response to increased oxygen levels	cellular_response_to_increased_oxygen_levels
+ENSMUSG00000042111	Ccdc115	GO:0036295	cellular response to increased oxygen levels	cellular_response_to_increased_oxygen_levels

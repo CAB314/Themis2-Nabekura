@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000074272	Ceacam1	GO:0035325	Toll-like receptor binding	Toll-like_receptor_binding
+ENSMUSG00000027995	Tlr2	GO:0035325	Toll-like receptor binding	Toll-like_receptor_binding
+ENSMUSG00000021457	Syk	GO:0035325	Toll-like receptor binding	Toll-like_receptor_binding
+ENSMUSG00000002944	Cd36	GO:0035325	Toll-like receptor binding	Toll-like_receptor_binding
+ENSMUSG00000036908	Unc93b1	GO:0035325	Toll-like receptor binding	Toll-like_receptor_binding
+ENSMUSG00000032508	Myd88	GO:0035325	Toll-like receptor binding	Toll-like_receptor_binding
+ENSMUSG00000025139	Tollip	GO:0035325	Toll-like receptor binding	Toll-like_receptor_binding

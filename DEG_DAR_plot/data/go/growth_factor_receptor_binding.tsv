@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000019969	Psen1	GO:0070851	growth factor receptor binding	growth_factor_receptor_binding
+ENSMUSG00000022892	App	GO:0070851	growth factor receptor binding	growth_factor_receptor_binding
+ENSMUSG00000027646	Src	GO:0070851	growth factor receptor binding	growth_factor_receptor_binding
+ENSMUSG00000019843	Fyn	GO:0070851	growth factor receptor binding	growth_factor_receptor_binding
+ENSMUSG00000003458	Ncstn	GO:0070851	growth factor receptor binding	growth_factor_receptor_binding
+ENSMUSG00000020733	Nherf1	GO:0070851	growth factor receptor binding	growth_factor_receptor_binding

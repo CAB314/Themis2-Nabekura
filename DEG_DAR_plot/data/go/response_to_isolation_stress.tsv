@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000006818	Sod2	GO:0035900	response to isolation stress	response_to_isolation_stress
+ENSMUSG00000022477	Aco2	GO:0035900	response to isolation stress	response_to_isolation_stress
+ENSMUSG00000024401	Tnf	GO:0035900	response to isolation stress	response_to_isolation_stress
+ENSMUSG00000000214	Th	GO:0035900	response to isolation stress	response_to_isolation_stress
+ENSMUSG00000035385	Ccl2	GO:0035900	response to isolation stress	response_to_isolation_stress

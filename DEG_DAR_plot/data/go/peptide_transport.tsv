@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000025557	Slc15a1	GO:0015833	peptide transport	peptide_transport
+ENSMUSG00000037321	Tap1	GO:0015833	peptide transport	peptide_transport
+ENSMUSG00000024339	Tap2	GO:0015833	peptide transport	peptide_transport
+ENSMUSG00000024737	Slc15a3	GO:0015833	peptide transport	peptide_transport
+ENSMUSG00000044378	Slc15a5	GO:0015833	peptide transport	peptide_transport
+ENSMUSG00000029416	Slc15a4	GO:0015833	peptide transport	peptide_transport
+ENSMUSG00000030768	Disp1	GO:0015833	peptide transport	peptide_transport
+ENSMUSG00000029408	Abcb9	GO:0015833	peptide transport	peptide_transport

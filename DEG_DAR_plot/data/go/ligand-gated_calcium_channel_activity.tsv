@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000029470	P2rx4	GO:0099604	ligand-gated calcium channel activity	ligand-gated_calcium_channel_activity
+ENSMUSG00000004567	Mcoln1	GO:0099604	ligand-gated calcium channel activity	ligand-gated_calcium_channel_activity
+ENSMUSG00000009292	Trpm2	GO:0099604	ligand-gated calcium channel activity	ligand-gated_calcium_channel_activity
+ENSMUSG00000036251	Trpm8	GO:0099604	ligand-gated calcium channel activity	ligand-gated_calcium_channel_activity
+ENSMUSG00000038260	Trpm4	GO:0099604	ligand-gated calcium channel activity	ligand-gated_calcium_channel_activity
+ENSMUSG00000009246	Trpm5	GO:0099604	ligand-gated calcium channel activity	ligand-gated_calcium_channel_activity

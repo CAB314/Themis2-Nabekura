@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000022382	Wnt7b	GO:0072207	metanephric epithelium development	metanephric_epithelium_development
+ENSMUSG00000004231	Pax2	GO:0072207	metanephric epithelium development	metanephric_epithelium_development
+ENSMUSG00000048387	Osr1	GO:0072207	metanephric epithelium development	metanephric_epithelium_development
+ENSMUSG00000016458	Wt1	GO:0072207	metanephric epithelium development	metanephric_epithelium_development
+ENSMUSG00000026976	Pax8	GO:0072207	metanephric epithelium development	metanephric_epithelium_development

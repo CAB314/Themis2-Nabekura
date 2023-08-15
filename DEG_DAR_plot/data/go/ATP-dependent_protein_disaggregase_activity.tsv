@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000034187	Nsf	GO:0140545	ATP-dependent protein disaggregase activity	ATP-dependent_protein_disaggregase_activity
+ENSMUSG00000090877	Hspa1b	GO:0140545	ATP-dependent protein disaggregase activity	ATP-dependent_protein_disaggregase_activity
+ENSMUSG00000091971	Hspa1a	GO:0140545	ATP-dependent protein disaggregase activity	ATP-dependent_protein_disaggregase_activity
+ENSMUSG00000015656	Hspa8	GO:0140545	ATP-dependent protein disaggregase activity	ATP-dependent_protein_disaggregase_activity
+ENSMUSG00000001829	Clpb	GO:0140545	ATP-dependent protein disaggregase activity	ATP-dependent_protein_disaggregase_activity

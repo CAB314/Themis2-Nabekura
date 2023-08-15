@@ -1,0 +1,13 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000022488	Nckap1l	GO:0045588	positive regulation of gamma-delta T cell differentiation	positive_regulation_of_gamma-delta_T_cell_differentiation
+ENSMUSG00000000409	Lck	GO:0045588	positive regulation of gamma-delta T cell differentiation	positive_regulation_of_gamma-delta_T_cell_differentiation
+ENSMUSG00000076431	Sox4	GO:0045588	positive regulation of gamma-delta T cell differentiation	positive_regulation_of_gamma-delta_T_cell_differentiation
+ENSMUSG00000021457	Syk	GO:0045588	positive regulation of gamma-delta T cell differentiation	positive_regulation_of_gamma-delta_T_cell_differentiation
+ENSMUSG00000043505	Gimap5	GO:0045588	positive regulation of gamma-delta T cell differentiation	positive_regulation_of_gamma-delta_T_cell_differentiation
+ENSMUSG00000039264	Gimap3	GO:0045588	positive regulation of gamma-delta T cell differentiation	positive_regulation_of_gamma-delta_T_cell_differentiation
+ENSMUSG00000027985	Lef1	GO:0045588	positive regulation of gamma-delta T cell differentiation	positive_regulation_of_gamma-delta_T_cell_differentiation
+ENSMUSG00000020919	Stat5b	GO:0045588	positive regulation of gamma-delta T cell differentiation	positive_regulation_of_gamma-delta_T_cell_differentiation
+ENSMUSG00000004043	Stat5a	GO:0045588	positive regulation of gamma-delta T cell differentiation	positive_regulation_of_gamma-delta_T_cell_differentiation
+ENSMUSG00000089773	Skint1	GO:0045588	positive regulation of gamma-delta T cell differentiation	positive_regulation_of_gamma-delta_T_cell_differentiation
+ENSMUSG00000026395	Ptprc	GO:0045588	positive regulation of gamma-delta T cell differentiation	positive_regulation_of_gamma-delta_T_cell_differentiation
+ENSMUSG00000070643	Sox13	GO:0045588	positive regulation of gamma-delta T cell differentiation	positive_regulation_of_gamma-delta_T_cell_differentiation

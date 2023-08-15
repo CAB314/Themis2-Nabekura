@@ -1,0 +1,15 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000021408	Ripk1	GO:0043068	positive regulation of programmed cell death	positive_regulation_of_programmed_cell_death
+ENSMUSG00000001288	Rarg	GO:0043068	positive regulation of programmed cell death	positive_regulation_of_programmed_cell_death
+ENSMUSG00000036273	Lrrk2	GO:0043068	positive regulation of programmed cell death	positive_regulation_of_programmed_cell_death
+ENSMUSG00000037169	Mycn	GO:0043068	positive regulation of programmed cell death	positive_regulation_of_programmed_cell_death
+ENSMUSG00000004085	Map3k20	GO:0043068	positive regulation of programmed cell death	positive_regulation_of_programmed_cell_death
+ENSMUSG00000023067	Cdkn1a	GO:0043068	positive regulation of programmed cell death	positive_regulation_of_programmed_cell_death
+ENSMUSG00000017491	Rarb	GO:0043068	positive regulation of programmed cell death	positive_regulation_of_programmed_cell_death
+ENSMUSG00000030314	Atg7	GO:0043068	positive regulation of programmed cell death	positive_regulation_of_programmed_cell_death
+ENSMUSG00000021835	Bmp4	GO:0043068	positive regulation of programmed cell death	positive_regulation_of_programmed_cell_death
+ENSMUSG00000028072	Ntrk1	GO:0043068	positive regulation of programmed cell death	positive_regulation_of_programmed_cell_death
+ENSMUSG00000024401	Tnf	GO:0043068	positive regulation of programmed cell death	positive_regulation_of_programmed_cell_death
+ENSMUSG00000039745	Htatip2	GO:0043068	positive regulation of programmed cell death	positive_regulation_of_programmed_cell_death
+ENSMUSG00000078566	Bnip3	GO:0043068	positive regulation of programmed cell death	positive_regulation_of_programmed_cell_death
+ENSMUSG00000029249	Rest	GO:0043068	positive regulation of programmed cell death	positive_regulation_of_programmed_cell_death

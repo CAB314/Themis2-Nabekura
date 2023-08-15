@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024154	Gtf2a1l	GO:0005672	transcription factor TFIIA complex	transcription_factor_TFIIA_complex
+ENSMUSG00000020962	Gtf2a1	GO:0005672	transcription factor TFIIA complex	transcription_factor_TFIIA_complex
+ENSMUSG00000014767	Tbp	GO:0005672	transcription factor TFIIA complex	transcription_factor_TFIIA_complex
+ENSMUSG00000071359	Tbpl1	GO:0005672	transcription factor TFIIA complex	transcription_factor_TFIIA_complex
+ENSMUSG00000033543	Gtf2a2	GO:0005672	transcription factor TFIIA complex	transcription_factor_TFIIA_complex

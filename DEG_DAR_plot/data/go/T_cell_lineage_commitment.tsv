@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000022672	Prkdc	GO:0002360	T cell lineage commitment	T_cell_lineage_commitment
+ENSMUSG00000040329	Il7	GO:0002360	T cell lineage commitment	T_cell_lineage_commitment
+ENSMUSG00000057329	Bcl2	GO:0002360	T cell lineage commitment	T_cell_lineage_commitment
+ENSMUSG00000032864	Rag2	GO:0002360	T cell lineage commitment	T_cell_lineage_commitment
+ENSMUSG00000059552	Trp53	GO:0002360	T cell lineage commitment	T_cell_lineage_commitment
+ENSMUSG00000002057	Foxn1	GO:0002360	T cell lineage commitment	T_cell_lineage_commitment

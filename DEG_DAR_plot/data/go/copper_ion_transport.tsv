@@ -1,0 +1,13 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000033792	Atp7a	GO:0006825	copper ion transport	copper_ion_transport
+ENSMUSG00000066152	Slc31a2	GO:0006825	copper ion transport	copper_ion_transport
+ENSMUSG00000006567	Atp7b	GO:0006825	copper ion transport	copper_ion_transport
+ENSMUSG00000061273	Mmgt1	GO:0006825	copper ion transport	copper_ion_transport
+ENSMUSG00000031936	Hephl1	GO:0006825	copper ion transport	copper_ion_transport
+ENSMUSG00000030357	Fkbp4	GO:0006825	copper ion transport	copper_ion_transport
+ENSMUSG00000031209	Heph	GO:0006825	copper ion transport	copper_ion_transport
+ENSMUSG00000003617	Cp	GO:0006825	copper ion transport	copper_ion_transport
+ENSMUSG00000048497	Mmgt2	GO:0006825	copper ion transport	copper_ion_transport
+ENSMUSG00000023030	Slc11a2	GO:0006825	copper ion transport	copper_ion_transport
+ENSMUSG00000018585	Atox1	GO:0006825	copper ion transport	copper_ion_transport
+ENSMUSG00000066150	Slc31a1	GO:0006825	copper ion transport	copper_ion_transport

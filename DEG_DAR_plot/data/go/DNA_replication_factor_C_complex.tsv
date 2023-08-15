@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000022881	Rfc4	GO:0005663	DNA replication factor C complex	DNA_replication_factor_C_complex
+ENSMUSG00000033970	Rfc3	GO:0005663	DNA replication factor C complex	DNA_replication_factor_C_complex
+ENSMUSG00000029191	Rfc1	GO:0005663	DNA replication factor C complex	DNA_replication_factor_C_complex
+ENSMUSG00000023104	Rfc2	GO:0005663	DNA replication factor C complex	DNA_replication_factor_C_complex
+ENSMUSG00000029363	Rfc5	GO:0005663	DNA replication factor C complex	DNA_replication_factor_C_complex

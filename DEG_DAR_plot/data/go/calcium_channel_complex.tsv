@@ -1,0 +1,24 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000061603	Akap6	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000021973	Micu2	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000036438	Calm2	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000019787	Trdn	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000032855	Pkd1	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000001175	Calm1	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000021699	Pde4d	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000027748	Trpc4	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000037578	Pkd2l1	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000009647	Mcu	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000020111	Micu1	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000041710	Trpc5	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000021313	Ryr2	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000020635	Fkbp1b	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000027994	Mcub	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000042272	Sestd1	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000046634	Pkd1l1	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000029868	Trpv6	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000036899	Trpv5	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000057378	Ryr3	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000019370	Calm3	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000030592	Ryr1	GO:0034704	calcium channel complex	calcium_channel_complex
+ENSMUSG00000039515	Ptpa	GO:0034704	calcium channel complex	calcium_channel_complex

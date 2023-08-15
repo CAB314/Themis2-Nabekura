@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000020053	Igf1	GO:0014904	myotube cell development	myotube_cell_development
+ENSMUSG00000055067	Smyd3	GO:0014904	myotube cell development	myotube_cell_development
+ENSMUSG00000045103	Dmd	GO:0014904	myotube cell development	myotube_cell_development
+ENSMUSG00000065503	Mir351	GO:0014904	myotube cell development	myotube_cell_development
+ENSMUSG00000009471	Myod1	GO:0014904	myotube cell development	myotube_cell_development
+ENSMUSG00000027544	Nfatc2	GO:0014904	myotube cell development	myotube_cell_development

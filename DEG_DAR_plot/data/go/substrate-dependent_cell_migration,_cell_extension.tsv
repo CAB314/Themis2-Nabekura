@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000041362	Shtn1	GO:0006930	substrate-dependent cell migration, cell extension	substrate-dependent_cell_migration,_cell_extension
+ENSMUSG00000031078	Cttn	GO:0006930	substrate-dependent cell migration, cell extension	substrate-dependent_cell_migration,_cell_extension
+ENSMUSG00000036353	P2ry12	GO:0006930	substrate-dependent cell migration, cell extension	substrate-dependent_cell_migration,_cell_extension
+ENSMUSG00000032475	Nck1	GO:0006930	substrate-dependent cell migration, cell extension	substrate-dependent_cell_migration,_cell_extension
+ENSMUSG00000025810	Nrp1	GO:0006930	substrate-dependent cell migration, cell extension	substrate-dependent_cell_migration,_cell_extension
+ENSMUSG00000020902	Ntn1	GO:0006930	substrate-dependent cell migration, cell extension	substrate-dependent_cell_migration,_cell_extension
+ENSMUSG00000020900	Myh10	GO:0006930	substrate-dependent cell migration, cell extension	substrate-dependent_cell_migration,_cell_extension

@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000036169	Sostdc1	GO:0098821	BMP receptor activity	BMP_receptor_activity
+ENSMUSG00000052430	Bmpr1b	GO:0098821	BMP receptor activity	BMP_receptor_activity
+ENSMUSG00000067336	Bmpr2	GO:0098821	BMP receptor activity	BMP_receptor_activity
+ENSMUSG00000021796	Bmpr1a	GO:0098821	BMP receptor activity	BMP_receptor_activity
+ENSMUSG00000000530	Acvrl1	GO:0098821	BMP receptor activity	BMP_receptor_activity
+ENSMUSG00000038403	Hjv	GO:0098821	BMP receptor activity	BMP_receptor_activity
+ENSMUSG00000052155	Acvr2a	GO:0098821	BMP receptor activity	BMP_receptor_activity

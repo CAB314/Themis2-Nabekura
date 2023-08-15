@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000031710	Ucp1	GO:0009266	response to temperature stimulus	response_to_temperature_stimulus
+ENSMUSG00000025007	Aldh18a1	GO:0009266	response to temperature stimulus	response_to_temperature_stimulus
+ENSMUSG00000027875	Hmgcs2	GO:0009266	response to temperature stimulus	response_to_temperature_stimulus
+ENSMUSG00000018507	Trpv2	GO:0009266	response to temperature stimulus	response_to_temperature_stimulus
+ENSMUSG00000043029	Trpv3	GO:0009266	response to temperature stimulus	response_to_temperature_stimulus
+ENSMUSG00000036251	Trpm8	GO:0009266	response to temperature stimulus	response_to_temperature_stimulus
+ENSMUSG00000034853	Acot11	GO:0009266	response to temperature stimulus	response_to_temperature_stimulus
+ENSMUSG00000027071	P2rx3	GO:0009266	response to temperature stimulus	response_to_temperature_stimulus

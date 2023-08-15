@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000005672	Kit	GO:0002551	mast cell chemotaxis	mast_cell_chemotaxis
+ENSMUSG00000021194	Chga	GO:0002551	mast cell chemotaxis	mast_cell_chemotaxis
+ENSMUSG00000035448	Ccr3	GO:0002551	mast cell chemotaxis	mast_cell_chemotaxis
+ENSMUSG00000001847	Rac1	GO:0002551	mast cell chemotaxis	mast_cell_chemotaxis
+ENSMUSG00000020676	Ccl11	GO:0002551	mast cell chemotaxis	mast_cell_chemotaxis

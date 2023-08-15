@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000040726	Hesx1	GO:0030916	otic vesicle formation	otic_vesicle_formation
+ENSMUSG00000007877	Tcap	GO:0030916	otic vesicle formation	otic_vesicle_formation
+ENSMUSG00000025219	Fgf8	GO:0030916	otic vesicle formation	otic_vesicle_formation
+ENSMUSG00000021732	Fgf10	GO:0030916	otic vesicle formation	otic_vesicle_formation
+ENSMUSG00000019971	Cep290	GO:0030916	otic vesicle formation	otic_vesicle_formation
+ENSMUSG00000000567	Sox9	GO:0030916	otic vesicle formation	otic_vesicle_formation

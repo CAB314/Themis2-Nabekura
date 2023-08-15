@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000030144	Clec4d	GO:0034987	immunoglobulin receptor binding	immunoglobulin_receptor_binding
+ENSMUSG00000095079	Igha	GO:0034987	immunoglobulin receptor binding	immunoglobulin_receptor_binding
+ENSMUSG00000076615	Ighg3	GO:0034987	immunoglobulin receptor binding	immunoglobulin_receptor_binding
+ENSMUSG00000076617	Ighm	GO:0034987	immunoglobulin receptor binding	immunoglobulin_receptor_binding
+ENSMUSG00000028874	Fgr	GO:0034987	immunoglobulin receptor binding	immunoglobulin_receptor_binding
+ENSMUSG00000053338	Tarm1	GO:0034987	immunoglobulin receptor binding	immunoglobulin_receptor_binding
+ENSMUSG00000053158	Fes	GO:0034987	immunoglobulin receptor binding	immunoglobulin_receptor_binding
+ENSMUSG00000067149	Jchain	GO:0034987	immunoglobulin receptor binding	immunoglobulin_receptor_binding

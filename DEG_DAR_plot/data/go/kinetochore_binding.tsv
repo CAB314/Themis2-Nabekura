@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000045273	Cenph	GO:0043515	kinetochore binding	kinetochore_binding
+ENSMUSG00000038379	Ttk	GO:0043515	kinetochore binding	kinetochore_binding
+ENSMUSG00000045328	Cenpe	GO:0043515	kinetochore binding	kinetochore_binding
+ENSMUSG00000069910	Spdl1	GO:0043515	kinetochore binding	kinetochore_binding
+ENSMUSG00000029554	Mad1l1	GO:0043515	kinetochore binding	kinetochore_binding

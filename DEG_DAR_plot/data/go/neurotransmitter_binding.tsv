@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000059003	Grin2a	GO:0042165	neurotransmitter binding	neurotransmitter_binding
+ENSMUSG00000030307	Slc6a11	GO:0042165	neurotransmitter binding	neurotransmitter_binding
+ENSMUSG00000035745	Grin3b	GO:0042165	neurotransmitter binding	neurotransmitter_binding
+ENSMUSG00000030108	Slc6a13	GO:0042165	neurotransmitter binding	neurotransmitter_binding
+ENSMUSG00000034285	Nipsnap1	GO:0042165	neurotransmitter binding	neurotransmitter_binding
+ENSMUSG00000039579	Grin3a	GO:0042165	neurotransmitter binding	neurotransmitter_binding
+ENSMUSG00000026959	Grin1	GO:0042165	neurotransmitter binding	neurotransmitter_binding
+ENSMUSG00000002771	Grin2d	GO:0042165	neurotransmitter binding	neurotransmitter_binding

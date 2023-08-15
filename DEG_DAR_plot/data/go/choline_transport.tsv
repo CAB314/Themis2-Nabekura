@@ -1,0 +1,10 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000019558	Slc6a8	GO:0015871	choline transport	choline_transport
+ENSMUSG00000023945	Slc5a7	GO:0015871	choline transport	choline_transport
+ENSMUSG00000028360	Slc44a5	GO:0015871	choline transport	choline_transport
+ENSMUSG00000020823	Sec14l1	GO:0015871	choline transport	choline_transport
+ENSMUSG00000040966	Slc22a2	GO:0015871	choline transport	choline_transport
+ENSMUSG00000019969	Psen1	GO:0015871	choline transport	choline_transport
+ENSMUSG00000007034	Slc44a4	GO:0015871	choline transport	choline_transport
+ENSMUSG00000057193	Slc44a2	GO:0015871	choline transport	choline_transport
+ENSMUSG00000028412	Slc44a1	GO:0015871	choline transport	choline_transport

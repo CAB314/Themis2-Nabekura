@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000022346	Myc	GO:1905643	positive regulation of DNA methylation	positive_regulation_of_DNA_methylation
+ENSMUSG00000031393	Mecp2	GO:1905643	positive regulation of DNA methylation	positive_regulation_of_DNA_methylation
+ENSMUSG00000000730	Dnmt3l	GO:1905643	positive regulation of DNA methylation	positive_regulation_of_DNA_methylation
+ENSMUSG00000016458	Wt1	GO:1905643	positive regulation of DNA methylation	positive_regulation_of_DNA_methylation
+ENSMUSG00000049086	Bmyc	GO:1905643	positive regulation of DNA methylation	positive_regulation_of_DNA_methylation

@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000073421	H2-Ab1	GO:0048002	antigen processing and presentation of peptide antigen	antigen_processing_and_presentation_of_peptide_antigen
+ENSMUSG00000036594	H2-Aa	GO:0048002	antigen processing and presentation of peptide antigen	antigen_processing_and_presentation_of_peptide_antigen
+ENSMUSG00000021477	Ctsl	GO:0048002	antigen processing and presentation of peptide antigen	antigen_processing_and_presentation_of_peptide_antigen
+ENSMUSG00000038642	Ctss	GO:0048002	antigen processing and presentation of peptide antigen	antigen_processing_and_presentation_of_peptide_antigen
+ENSMUSG00000026177	Slc11a1	GO:0048002	antigen processing and presentation of peptide antigen	antigen_processing_and_presentation_of_peptide_antigen

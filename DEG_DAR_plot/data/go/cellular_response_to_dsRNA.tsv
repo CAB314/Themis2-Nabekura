@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000043702	Pde12	GO:0071359	cellular response to dsRNA	cellular_response_to_dsRNA
+ENSMUSG00000029468	P2rx7	GO:0071359	cellular response to dsRNA	cellular_response_to_dsRNA
+ENSMUSG00000024404	Riok3	GO:0071359	cellular response to dsRNA	cellular_response_to_dsRNA
+ENSMUSG00000028163	Nfkb1	GO:0071359	cellular response to dsRNA	cellular_response_to_dsRNA
+ENSMUSG00000020524	Gria1	GO:0071359	cellular response to dsRNA	cellular_response_to_dsRNA
+ENSMUSG00000048806	Ifnb1	GO:0071359	cellular response to dsRNA	cellular_response_to_dsRNA

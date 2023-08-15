@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000029440	Psmd9	GO:0097050	type B pancreatic cell apoptotic process	type_B_pancreatic_cell_apoptotic_process
+ENSMUSG00000029644	Pdx1	GO:0097050	type B pancreatic cell apoptotic process	type_B_pancreatic_cell_apoptotic_process
+ENSMUSG00000021313	Ryr2	GO:0097050	type B pancreatic cell apoptotic process	type_B_pancreatic_cell_apoptotic_process
+ENSMUSG00000021936	Mapk8	GO:0097050	type B pancreatic cell apoptotic process	type_B_pancreatic_cell_apoptotic_process
+ENSMUSG00000026270	Capn10	GO:0097050	type B pancreatic cell apoptotic process	type_B_pancreatic_cell_apoptotic_process
+ENSMUSG00000030314	Atg7	GO:0097050	type B pancreatic cell apoptotic process	type_B_pancreatic_cell_apoptotic_process
+ENSMUSG00000057522	Spop	GO:0097050	type B pancreatic cell apoptotic process	type_B_pancreatic_cell_apoptotic_process

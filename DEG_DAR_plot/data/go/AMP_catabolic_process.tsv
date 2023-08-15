@@ -1,0 +1,10 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000075543	Urad	GO:0006196	AMP catabolic process	AMP_catabolic_process
+ENSMUSG00000024066	Xdh	GO:0006196	AMP catabolic process	AMP_catabolic_process
+ENSMUSG00000005686	Ampd3	GO:0006196	AMP catabolic process	AMP_catabolic_process
+ENSMUSG00000020622	Nt5c1b	GO:0006196	AMP catabolic process	AMP_catabolic_process
+ENSMUSG00000028186	Uox	GO:0006196	AMP catabolic process	AMP_catabolic_process
+ENSMUSG00000054958	Nt5c1a	GO:0006196	AMP catabolic process	AMP_catabolic_process
+ENSMUSG00000017697	Ada	GO:0006196	AMP catabolic process	AMP_catabolic_process
+ENSMUSG00000032420	Nt5e	GO:0006196	AMP catabolic process	AMP_catabolic_process
+ENSMUSG00000025481	Urah	GO:0006196	AMP catabolic process	AMP_catabolic_process

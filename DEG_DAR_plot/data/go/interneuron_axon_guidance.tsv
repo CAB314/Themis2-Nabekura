@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000105178	Mir376a	GO:0097376	interneuron axon guidance	interneuron_axon_guidance
+ENSMUSG00000029755	Dlx5	GO:0097376	interneuron axon guidance	interneuron_axon_guidance
+ENSMUSG00000106493	Mir9-1	GO:0097376	interneuron axon guidance	interneuron_axon_guidance
+ENSMUSG00000065424	Mir9-2	GO:0097376	interneuron axon guidance	interneuron_axon_guidance
+ENSMUSG00000093238	Mir9-3	GO:0097376	interneuron axon guidance	interneuron_axon_guidance
+ENSMUSG00000065462	Mir200c	GO:0097376	interneuron axon guidance	interneuron_axon_guidance
+ENSMUSG00000065400	Mir200a	GO:0097376	interneuron axon guidance	interneuron_axon_guidance
+ENSMUSG00000065549	Mir200b	GO:0097376	interneuron axon guidance	interneuron_axon_guidance

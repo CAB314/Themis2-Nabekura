@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024379	Tslp	GO:0033005	positive regulation of mast cell activation	positive_regulation_of_mast_cell_activation
+ENSMUSG00000034028	Cd226	GO:0033005	positive regulation of mast cell activation	positive_regulation_of_mast_cell_activation
+ENSMUSG00000041301	Cftr	GO:0033005	positive regulation of mast cell activation	positive_regulation_of_mast_cell_activation
+ENSMUSG00000078924	Gm12169	GO:0033005	positive regulation of mast cell activation	positive_regulation_of_mast_cell_activation
+ENSMUSG00000046974	BC053393	GO:0033005	positive regulation of mast cell activation	positive_regulation_of_mast_cell_activation
+ENSMUSG00000064010	Dppa1	GO:0033005	positive regulation of mast cell activation	positive_regulation_of_mast_cell_activation
+ENSMUSG00000062300	Nectin2	GO:0033005	positive regulation of mast cell activation	positive_regulation_of_mast_cell_activation
+ENSMUSG00000063193	Cd300lb	GO:0033005	positive regulation of mast cell activation	positive_regulation_of_mast_cell_activation

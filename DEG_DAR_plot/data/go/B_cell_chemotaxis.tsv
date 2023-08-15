@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000031451	Gas6	GO:0035754	B cell chemotaxis	B_cell_chemotaxis
+ENSMUSG00000050370	Ch25h	GO:0035754	B cell chemotaxis	B_cell_chemotaxis
+ENSMUSG00000042289	Hsd3b7	GO:0035754	B cell chemotaxis	B_cell_chemotaxis
+ENSMUSG00000039519	Cyp7b1	GO:0035754	B cell chemotaxis	B_cell_chemotaxis
+ENSMUSG00000023078	Cxcl13	GO:0035754	B cell chemotaxis	B_cell_chemotaxis

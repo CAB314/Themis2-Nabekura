@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000033792	Atp7a	GO:0071284	cellular response to lead ion	cellular_response_to_lead_ion
+ENSMUSG00000022512	Cldn1	GO:0071284	cellular response to lead ion	cellular_response_to_lead_ion
+ENSMUSG00000033685	Ucp2	GO:0071284	cellular response to lead ion	cellular_response_to_lead_ion
+ENSMUSG00000032487	Ptgs2	GO:0071284	cellular response to lead ion	cellular_response_to_lead_ion
+ENSMUSG00000028393	Alad	GO:0071284	cellular response to lead ion	cellular_response_to_lead_ion

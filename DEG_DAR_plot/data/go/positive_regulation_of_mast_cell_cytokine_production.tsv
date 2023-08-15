@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000021457	Syk	GO:0032765	positive regulation of mast cell cytokine production	positive_regulation_of_mast_cell_cytokine_production
+ENSMUSG00000005672	Kit	GO:0032765	positive regulation of mast cell cytokine production	positive_regulation_of_mast_cell_cytokine_production
+ENSMUSG00000058715	Fcer1g	GO:0032765	positive regulation of mast cell cytokine production	positive_regulation_of_mast_cell_cytokine_production
+ENSMUSG00000005339	Fcer1a	GO:0032765	positive regulation of mast cell cytokine production	positive_regulation_of_mast_cell_cytokine_production
+ENSMUSG00000028341	Nr4a3	GO:0032765	positive regulation of mast cell cytokine production	positive_regulation_of_mast_cell_cytokine_production

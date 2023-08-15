@@ -1,0 +1,10 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000031639	Tlr3	GO:0097527	necroptotic signaling pathway	necroptotic_signaling_pathway
+ENSMUSG00000024778	Fas	GO:0097527	necroptotic signaling pathway	necroptotic_signaling_pathway
+ENSMUSG00000012519	Mlkl	GO:0097527	necroptotic signaling pathway	necroptotic_signaling_pathway
+ENSMUSG00000021408	Ripk1	GO:0097527	necroptotic signaling pathway	necroptotic_signaling_pathway
+ENSMUSG00000000817	Fasl	GO:0097527	necroptotic signaling pathway	necroptotic_signaling_pathway
+ENSMUSG00000022221	Ripk3	GO:0097527	necroptotic signaling pathway	necroptotic_signaling_pathway
+ENSMUSG00000024401	Tnf	GO:0097527	necroptotic signaling pathway	necroptotic_signaling_pathway
+ENSMUSG00000037613	Tnfrsf23	GO:0097527	necroptotic signaling pathway	necroptotic_signaling_pathway
+ENSMUSG00000031077	Fadd	GO:0097527	necroptotic signaling pathway	necroptotic_signaling_pathway

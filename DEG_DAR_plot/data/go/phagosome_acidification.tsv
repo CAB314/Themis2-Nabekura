@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000030559	Rab38	GO:0090383	phagosome acidification	phagosome_acidification
+ENSMUSG00000031504	Rab20	GO:0090383	phagosome acidification	phagosome_acidification
+ENSMUSG00000001750	Tcirg1	GO:0090383	phagosome acidification	phagosome_acidification
+ENSMUSG00000021733	Slc4a7	GO:0090383	phagosome acidification	phagosome_acidification
+ENSMUSG00000055069	Rab39	GO:0090383	phagosome acidification	phagosome_acidification
+ENSMUSG00000079477	Rab7	GO:0090383	phagosome acidification	phagosome_acidification

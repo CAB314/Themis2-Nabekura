@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000032350	Gclc	GO:0019852	L-ascorbic acid metabolic process	L-ascorbic_acid_metabolic_process
+ENSMUSG00000008153	Clstn3	GO:0019852	L-ascorbic acid metabolic process	L-ascorbic_acid_metabolic_process
+ENSMUSG00000025068	Gsto1	GO:0019852	L-ascorbic acid metabolic process	L-ascorbic_acid_metabolic_process
+ENSMUSG00000025069	Gsto2	GO:0019852	L-ascorbic acid metabolic process	L-ascorbic_acid_metabolic_process
+ENSMUSG00000027340	Slc23a2	GO:0019852	L-ascorbic acid metabolic process	L-ascorbic_acid_metabolic_process

@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000026405	C4bp	GO:0045959	negative regulation of complement activation, classical pathway	negative_regulation_of_complement_activation,_classical_pathway
+ENSMUSG00000016493	Cd46	GO:0045959	negative regulation of complement activation, classical pathway	negative_regulation_of_complement_activation,_classical_pathway
+ENSMUSG00000016481	Cr1l	GO:0045959	negative regulation of complement activation, classical pathway	negative_regulation_of_complement_activation,_classical_pathway
+ENSMUSG00000028369	Svep1	GO:0045959	negative regulation of complement activation, classical pathway	negative_regulation_of_complement_activation,_classical_pathway
+ENSMUSG00000038576	Susd4	GO:0045959	negative regulation of complement activation, classical pathway	negative_regulation_of_complement_activation,_classical_pathway

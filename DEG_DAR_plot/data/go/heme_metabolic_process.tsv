@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000079262	Slco1a6	GO:0042168	heme metabolic process	heme_metabolic_process
+ENSMUSG00000030895	Hpx	GO:0042168	heme metabolic process	heme_metabolic_process
+ENSMUSG00000032872	Cyb5r4	GO:0042168	heme metabolic process	heme_metabolic_process
+ENSMUSG00000028167	Bdh2	GO:0042168	heme metabolic process	heme_metabolic_process
+ENSMUSG00000005413	Hmox1	GO:0042168	heme metabolic process	heme_metabolic_process
+ENSMUSG00000028684	Urod	GO:0042168	heme metabolic process	heme_metabolic_process
+ENSMUSG00000026198	Abcb6	GO:0042168	heme metabolic process	heme_metabolic_process

@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024943	Smc5	GO:0071459	protein localization to chromosome, centromeric region	protein_localization_to_chromosome,_centromeric_region
+ENSMUSG00000005698	Ctcf	GO:0071459	protein localization to chromosome, centromeric region	protein_localization_to_chromosome,_centromeric_region
+ENSMUSG00000022105	Rb1	GO:0071459	protein localization to chromosome, centromeric region	protein_localization_to_chromosome,_centromeric_region
+ENSMUSG00000050107	Haspin	GO:0071459	protein localization to chromosome, centromeric region	protein_localization_to_chromosome,_centromeric_region
+ENSMUSG00000040084	Bub1b	GO:0071459	protein localization to chromosome, centromeric region	protein_localization_to_chromosome,_centromeric_region
+ENSMUSG00000029177	Cenpa	GO:0071459	protein localization to chromosome, centromeric region	protein_localization_to_chromosome,_centromeric_region

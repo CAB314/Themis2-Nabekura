@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000029299	Abcg3	GO:1990962	xenobiotic transport across blood-brain barrier	xenobiotic_transport_across_blood-brain_barrier
+ENSMUSG00000025194	Abcc2	GO:1990962	xenobiotic transport across blood-brain barrier	xenobiotic_transport_across_blood-brain_barrier
+ENSMUSG00000040584	Abcb1a	GO:1990962	xenobiotic transport across blood-brain barrier	xenobiotic_transport_across_blood-brain_barrier
+ENSMUSG00000028970	Abcb1b	GO:1990962	xenobiotic transport across blood-brain barrier	xenobiotic_transport_across_blood-brain_barrier
+ENSMUSG00000040966	Slc22a2	GO:1990962	xenobiotic transport across blood-brain barrier	xenobiotic_transport_across_blood-brain_barrier
+ENSMUSG00000023829	Slc22a1	GO:1990962	xenobiotic transport across blood-brain barrier	xenobiotic_transport_across_blood-brain_barrier
+ENSMUSG00000023088	Abcc1	GO:1990962	xenobiotic transport across blood-brain barrier	xenobiotic_transport_across_blood-brain_barrier

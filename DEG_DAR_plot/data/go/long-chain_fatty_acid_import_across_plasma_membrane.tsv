@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000023088	Abcc1	GO:0015911	long-chain fatty acid import across plasma membrane	long-chain_fatty_acid_import_across_plasma_membrane
+ENSMUSG00000002944	Cd36	GO:0015911	long-chain fatty acid import across plasma membrane	long-chain_fatty_acid_import_across_plasma_membrane
+ENSMUSG00000031808	Slc27a1	GO:0015911	long-chain fatty acid import across plasma membrane	long-chain_fatty_acid_import_across_plasma_membrane
+ENSMUSG00000028645	Slc2a1	GO:0015911	long-chain fatty acid import across plasma membrane	long-chain_fatty_acid_import_across_plasma_membrane
+ENSMUSG00000030382	Slc27a5	GO:0015911	long-chain fatty acid import across plasma membrane	long-chain_fatty_acid_import_across_plasma_membrane

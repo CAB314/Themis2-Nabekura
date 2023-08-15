@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000063358	Mapk1	GO:0070849	response to epidermal growth factor	response_to_epidermal_growth_factor
+ENSMUSG00000020052	Ascl1	GO:0070849	response to epidermal growth factor	response_to_epidermal_growth_factor
+ENSMUSG00000021789	Sftpa1	GO:0070849	response to epidermal growth factor	response_to_epidermal_growth_factor
+ENSMUSG00000006005	Tpr	GO:0070849	response to epidermal growth factor	response_to_epidermal_growth_factor
+ENSMUSG00000063065	Mapk3	GO:0070849	response to epidermal growth factor	response_to_epidermal_growth_factor

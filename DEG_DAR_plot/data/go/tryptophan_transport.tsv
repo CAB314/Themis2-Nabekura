@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000019838	Slc16a10	GO:0015827	tryptophan transport	tryptophan_transport
+ENSMUSG00000015405	Ace2	GO:0015827	tryptophan transport	tryptophan_transport
+ENSMUSG00000043885	Slc36a4	GO:0015827	tryptophan transport	tryptophan_transport
+ENSMUSG00000010095	Slc3a2	GO:0015827	tryptophan transport	tryptophan_transport
+ENSMUSG00000040010	Slc7a5	GO:0015827	tryptophan transport	tryptophan_transport
+ENSMUSG00000022180	Slc7a8	GO:0015827	tryptophan transport	tryptophan_transport

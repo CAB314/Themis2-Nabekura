@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000052821	Cysltr1	GO:0061737	leukotriene signaling pathway	leukotriene_signaling_pathway
+ENSMUSG00000033470	Cysltr2	GO:0061737	leukotriene signaling pathway	leukotriene_signaling_pathway
+ENSMUSG00000040432	Ltb4r2	GO:0061737	leukotriene signaling pathway	leukotriene_signaling_pathway
+ENSMUSG00000046908	Ltb4r1	GO:0061737	leukotriene signaling pathway	leukotriene_signaling_pathway
+ENSMUSG00000026358	Rgs1	GO:0061737	leukotriene signaling pathway	leukotriene_signaling_pathway

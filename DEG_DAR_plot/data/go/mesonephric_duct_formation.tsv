@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000076318	Mir216b	GO:0072181	mesonephric duct formation	mesonephric_duct_formation
+ENSMUSG00000065539	Mir216a	GO:0072181	mesonephric duct formation	mesonephric_duct_formation
+ENSMUSG00000065415	Mir217	GO:0072181	mesonephric duct formation	mesonephric_duct_formation
+ENSMUSG00000018486	Wnt9b	GO:0072181	mesonephric duct formation	mesonephric_duct_formation
+ENSMUSG00000020679	Hnf1b	GO:0072181	mesonephric duct formation	mesonephric_duct_formation

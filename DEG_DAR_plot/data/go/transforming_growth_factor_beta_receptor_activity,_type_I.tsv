@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000052430	Bmpr1b	GO:0005025	transforming growth factor beta receptor activity, type I	transforming_growth_factor_beta_receptor_activity,_type_I
+ENSMUSG00000021796	Bmpr1a	GO:0005025	transforming growth factor beta receptor activity, type I	transforming_growth_factor_beta_receptor_activity,_type_I
+ENSMUSG00000000530	Acvrl1	GO:0005025	transforming growth factor beta receptor activity, type I	transforming_growth_factor_beta_receptor_activity,_type_I
+ENSMUSG00000007613	Tgfbr1	GO:0005025	transforming growth factor beta receptor activity, type I	transforming_growth_factor_beta_receptor_activity,_type_I
+ENSMUSG00000026836	Acvr1	GO:0005025	transforming growth factor beta receptor activity, type I	transforming_growth_factor_beta_receptor_activity,_type_I

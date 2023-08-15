@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000040446	Rprd1a	GO:0016591	RNA polymerase II, holoenzyme	RNA_polymerase_II,_holoenzyme
+ENSMUSG00000028106	Rprd2	GO:0016591	RNA polymerase II, holoenzyme	RNA_polymerase_II,_holoenzyme
+ENSMUSG00000027651	Rprd1b	GO:0016591	RNA polymerase II, holoenzyme	RNA_polymerase_II,_holoenzyme
+ENSMUSG00000032199	Polr2m	GO:0016591	RNA polymerase II, holoenzyme	RNA_polymerase_II,_holoenzyme
+ENSMUSG00000041361	Myzap	GO:0016591	RNA polymerase II, holoenzyme	RNA_polymerase_II,_holoenzyme

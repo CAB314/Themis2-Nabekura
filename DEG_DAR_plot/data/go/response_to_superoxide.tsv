@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000022982	Sod1	GO:0000303	response to superoxide	response_to_superoxide
+ENSMUSG00000006818	Sod2	GO:0000303	response to superoxide	response_to_superoxide
+ENSMUSG00000054051	Ercc6	GO:0000303	response to superoxide	response_to_superoxide
+ENSMUSG00000032942	Ucp3	GO:0000303	response to superoxide	response_to_superoxide
+ENSMUSG00000033685	Ucp2	GO:0000303	response to superoxide	response_to_superoxide

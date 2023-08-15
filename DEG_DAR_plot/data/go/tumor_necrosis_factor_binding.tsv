@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000050106	Tmc8	GO:0043120	tumor necrosis factor binding	tumor_necrosis_factor_binding
+ENSMUSG00000028599	Tnfrsf1b	GO:0043120	tumor necrosis factor binding	tumor_necrosis_factor_binding
+ENSMUSG00000030111	A2m	GO:0043120	tumor necrosis factor binding	tumor_necrosis_factor_binding
+ENSMUSG00000030341	Tnfrsf1a	GO:0043120	tumor necrosis factor binding	tumor_necrosis_factor_binding
+ENSMUSG00000026942	Traf2	GO:0043120	tumor necrosis factor binding	tumor_necrosis_factor_binding

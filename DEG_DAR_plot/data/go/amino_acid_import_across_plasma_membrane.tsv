@@ -1,0 +1,15 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000033965	Slc16a2	GO:0089718	amino acid import across plasma membrane	amino_acid_import_across_plasma_membrane
+ENSMUSG00000030096	Slc6a6	GO:0089718	amino acid import across plasma membrane	amino_acid_import_across_plasma_membrane
+ENSMUSG00000040966	Slc22a2	GO:0089718	amino acid import across plasma membrane	amino_acid_import_across_plasma_membrane
+ENSMUSG00000010122	Slc47a1	GO:0089718	amino acid import across plasma membrane	amino_acid_import_across_plasma_membrane
+ENSMUSG00000031170	Slc38a5	GO:0089718	amino acid import across plasma membrane	amino_acid_import_across_plasma_membrane
+ENSMUSG00000041313	Slc7a1	GO:0089718	amino acid import across plasma membrane	amino_acid_import_across_plasma_membrane
+ENSMUSG00000031089	Slc6a14	GO:0089718	amino acid import across plasma membrane	amino_acid_import_across_plasma_membrane
+ENSMUSG00000031596	Slc7a2	GO:0089718	amino acid import across plasma membrane	amino_acid_import_across_plasma_membrane
+ENSMUSG00000020334	Slc22a4	GO:0089718	amino acid import across plasma membrane	amino_acid_import_across_plasma_membrane
+ENSMUSG00000040010	Slc7a5	GO:0089718	amino acid import across plasma membrane	amino_acid_import_across_plasma_membrane
+ENSMUSG00000022180	Slc7a8	GO:0089718	amino acid import across plasma membrane	amino_acid_import_across_plasma_membrane
+ENSMUSG00000020261	Slc36a1	GO:0089718	amino acid import across plasma membrane	amino_acid_import_across_plasma_membrane
+ENSMUSG00000030108	Slc6a13	GO:0089718	amino acid import across plasma membrane	amino_acid_import_across_plasma_membrane
+ENSMUSG00000036814	Slc6a20a	GO:0089718	amino acid import across plasma membrane	amino_acid_import_across_plasma_membrane

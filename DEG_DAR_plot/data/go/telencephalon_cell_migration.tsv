@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000001496	Nkx2-1	GO:0022029	telencephalon cell migration	telencephalon_cell_migration
+ENSMUSG00000025020	Slit1	GO:0022029	telencephalon cell migration	telencephalon_cell_migration
+ENSMUSG00000045382	Cxcr4	GO:0022029	telencephalon cell migration	telencephalon_cell_migration
+ENSMUSG00000015829	Tnr	GO:0022029	telencephalon cell migration	telencephalon_cell_migration
+ENSMUSG00000061353	Cxcl12	GO:0022029	telencephalon cell migration	telencephalon_cell_migration
+ENSMUSG00000059246	Foxb1	GO:0022029	telencephalon cell migration	telencephalon_cell_migration
+ENSMUSG00000031558	Slit2	GO:0022029	telencephalon cell migration	telencephalon_cell_migration

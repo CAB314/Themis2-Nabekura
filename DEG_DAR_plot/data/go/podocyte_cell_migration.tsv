@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000032702	Kank1	GO:0090521	podocyte cell migration	podocyte_cell_migration
+ENSMUSG00000040260	Daam2	GO:0090521	podocyte cell migration	podocyte_cell_migration
+ENSMUSG00000024290	Rock1	GO:0090521	podocyte cell migration	podocyte_cell_migration
+ENSMUSG00000054808	Actn4	GO:0090521	podocyte cell migration	podocyte_cell_migration
+ENSMUSG00000028458	Tesk1	GO:0090521	podocyte cell migration	podocyte_cell_migration
+ENSMUSG00000032194	Kank2	GO:0090521	podocyte cell migration	podocyte_cell_migration
+ENSMUSG00000036777	Anln	GO:0090521	podocyte cell migration	podocyte_cell_migration
+ENSMUSG00000020319	Wdpcp	GO:0090521	podocyte cell migration	podocyte_cell_migration

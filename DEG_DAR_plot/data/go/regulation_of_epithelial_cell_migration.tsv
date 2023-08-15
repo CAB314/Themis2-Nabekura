@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000022607	Ptk2	GO:0010632	regulation of epithelial cell migration	regulation_of_epithelial_cell_migration
+ENSMUSG00000042082	Arsb	GO:0010632	regulation of epithelial cell migration	regulation_of_epithelial_cell_migration
+ENSMUSG00000015305	Sash1	GO:0010632	regulation of epithelial cell migration	regulation_of_epithelial_cell_migration
+ENSMUSG00000027646	Src	GO:0010632	regulation of epithelial cell migration	regulation_of_epithelial_cell_migration
+ENSMUSG00000004530	Coro1c	GO:0010632	regulation of epithelial cell migration	regulation_of_epithelial_cell_migration

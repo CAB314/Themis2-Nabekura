@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000066551	Hmgb1	GO:0097100	supercoiled DNA binding	supercoiled_DNA_binding
+ENSMUSG00000028484	Psip1	GO:0097100	supercoiled DNA binding	supercoiled_DNA_binding
+ENSMUSG00000030744	Rps3	GO:0097100	supercoiled DNA binding	supercoiled_DNA_binding
+ENSMUSG00000054717	Hmgb2	GO:0097100	supercoiled DNA binding	supercoiled_DNA_binding
+ENSMUSG00000070544	Top1	GO:0097100	supercoiled DNA binding	supercoiled_DNA_binding

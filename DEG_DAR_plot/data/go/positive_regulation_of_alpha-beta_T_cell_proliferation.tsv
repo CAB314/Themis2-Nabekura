@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000021457	Syk	GO:0046641	positive regulation of alpha-beta T cell proliferation	positive_regulation_of_alpha-beta_T_cell_proliferation
+ENSMUSG00000047139	Cd24a	GO:0046641	positive regulation of alpha-beta T cell proliferation	positive_regulation_of_alpha-beta_T_cell_proliferation
+ENSMUSG00000026700	Tnfsf4	GO:0046641	positive regulation of alpha-beta T cell proliferation	positive_regulation_of_alpha-beta_T_cell_proliferation
+ENSMUSG00000075122	Cd80	GO:0046641	positive regulation of alpha-beta T cell proliferation	positive_regulation_of_alpha-beta_T_cell_proliferation
+ENSMUSG00000030528	Blm	GO:0046641	positive regulation of alpha-beta T cell proliferation	positive_regulation_of_alpha-beta_T_cell_proliferation
+ENSMUSG00000026117	Zap70	GO:0046641	positive regulation of alpha-beta T cell proliferation	positive_regulation_of_alpha-beta_T_cell_proliferation
+ENSMUSG00000026395	Ptprc	GO:0046641	positive regulation of alpha-beta T cell proliferation	positive_regulation_of_alpha-beta_T_cell_proliferation
+ENSMUSG00000049103	Ccr2	GO:0046641	positive regulation of alpha-beta T cell proliferation	positive_regulation_of_alpha-beta_T_cell_proliferation

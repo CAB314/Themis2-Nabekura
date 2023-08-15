@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000009900	Wnt3a	GO:0010387	COP9 signalosome assembly	COP9_signalosome_assembly
+ENSMUSG00000026240	Cops7b	GO:0010387	COP9 signalosome assembly	COP9_signalosome_assembly
+ENSMUSG00000034833	Tespa1	GO:0010387	COP9 signalosome assembly	COP9_signalosome_assembly
+ENSMUSG00000034432	Cops8	GO:0010387	COP9 signalosome assembly	COP9_signalosome_assembly
+ENSMUSG00000030127	Cops7a	GO:0010387	COP9 signalosome assembly	COP9_signalosome_assembly

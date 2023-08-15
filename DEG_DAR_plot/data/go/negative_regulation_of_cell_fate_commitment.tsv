@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000012396	Nanog	GO:0010454	negative regulation of cell fate commitment	negative_regulation_of_cell_fate_commitment
+ENSMUSG00000034762	Glis1	GO:0010454	negative regulation of cell fate commitment	negative_regulation_of_cell_fate_commitment
+ENSMUSG00000036169	Sostdc1	GO:0010454	negative regulation of cell fate commitment	negative_regulation_of_cell_fate_commitment
+ENSMUSG00000024215	Spdef	GO:0010454	negative regulation of cell fate commitment	negative_regulation_of_cell_fate_commitment
+ENSMUSG00000041309	Nkx6-2	GO:0010454	negative regulation of cell fate commitment	negative_regulation_of_cell_fate_commitment

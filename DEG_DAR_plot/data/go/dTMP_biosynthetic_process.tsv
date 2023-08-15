@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000020534	Shmt1	GO:0006231	dTMP biosynthetic process	dTMP_biosynthetic_process
+ENSMUSG00000027203	Dut	GO:0006231	dTMP biosynthetic process	dTMP_biosynthetic_process
+ENSMUSG00000073435	Nme3	GO:0006231	dTMP biosynthetic process	dTMP_biosynthetic_process
+ENSMUSG00000020857	Nme2	GO:0006231	dTMP biosynthetic process	dTMP_biosynthetic_process
+ENSMUSG00000037601	Nme1	GO:0006231	dTMP biosynthetic process	dTMP_biosynthetic_process
+ENSMUSG00000025747	Tyms	GO:0006231	dTMP biosynthetic process	dTMP_biosynthetic_process

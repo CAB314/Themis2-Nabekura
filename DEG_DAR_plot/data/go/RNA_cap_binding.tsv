@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000022774	Ncbp2	GO:0000339	RNA cap binding	RNA_cap_binding
+ENSMUSG00000037296	Lsm1	GO:0000339	RNA cap binding	RNA_cap_binding
+ENSMUSG00000037331	Larp1	GO:0000339	RNA cap binding	RNA_cap_binding
+ENSMUSG00000028330	Ncbp1	GO:0000339	RNA cap binding	RNA_cap_binding
+ENSMUSG00000020783	Ncbp3	GO:0000339	RNA cap binding	RNA_cap_binding

@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024781	Lipa	GO:0042159	lipoprotein catabolic process	lipoprotein_catabolic_process
+ENSMUSG00000034218	Atm	GO:0042159	lipoprotein catabolic process	lipoprotein_catabolic_process
+ENSMUSG00000002985	Apoe	GO:0042159	lipoprotein catabolic process	lipoprotein_catabolic_process
+ENSMUSG00000020609	Apob	GO:0042159	lipoprotein catabolic process	lipoprotein_catabolic_process
+ENSMUSG00000032193	Ldlr	GO:0042159	lipoprotein catabolic process	lipoprotein_catabolic_process
+ENSMUSG00000007891	Ctsd	GO:0042159	lipoprotein catabolic process	lipoprotein_catabolic_process

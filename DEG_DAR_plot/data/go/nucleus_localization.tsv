@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024381	Bin1	GO:0051647	nucleus localization	nucleus_localization
+ENSMUSG00000028991	Mtor	GO:0051647	nucleus localization	nucleus_localization
+ENSMUSG00000037270	Bltp1	GO:0051647	nucleus localization	nucleus_localization
+ENSMUSG00000045103	Dmd	GO:0051647	nucleus localization	nucleus_localization
+ENSMUSG00000062694	Cav3	GO:0051647	nucleus localization	nucleus_localization
+ENSMUSG00000006699	Cdc42	GO:0051647	nucleus localization	nucleus_localization
+ENSMUSG00000054582	Pabpc1l	GO:0051647	nucleus localization	nucleus_localization
+ENSMUSG00000009555	Cdk9	GO:0051647	nucleus localization	nucleus_localization

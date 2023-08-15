@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000038132	Rbm24	GO:1990715	mRNA CDS binding	mRNA_CDS_binding
+ENSMUSG00000020770	Unk	GO:1990715	mRNA CDS binding	mRNA_CDS_binding
+ENSMUSG00000004980	Hnrnpa2b1	GO:1990715	mRNA CDS binding	mRNA_CDS_binding
+ENSMUSG00000021546	Hnrnpk	GO:1990715	mRNA CDS binding	mRNA_CDS_binding
+ENSMUSG00000015165	Hnrnpl	GO:1990715	mRNA CDS binding	mRNA_CDS_binding

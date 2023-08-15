@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000000171	Sdhd	GO:0006121	mitochondrial electron transport, succinate to ubiquinone	mitochondrial_electron_transport,_succinate_to_ubiquinone
+ENSMUSG00000021577	Sdha	GO:0006121	mitochondrial electron transport, succinate to ubiquinone	mitochondrial_electron_transport,_succinate_to_ubiquinone
+ENSMUSG00000024668	Sdhaf2	GO:0006121	mitochondrial electron transport, succinate to ubiquinone	mitochondrial_electron_transport,_succinate_to_ubiquinone
+ENSMUSG00000058076	Sdhc	GO:0006121	mitochondrial electron transport, succinate to ubiquinone	mitochondrial_electron_transport,_succinate_to_ubiquinone
+ENSMUSG00000009863	Sdhb	GO:0006121	mitochondrial electron transport, succinate to ubiquinone	mitochondrial_electron_transport,_succinate_to_ubiquinone

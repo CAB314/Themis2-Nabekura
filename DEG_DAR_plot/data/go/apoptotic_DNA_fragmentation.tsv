@@ -1,0 +1,10 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000028974	Dffa	GO:0006309	apoptotic DNA fragmentation	apoptotic_DNA_fragmentation
+ENSMUSG00000029027	Dffb	GO:0006309	apoptotic DNA fragmentation	apoptotic_DNA_fragmentation
+ENSMUSG00000050397	Foxl2	GO:0006309	apoptotic DNA fragmentation	apoptotic_DNA_fragmentation
+ENSMUSG00000028185	Dnase2b	GO:0006309	apoptotic DNA fragmentation	apoptotic_DNA_fragmentation
+ENSMUSG00000025279	Dnase1l3	GO:0006309	apoptotic DNA fragmentation	apoptotic_DNA_fragmentation
+ENSMUSG00000003812	Dnase2a	GO:0006309	apoptotic DNA fragmentation	apoptotic_DNA_fragmentation
+ENSMUSG00000042787	Exog	GO:0006309	apoptotic DNA fragmentation	apoptotic_DNA_fragmentation
+ENSMUSG00000020128	Vps54	GO:0006309	apoptotic DNA fragmentation	apoptotic_DNA_fragmentation
+ENSMUSG00000015337	Endog	GO:0006309	apoptotic DNA fragmentation	apoptotic_DNA_fragmentation

@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000065465	Mir33	GO:0016441	post-transcriptional gene silencing	post-transcriptional_gene_silencing
+ENSMUSG00000065587	Mir34c	GO:0016441	post-transcriptional gene silencing	post-transcriptional_gene_silencing
+ENSMUSG00000028580	Pum1	GO:0016441	post-transcriptional gene silencing	post-transcriptional_gene_silencing
+ENSMUSG00000002107	Celf2	GO:0016441	post-transcriptional gene silencing	post-transcriptional_gene_silencing
+ENSMUSG00000048000	Gigyf2	GO:0016441	post-transcriptional gene silencing	post-transcriptional_gene_silencing
+ENSMUSG00000040028	Elavl1	GO:0016441	post-transcriptional gene silencing	post-transcriptional_gene_silencing
+ENSMUSG00000005506	Celf1	GO:0016441	post-transcriptional gene silencing	post-transcriptional_gene_silencing

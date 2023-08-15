@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000015733	Capza2	GO:0008290	F-actin capping protein complex	F-actin_capping_protein_complex
+ENSMUSG00000029106	Add1	GO:0008290	F-actin capping protein complex	F-actin_capping_protein_complex
+ENSMUSG00000070372	Capza1	GO:0008290	F-actin capping protein complex	F-actin_capping_protein_complex
+ENSMUSG00000055357	Capza1b	GO:0008290	F-actin capping protein complex	F-actin_capping_protein_complex
+ENSMUSG00000030000	Add2	GO:0008290	F-actin capping protein complex	F-actin_capping_protein_complex
+ENSMUSG00000041791	Capza3	GO:0008290	F-actin capping protein complex	F-actin_capping_protein_complex
+ENSMUSG00000028745	Capzb	GO:0008290	F-actin capping protein complex	F-actin_capping_protein_complex
+ENSMUSG00000029840	Mtpn	GO:0008290	F-actin capping protein complex	F-actin_capping_protein_complex

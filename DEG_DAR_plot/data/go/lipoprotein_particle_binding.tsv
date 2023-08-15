@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000023992	Trem2	GO:0071813	lipoprotein particle binding	lipoprotein_particle_binding
+ENSMUSG00000022579	Gpihbp1	GO:0071813	lipoprotein particle binding	lipoprotein_particle_binding
+ENSMUSG00000031841	Cdh13	GO:0071813	lipoprotein particle binding	lipoprotein_particle_binding
+ENSMUSG00000015568	Lpl	GO:0071813	lipoprotein particle binding	lipoprotein_particle_binding
+ENSMUSG00000002985	Apoe	GO:0071813	lipoprotein particle binding	lipoprotein_particle_binding
+ENSMUSG00000002944	Cd36	GO:0071813	lipoprotein particle binding	lipoprotein_particle_binding
+ENSMUSG00000032083	Apoa1	GO:0071813	lipoprotein particle binding	lipoprotein_particle_binding
+ENSMUSG00000018411	Mapt	GO:0071813	lipoprotein particle binding	lipoprotein_particle_binding

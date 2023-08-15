@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000020100	Slc29a3	GO:0015862	uridine transport	uridine_transport
+ENSMUSG00000021553	Slc28a3	GO:0015862	uridine transport	uridine_transport
+ENSMUSG00000023942	Slc29a1	GO:0015862	uridine transport	uridine_transport
+ENSMUSG00000024891	Slc29a2	GO:0015862	uridine transport	uridine_transport
+ENSMUSG00000025726	Slc28a1	GO:0015862	uridine transport	uridine_transport
+ENSMUSG00000027219	Slc28a2	GO:0015862	uridine transport	uridine_transport
+ENSMUSG00000079071	Slc28a2b	GO:0015862	uridine transport	uridine_transport

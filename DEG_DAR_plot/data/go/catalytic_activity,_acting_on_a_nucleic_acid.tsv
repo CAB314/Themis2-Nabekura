@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000055660	Mettl4	GO:0140640	catalytic activity, acting on a nucleic acid	catalytic_activity,_acting_on_a_nucleic_acid
+ENSMUSG00000028114	Mettl14	GO:0140640	catalytic activity, acting on a nucleic acid	catalytic_activity,_acting_on_a_nucleic_acid
+ENSMUSG00000082079	Dnmt3c	GO:0140640	catalytic activity, acting on a nucleic acid	catalytic_activity,_acting_on_a_nucleic_acid
+ENSMUSG00000004099	Dnmt1	GO:0140640	catalytic activity, acting on a nucleic acid	catalytic_activity,_acting_on_a_nucleic_acid
+ENSMUSG00000020661	Dnmt3a	GO:0140640	catalytic activity, acting on a nucleic acid	catalytic_activity,_acting_on_a_nucleic_acid
+ENSMUSG00000022160	Mettl3	GO:0140640	catalytic activity, acting on a nucleic acid	catalytic_activity,_acting_on_a_nucleic_acid
+ENSMUSG00000026723	Trdmt1	GO:0140640	catalytic activity, acting on a nucleic acid	catalytic_activity,_acting_on_a_nucleic_acid
+ENSMUSG00000027478	Dnmt3b	GO:0140640	catalytic activity, acting on a nucleic acid	catalytic_activity,_acting_on_a_nucleic_acid

@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000028976	Slc2a5	GO:0070061	fructose binding	fructose_binding
+ENSMUSG00000033065	Pfkm	GO:0070061	fructose binding	fructose_binding
+ENSMUSG00000074491	Clec4g	GO:0070061	fructose binding	fructose_binding
+ENSMUSG00000020277	Pfkl	GO:0070061	fructose binding	fructose_binding
+ENSMUSG00000028307	Aldob	GO:0070061	fructose binding	fructose_binding
+ENSMUSG00000030695	Aldoa	GO:0070061	fructose binding	fructose_binding

@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000000168	Dlat	GO:0045254	pyruvate dehydrogenase complex	pyruvate_dehydrogenase_complex
+ENSMUSG00000031299	Pdha1	GO:0045254	pyruvate dehydrogenase complex	pyruvate_dehydrogenase_complex
+ENSMUSG00000047674	Pdha2	GO:0045254	pyruvate dehydrogenase complex	pyruvate_dehydrogenase_complex
+ENSMUSG00000006494	Pdk1	GO:0045254	pyruvate dehydrogenase complex	pyruvate_dehydrogenase_complex
+ENSMUSG00000020664	Dld	GO:0045254	pyruvate dehydrogenase complex	pyruvate_dehydrogenase_complex
+ENSMUSG00000021748	Pdhb	GO:0045254	pyruvate dehydrogenase complex	pyruvate_dehydrogenase_complex
+ENSMUSG00000010914	Pdhx	GO:0045254	pyruvate dehydrogenase complex	pyruvate_dehydrogenase_complex
+ENSMUSG00000038967	Pdk2	GO:0045254	pyruvate dehydrogenase complex	pyruvate_dehydrogenase_complex

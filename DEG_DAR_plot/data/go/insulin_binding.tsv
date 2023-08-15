@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000041417	Pik3r1	GO:0043559	insulin binding	insulin_binding
+ENSMUSG00000005533	Igf1r	GO:0043559	insulin binding	insulin_binding
+ENSMUSG00000005534	Insr	GO:0043559	insulin binding	insulin_binding
+ENSMUSG00000032120	C2cd2l	GO:0043559	insulin binding	insulin_binding
+ENSMUSG00000056999	Ide	GO:0043559	insulin binding	insulin_binding

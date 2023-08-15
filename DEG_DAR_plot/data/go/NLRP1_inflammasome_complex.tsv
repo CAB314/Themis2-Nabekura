@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000030793	Pycard	GO:0072558	NLRP1 inflammasome complex	NLRP1_inflammasome_complex
+ENSMUSG00000025888	Casp1	GO:0072558	NLRP1 inflammasome complex	NLRP1_inflammasome_complex
+ENSMUSG00000033538	Casp4	GO:0072558	NLRP1 inflammasome complex	NLRP1_inflammasome_complex
+ENSMUSG00000069830	Nlrp1a	GO:0072558	NLRP1 inflammasome complex	NLRP1_inflammasome_complex
+ENSMUSG00000070390	Nlrp1b	GO:0072558	NLRP1 inflammasome complex	NLRP1_inflammasome_complex

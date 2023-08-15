@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000053897	Slc39a8	GO:0006525	arginine metabolic process	arginine_metabolic_process
+ENSMUSG00000021125	Arg2	GO:0006525	arginine metabolic process	arginine_metabolic_process
+ENSMUSG00000028194	Ddah1	GO:0006525	arginine metabolic process	arginine_metabolic_process
+ENSMUSG00000019987	Arg1	GO:0006525	arginine metabolic process	arginine_metabolic_process
+ENSMUSG00000007039	Ddah2	GO:0006525	arginine metabolic process	arginine_metabolic_process
+ENSMUSG00000025533	Asl	GO:0006525	arginine metabolic process	arginine_metabolic_process

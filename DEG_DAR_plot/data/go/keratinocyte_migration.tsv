@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000037095	Lrg1	GO:0051546	keratinocyte migration	keratinocyte_migration
+ENSMUSG00000053797	Krt16	GO:0051546	keratinocyte migration	keratinocyte_migration
+ENSMUSG00000064201	Krt2	GO:0051546	keratinocyte migration	keratinocyte_migration
+ENSMUSG00000002250	Ppard	GO:0051546	keratinocyte migration	keratinocyte_migration
+ENSMUSG00000040432	Ltb4r2	GO:0051546	keratinocyte migration	keratinocyte_migration
+ENSMUSG00000027356	Fermt1	GO:0051546	keratinocyte migration	keratinocyte_migration

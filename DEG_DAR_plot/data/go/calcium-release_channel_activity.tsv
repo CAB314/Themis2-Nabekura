@@ -1,0 +1,10 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000031453	Rasa3	GO:0015278	calcium-release channel activity	calcium-release_channel_activity
+ENSMUSG00000030287	Itpr2	GO:0015278	calcium-release channel activity	calcium-release_channel_activity
+ENSMUSG00000032769	Trpa1	GO:0015278	calcium-release channel activity	calcium-release_channel_activity
+ENSMUSG00000021313	Ryr2	GO:0015278	calcium-release channel activity	calcium-release_channel_activity
+ENSMUSG00000042644	Itpr3	GO:0015278	calcium-release channel activity	calcium-release_channel_activity
+ENSMUSG00000030102	Itpr1	GO:0015278	calcium-release channel activity	calcium-release_channel_activity
+ENSMUSG00000009292	Trpm2	GO:0015278	calcium-release channel activity	calcium-release_channel_activity
+ENSMUSG00000005952	Trpv1	GO:0015278	calcium-release channel activity	calcium-release_channel_activity
+ENSMUSG00000057378	Ryr3	GO:0015278	calcium-release channel activity	calcium-release_channel_activity

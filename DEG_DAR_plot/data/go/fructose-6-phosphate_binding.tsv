@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000025271	Pfkfb1	GO:0070095	fructose-6-phosphate binding	fructose-6-phosphate_binding
+ENSMUSG00000021196	Pfkp	GO:0070095	fructose-6-phosphate binding	fructose-6-phosphate_binding
+ENSMUSG00000033065	Pfkm	GO:0070095	fructose-6-phosphate binding	fructose-6-phosphate_binding
+ENSMUSG00000020277	Pfkl	GO:0070095	fructose-6-phosphate binding	fructose-6-phosphate_binding
+ENSMUSG00000059434	Gckr	GO:0070095	fructose-6-phosphate binding	fructose-6-phosphate_binding

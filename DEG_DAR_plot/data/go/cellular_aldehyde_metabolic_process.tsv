@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000015134	Aldh1a3	GO:0006081	cellular aldehyde metabolic process	cellular_aldehyde_metabolic_process
+ENSMUSG00000019102	Aldh3a1	GO:0006081	cellular aldehyde metabolic process	cellular_aldehyde_metabolic_process
+ENSMUSG00000010025	Aldh3a2	GO:0006081	cellular aldehyde metabolic process	cellular_aldehyde_metabolic_process
+ENSMUSG00000037797	Adh4	GO:0006081	cellular aldehyde metabolic process	cellular_aldehyde_metabolic_process
+ENSMUSG00000024885	Aldh3b1	GO:0006081	cellular aldehyde metabolic process	cellular_aldehyde_metabolic_process
+ENSMUSG00000037263	Aldh3b3	GO:0006081	cellular aldehyde metabolic process	cellular_aldehyde_metabolic_process
+ENSMUSG00000075296	Aldh3b2	GO:0006081	cellular aldehyde metabolic process	cellular_aldehyde_metabolic_process
+ENSMUSG00000026687	Aldh9a1	GO:0006081	cellular aldehyde metabolic process	cellular_aldehyde_metabolic_process

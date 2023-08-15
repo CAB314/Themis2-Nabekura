@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000020290	Xpo1	GO:0000056	ribosomal small subunit export from nucleus	ribosomal_small_subunit_export_from_nucleus
+ENSMUSG00000019814	Ltv1	GO:0000056	ribosomal small subunit export from nucleus	ribosomal_small_subunit_export_from_nucleus
+ENSMUSG00000019297	Nop9	GO:0000056	ribosomal small subunit export from nucleus	ribosomal_small_subunit_export_from_nucleus
+ENSMUSG00000029430	Ran	GO:0000056	ribosomal small subunit export from nucleus	ribosomal_small_subunit_export_from_nucleus
+ENSMUSG00000063457	Rps15	GO:0000056	ribosomal small subunit export from nucleus	ribosomal_small_subunit_export_from_nucleus
+ENSMUSG00000040667	Nup88	GO:0000056	ribosomal small subunit export from nucleus	ribosomal_small_subunit_export_from_nucleus
+ENSMUSG00000057113	Npm1	GO:0000056	ribosomal small subunit export from nucleus	ribosomal_small_subunit_export_from_nucleus

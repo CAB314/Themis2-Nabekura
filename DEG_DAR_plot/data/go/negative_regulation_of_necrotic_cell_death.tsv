@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024661	Fth1	GO:0060547	negative regulation of necrotic cell death	negative_regulation_of_necrotic_cell_death
+ENSMUSG00000031760	Mt3	GO:0060547	negative regulation of necrotic cell death	negative_regulation_of_necrotic_cell_death
+ENSMUSG00000030647	Ndufc2	GO:0060547	negative regulation of necrotic cell death	negative_regulation_of_necrotic_cell_death
+ENSMUSG00000026674	Ddr2	GO:0060547	negative regulation of necrotic cell death	negative_regulation_of_necrotic_cell_death
+ENSMUSG00000038676	Ucn	GO:0060547	negative regulation of necrotic cell death	negative_regulation_of_necrotic_cell_death

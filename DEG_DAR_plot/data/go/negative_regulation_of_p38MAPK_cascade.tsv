@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000023992	Trem2	GO:1903753	negative regulation of p38MAPK cascade	negative_regulation_of_p38MAPK_cascade
+ENSMUSG00000052397	Ezr	GO:1903753	negative regulation of p38MAPK cascade	negative_regulation_of_p38MAPK_cascade
+ENSMUSG00000036712	Cyld	GO:1903753	negative regulation of p38MAPK cascade	negative_regulation_of_p38MAPK_cascade
+ENSMUSG00000039384	Dusp10	GO:1903753	negative regulation of p38MAPK cascade	negative_regulation_of_p38MAPK_cascade
+ENSMUSG00000024190	Dusp1	GO:1903753	negative regulation of p38MAPK cascade	negative_regulation_of_p38MAPK_cascade
+ENSMUSG00000022770	Dlg1	GO:1903753	negative regulation of p38MAPK cascade	negative_regulation_of_p38MAPK_cascade
+ENSMUSG00000027843	Ptpn22	GO:1903753	negative regulation of p38MAPK cascade	negative_regulation_of_p38MAPK_cascade

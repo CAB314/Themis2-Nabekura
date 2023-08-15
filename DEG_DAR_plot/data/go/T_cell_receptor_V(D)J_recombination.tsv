@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000022672	Prkdc	GO:0033153	T cell receptor V(D)J recombination	T_cell_receptor_V(D)J_recombination
+ENSMUSG00000027985	Lef1	GO:0033153	T cell receptor V(D)J recombination	T_cell_receptor_V(D)J_recombination
+ENSMUSG00000048251	Bcl11b	GO:0033153	T cell receptor V(D)J recombination	T_cell_receptor_V(D)J_recombination
+ENSMUSG00000000782	Tcf7	GO:0033153	T cell receptor V(D)J recombination	T_cell_receptor_V(D)J_recombination
+ENSMUSG00000049717	Lig4	GO:0033153	T cell receptor V(D)J recombination	T_cell_receptor_V(D)J_recombination

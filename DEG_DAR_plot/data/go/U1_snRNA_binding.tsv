@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000020850	Prpf8	GO:0030619	U1 snRNA binding	U1_snRNA_binding
+ENSMUSG00000039236	Isg20	GO:0030619	U1 snRNA binding	U1_snRNA_binding
+ENSMUSG00000024217	Snrpc	GO:0030619	U1 snRNA binding	U1_snRNA_binding
+ENSMUSG00000037275	Gemin5	GO:0030619	U1 snRNA binding	U1_snRNA_binding
+ENSMUSG00000033983	Coil	GO:0030619	U1 snRNA binding	U1_snRNA_binding
+ENSMUSG00000061479	Snrpa	GO:0030619	U1 snRNA binding	U1_snRNA_binding
+ENSMUSG00000008333	Snrpb2	GO:0030619	U1 snRNA binding	U1_snRNA_binding
+ENSMUSG00000063511	Snrnp70	GO:0030619	U1 snRNA binding	U1_snRNA_binding

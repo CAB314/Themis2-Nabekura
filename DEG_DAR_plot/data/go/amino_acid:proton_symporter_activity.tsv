@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000049491	Slc36a3	GO:0005280	amino acid:proton symporter activity	amino_acid:proton_symporter_activity
+ENSMUSG00000020264	Slc36a2	GO:0005280	amino acid:proton symporter activity	amino_acid:proton_symporter_activity
+ENSMUSG00000020261	Slc36a1	GO:0005280	amino acid:proton symporter activity	amino_acid:proton_symporter_activity
+ENSMUSG00000004902	Slc25a18	GO:0005280	amino acid:proton symporter activity	amino_acid:proton_symporter_activity
+ENSMUSG00000019082	Slc25a22	GO:0005280	amino acid:proton symporter activity	amino_acid:proton_symporter_activity

@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024810	Il33	GO:0042092	type 2 immune response	type_2_immune_response
+ENSMUSG00000062593	Gm49339	GO:0042092	type 2 immune response	type_2_immune_response
+ENSMUSG00000112148	Lilrb4a	GO:0042092	type 2 immune response	type_2_immune_response
+ENSMUSG00000022508	Bcl6	GO:0042092	type 2 immune response	type_2_immune_response
+ENSMUSG00000005339	Fcer1a	GO:0042092	type 2 immune response	type_2_immune_response
+ENSMUSG00000019842	Traf3ip2	GO:0042092	type 2 immune response	type_2_immune_response
+ENSMUSG00000027367	Stard7	GO:0042092	type 2 immune response	type_2_immune_response

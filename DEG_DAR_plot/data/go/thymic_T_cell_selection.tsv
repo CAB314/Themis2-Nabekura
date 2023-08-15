@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000038855	Itpkb	GO:0045061	thymic T cell selection	thymic_T_cell_selection
+ENSMUSG00000002799	Jag2	GO:0045061	thymic T cell selection	thymic_T_cell_selection
+ENSMUSG00000026117	Zap70	GO:0045061	thymic T cell selection	thymic_T_cell_selection
+ENSMUSG00000036526	Card11	GO:0045061	thymic T cell selection	thymic_T_cell_selection
+ENSMUSG00000015619	Gata3	GO:0045061	thymic T cell selection	thymic_T_cell_selection

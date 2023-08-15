@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000074637	Sox2	GO:0001714	endodermal cell fate specification	endodermal_cell_fate_specification
+ENSMUSG00000012396	Nanog	GO:0001714	endodermal cell fate specification	endodermal_cell_fate_specification
+ENSMUSG00000025902	Sox17	GO:0001714	endodermal cell fate specification	endodermal_cell_fate_specification
+ENSMUSG00000020679	Hnf1b	GO:0001714	endodermal cell fate specification	endodermal_cell_fate_specification
+ENSMUSG00000024406	Pou5f1	GO:0001714	endodermal cell fate specification	endodermal_cell_fate_specification
+ENSMUSG00000032446	Eomes	GO:0001714	endodermal cell fate specification	endodermal_cell_fate_specification

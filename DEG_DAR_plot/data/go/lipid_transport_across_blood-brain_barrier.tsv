@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000027533	Fabp5	GO:1990379	lipid transport across blood-brain barrier	lipid_transport_across_blood-brain_barrier
+ENSMUSG00000002944	Cd36	GO:1990379	lipid transport across blood-brain barrier	lipid_transport_across_blood-brain_barrier
+ENSMUSG00000031808	Slc27a1	GO:1990379	lipid transport across blood-brain barrier	lipid_transport_across_blood-brain_barrier
+ENSMUSG00000028655	Mfsd2a	GO:1990379	lipid transport across blood-brain barrier	lipid_transport_across_blood-brain_barrier
+ENSMUSG00000059316	Slc27a4	GO:1990379	lipid transport across blood-brain barrier	lipid_transport_across_blood-brain_barrier

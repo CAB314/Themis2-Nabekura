@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000004110	Cacna1e	GO:0022843	voltage-gated cation channel activity	voltage-gated_cation_channel_activity
+ENSMUSG00000034462	Pkd2	GO:0022843	voltage-gated cation channel activity	voltage-gated_cation_channel_activity
+ENSMUSG00000021730	Hcn1	GO:0022843	voltage-gated cation channel activity	voltage-gated_cation_channel_activity
+ENSMUSG00000059003	Grin2a	GO:0022843	voltage-gated cation channel activity	voltage-gated_cation_channel_activity
+ENSMUSG00000064267	Hvcn1	GO:0022843	voltage-gated cation channel activity	voltage-gated_cation_channel_activity
+ENSMUSG00000026959	Grin1	GO:0022843	voltage-gated cation channel activity	voltage-gated_cation_channel_activity
+ENSMUSG00000002771	Grin2d	GO:0022843	voltage-gated cation channel activity	voltage-gated_cation_channel_activity

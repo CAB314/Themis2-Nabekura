@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000052085	Dock8	GO:0036336	dendritic cell migration	dendritic_cell_migration
+ENSMUSG00000021200	Asb2	GO:0036336	dendritic cell migration	dendritic_cell_migration
+ENSMUSG00000078817	Nlrp12	GO:0036336	dendritic cell migration	dendritic_cell_migration
+ENSMUSG00000061731	Ext1	GO:0036336	dendritic cell migration	dendritic_cell_migration
+ENSMUSG00000006699	Cdc42	GO:0036336	dendritic cell migration	dendritic_cell_migration
+ENSMUSG00000015766	Eps8	GO:0036336	dendritic cell migration	dendritic_cell_migration
+ENSMUSG00000025701	Alox5	GO:0036336	dendritic cell migration	dendritic_cell_migration

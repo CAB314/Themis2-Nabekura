@@ -1,0 +1,112 @@
+---
+title: "DEG_DAR_plot"
+output: html_document
+date: "2023-08-15"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# load data
+```{r fig.width = 10, fig.height=10}
+library(tidyverse)
+RNAdf <- read_csv("data/RNA_df_modified.csv")
+colnames(RNAdf) <- c("gene", "FC_mem_KO_WT_RNA")
+ChIP_df <- read_tsv("data/DAR_gene_FC.tsv")
+ChIP_df2 <- ChIP_df %>% filter(gene != "NONE") %>% select(gene, Linear, log2FC)
+colnames(ChIP_df2) <- c("gene", "Linear_ChIP", "log2FC_ChIP")
+```
+
+
+# plot (all genes)
+```{r fig.width = 10, fig.height=10}
+library(ggrepel)
+RNA_ChIP_df <- RNAdf %>% left_join(ChIP_df2, by = "gene") %>% drop_na(Linear_ChIP) 
+
+p_all1 <- RNA_ChIP_df %>% ggplot(aes(x = abs(log2FC_ChIP), y = abs(log(FC_mem_KO_WT_RNA, base = 2)),  label = gene)) +
+  geom_point(size = 0.7, alpha = 0.7)+
+  geom_density_2d() +
+  scale_fill_continuous(type = "viridis") +
+  geom_text_repel()+
+  xlab("|log2(FC of memory H3K4me3 DAR)|") +
+  ylab("|log2(FC of memory DEG)|") +
+  theme(plot.title = element_text(face="bold",hjust = 0.5), 
+        panel.grid.major = element_line(colour = "gray"),
+        panel.grid.minor = element_blank(),
+        panel.background = element_blank(), 
+        axis.line = element_line(colour="black"),
+        axis.text=element_text(size=12, colour="black"),
+        axis.text.x =element_text(size=10, colour="black"),
+        axis.text.y =element_text(size=10, colour="black"),
+        axis.title=element_text(size=14, colour="black"),
+        aspect.ratio = 0.8
+  )
+ggsave("plot/memory_DEG_DAR_plot_abs.pdf", p_all1)
+```
+
+
+# go term 
+```{r}
+library(biomaRt)
+ensembl = useMart("ensembl", dataset = "mmusculus_gene_ensembl")
+result = getBM(attributes = c("ensembl_gene_id", "external_gene_name", "go_id", "name_1006"),
+               mart = ensembl)
+write_tsv(result, "data/go/go_all_from_biomart_mouse.tsv")
+
+# save per go list
+name_1006_udb <- gsub(" ", "_", result$name_1006)
+name_1006_udb <- gsub("/", "_", name_1006_udb )
+result2 <- result %>% mutate(name_1006_udb = name_1006_udb)
+
+for (tgt_go_name in unique(result2$name_1006_udb)) {
+  tgt_go_df <- result2 %>% filter(name_1006_udb == tgt_go_name) %>% distinct() 
+  if(nrow(tgt_go_df) >= 5){
+    write_tsv(tgt_go_df, paste0("data/go/", tgt_go_name, ".tsv"))
+  }
+}
+```
+
+
+```{r}
+go_list <- c("DNA-templated_transcription.tsv")
+for (tgt_go_name in go_list) {
+  tgt_go <- read_tsv(paste0("data/go/", tgt_go_name))
+  gene_list <- tgt_go$external_gene_name %>% unique()
+  
+  tgt_RNA_ChIP_df <- RNA_ChIP_df %>% filter(gene %in% gene_list)
+  res_cor1 <- cor(abs(tgt_RNA_ChIP_df$FC_mem_KO_WT_RNA), abs(tgt_RNA_ChIP_df$log2FC_ChIP), method = "spearman")
+  tgt_go_name2 <- gsub(".tsv", "", tgt_go_name)
+  
+  if(nrow(tgt_RNA_ChIP_df) > 1){
+    
+    res_cor <- cor.test(abs(tgt_RNA_ChIP_df$FC_mem_KO_WT_RNA), abs(tgt_RNA_ChIP_df$log2FC_ChIP), method = "spearman")
+    print(tgt_go_name2)
+    print(paste0("cor = ", res_cor1))
+    print(paste0("p = ", res_cor$p.value))
+    p2 <- tgt_RNA_ChIP_df %>%
+      ggplot(aes(y = abs(log(FC_mem_KO_WT_RNA, base = 2)), x = abs(log2FC_ChIP), label = gene)) +
+      geom_point(size = 0.7)+
+      geom_text_repel()+
+      ggtitle(tgt_go_name2) +
+      xlab("|log2(FC of memory H3K4me3 DARs)|")+
+      ylab("|log2(FC of memory DEGs)|")+
+      theme(plot.title = element_text(face="bold",hjust = 0.5), 
+            panel.grid.major = element_line(colour = "gray"),
+            panel.grid.minor = element_blank(),
+            panel.background = element_blank(), 
+            axis.line = element_line(colour="black"),
+            axis.text=element_text(size=12, colour="black"),
+            axis.text.x =element_text(size=10, colour="black"),
+            axis.text.y =element_text(size=10, colour="black"),
+            axis.title=element_text(size=14, colour="black"),
+            aspect.ratio = 0.8
+      )
+    plot(p2)
+    ggsave(paste0("plot/GO_", tgt_go_name2,".pdf"), p2)
+  }
+  rm(tgt_RNA_ChIP_df)
+}
+```
+
+

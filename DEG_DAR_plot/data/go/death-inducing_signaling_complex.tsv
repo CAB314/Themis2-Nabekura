@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024778	Fas	GO:0031264	death-inducing signaling complex	death-inducing_signaling_complex
+ENSMUSG00000031628	Casp3	GO:0031264	death-inducing signaling complex	death-inducing_signaling_complex
+ENSMUSG00000021408	Ripk1	GO:0031264	death-inducing signaling complex	death-inducing_signaling_complex
+ENSMUSG00000026031	Cflar	GO:0031264	death-inducing signaling complex	death-inducing_signaling_complex
+ENSMUSG00000026029	Casp8	GO:0031264	death-inducing signaling complex	death-inducing_signaling_complex
+ENSMUSG00000031077	Fadd	GO:0031264	death-inducing signaling complex	death-inducing_signaling_complex

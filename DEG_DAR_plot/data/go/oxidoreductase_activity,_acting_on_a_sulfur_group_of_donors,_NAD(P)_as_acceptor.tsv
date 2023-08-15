@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000000811	Txnrd3	GO:0016668	oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor	oxidoreductase_activity,_acting_on_a_sulfur_group_of_donors,_NAD(P)_as_acceptor
+ENSMUSG00000075704	Txnrd2	GO:0016668	oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor	oxidoreductase_activity,_acting_on_a_sulfur_group_of_donors,_NAD(P)_as_acceptor
+ENSMUSG00000031584	Gsr	GO:0016668	oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor	oxidoreductase_activity,_acting_on_a_sulfur_group_of_donors,_NAD(P)_as_acceptor
+ENSMUSG00000020664	Dld	GO:0016668	oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor	oxidoreductase_activity,_acting_on_a_sulfur_group_of_donors,_NAD(P)_as_acceptor
+ENSMUSG00000020250	Txnrd1	GO:0016668	oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor	oxidoreductase_activity,_acting_on_a_sulfur_group_of_donors,_NAD(P)_as_acceptor

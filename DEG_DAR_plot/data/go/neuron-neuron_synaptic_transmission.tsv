@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000034656	Cacna1a	GO:0007270	neuron-neuron synaptic transmission	neuron-neuron_synaptic_transmission
+ENSMUSG00000063077	Kif1b	GO:0007270	neuron-neuron synaptic transmission	neuron-neuron_synaptic_transmission
+ENSMUSG00000008892	Vdac3	GO:0007270	neuron-neuron synaptic transmission	neuron-neuron_synaptic_transmission
+ENSMUSG00000013663	Pten	GO:0007270	neuron-neuron synaptic transmission	neuron-neuron_synaptic_transmission
+ENSMUSG00000020402	Vdac1	GO:0007270	neuron-neuron synaptic transmission	neuron-neuron_synaptic_transmission
+ENSMUSG00000032186	Tmod2	GO:0007270	neuron-neuron synaptic transmission	neuron-neuron_synaptic_transmission
+ENSMUSG00000032259	Drd2	GO:0007270	neuron-neuron synaptic transmission	neuron-neuron_synaptic_transmission

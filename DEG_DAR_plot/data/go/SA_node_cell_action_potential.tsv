@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000032826	Ank2	GO:0086015	SA node cell action potential	SA_node_cell_action_potential
+ENSMUSG00000057123	Gja5	GO:0086015	SA node cell action potential	SA_node_cell_action_potential
+ENSMUSG00000049281	Scn3b	GO:0086015	SA node cell action potential	SA_node_cell_action_potential
+ENSMUSG00000032338	Hcn4	GO:0086015	SA node cell action potential	SA_node_cell_action_potential
+ENSMUSG00000032511	Scn5a	GO:0086015	SA node cell action potential	SA_node_cell_action_potential
+ENSMUSG00000020866	Cacna1g	GO:0086015	SA node cell action potential	SA_node_cell_action_potential

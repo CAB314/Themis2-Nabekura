@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000047554	Tmem41b	GO:0044830	modulation by host of viral RNA genome replication	modulation_by_host_of_viral_RNA_genome_replication
+ENSMUSG00000000838	Fmr1	GO:0044830	modulation by host of viral RNA genome replication	modulation_by_host_of_viral_RNA_genome_replication
+ENSMUSG00000032507	Fbxl2	GO:0044830	modulation by host of viral RNA genome replication	modulation_by_host_of_viral_RNA_genome_replication
+ENSMUSG00000038845	Phb	GO:0044830	modulation by host of viral RNA genome replication	modulation_by_host_of_viral_RNA_genome_replication
+ENSMUSG00000004393	Ddx56	GO:0044830	modulation by host of viral RNA genome replication	modulation_by_host_of_viral_RNA_genome_replication

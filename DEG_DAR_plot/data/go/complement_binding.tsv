@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000073418	C4b	GO:0001848	complement binding	complement_binding
+ENSMUSG00000015083	C8g	GO:0001848	complement binding	complement_binding
+ENSMUSG00000035031	C8a	GO:0001848	complement binding	complement_binding
+ENSMUSG00000032679	Cd59a	GO:0001848	complement binding	complement_binding
+ENSMUSG00000068686	Cd59b	GO:0001848	complement binding	complement_binding

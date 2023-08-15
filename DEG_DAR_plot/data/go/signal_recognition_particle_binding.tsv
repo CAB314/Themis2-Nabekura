@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000022365	Derl1	GO:0005047	signal recognition particle binding	signal_recognition_particle_binding
+ENSMUSG00000032042	Srpr	GO:0005047	signal recognition particle binding	signal_recognition_particle_binding
+ENSMUSG00000020780	Srp68	GO:0005047	signal recognition particle binding	signal_recognition_particle_binding
+ENSMUSG00000036323	Srp72	GO:0005047	signal recognition particle binding	signal_recognition_particle_binding
+ENSMUSG00000009092	Derl3	GO:0005047	signal recognition particle binding	signal_recognition_particle_binding
+ENSMUSG00000018442	Derl2	GO:0005047	signal recognition particle binding	signal_recognition_particle_binding

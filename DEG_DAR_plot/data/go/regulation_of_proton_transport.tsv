@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000031449	Atp4b	GO:0010155	regulation of proton transport	regulation_of_proton_transport
+ENSMUSG00000001750	Tcirg1	GO:0010155	regulation of proton transport	regulation_of_proton_transport
+ENSMUSG00000000869	Il4	GO:0010155	regulation of proton transport	regulation_of_proton_transport
+ENSMUSG00000020264	Slc36a2	GO:0010155	regulation of proton transport	regulation_of_proton_transport
+ENSMUSG00000005553	Atp4a	GO:0010155	regulation of proton transport	regulation_of_proton_transport
+ENSMUSG00000020383	Il13	GO:0010155	regulation of proton transport	regulation_of_proton_transport

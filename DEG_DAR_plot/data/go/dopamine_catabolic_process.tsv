@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000021609	Slc6a3	GO:0042420	dopamine catabolic process	dopamine_catabolic_process
+ENSMUSG00000000889	Dbh	GO:0042420	dopamine catabolic process	dopamine_catabolic_process
+ENSMUSG00000025037	Maoa	GO:0042420	dopamine catabolic process	dopamine_catabolic_process
+ENSMUSG00000000326	Comt	GO:0042420	dopamine catabolic process	dopamine_catabolic_process
+ENSMUSG00000020000	Moxd1	GO:0042420	dopamine catabolic process	dopamine_catabolic_process
+ENSMUSG00000029885	Moxd2	GO:0042420	dopamine catabolic process	dopamine_catabolic_process

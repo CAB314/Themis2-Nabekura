@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000034430	Zxdc	GO:0030275	LRR domain binding	LRR_domain_binding
+ENSMUSG00000022883	Robo1	GO:0030275	LRR domain binding	LRR_domain_binding
+ENSMUSG00000030265	Kras	GO:0030275	LRR domain binding	LRR_domain_binding
+ENSMUSG00000032497	Lrrfip2	GO:0030275	LRR domain binding	LRR_domain_binding
+ENSMUSG00000003068	Stk11	GO:0030275	LRR domain binding	LRR_domain_binding

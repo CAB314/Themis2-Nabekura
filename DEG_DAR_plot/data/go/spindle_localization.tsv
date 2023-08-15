@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000026341	Actr3	GO:0051653	spindle localization	spindle_localization
+ENSMUSG00000029684	Wasl	GO:0051653	spindle localization	spindle_localization
+ENSMUSG00000033952	Aspm	GO:0051653	spindle localization	spindle_localization
+ENSMUSG00000020152	Actr2	GO:0051653	spindle localization	spindle_localization
+ENSMUSG00000038292	Kash5	GO:0051653	spindle localization	spindle_localization

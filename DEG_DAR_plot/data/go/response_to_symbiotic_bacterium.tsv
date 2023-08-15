@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000056529	Ptafr	GO:0009609	response to symbiotic bacterium	response_to_symbiotic_bacterium
+ENSMUSG00000026405	C4bp	GO:0009609	response to symbiotic bacterium	response_to_symbiotic_bacterium
+ENSMUSG00000063652	Slc22a21	GO:0009609	response to symbiotic bacterium	response_to_symbiotic_bacterium
+ENSMUSG00000063856	Gpx1	GO:0009609	response to symbiotic bacterium	response_to_symbiotic_bacterium
+ENSMUSG00000018900	Slc22a5	GO:0009609	response to symbiotic bacterium	response_to_symbiotic_bacterium

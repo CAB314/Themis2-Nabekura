@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000029009	Mthfr	GO:0006555	methionine metabolic process	methionine_metabolic_process
+ENSMUSG00000021048	Mthfd1	GO:0006555	methionine metabolic process	methionine_metabolic_process
+ENSMUSG00000021311	Mtr	GO:0006555	methionine metabolic process	methionine_metabolic_process
+ENSMUSG00000002769	Gnmt	GO:0006555	methionine metabolic process	methionine_metabolic_process
+ENSMUSG00000020629	Adi1	GO:0006555	methionine metabolic process	methionine_metabolic_process

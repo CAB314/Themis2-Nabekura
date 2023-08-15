@@ -1,0 +1,11 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000020459	Mtif2	GO:0008135	translation factor activity, RNA binding	translation_factor_activity,_RNA_binding
+ENSMUSG00000045983	Eif4g1	GO:0008135	translation factor activity, RNA binding	translation_factor_activity,_RNA_binding
+ENSMUSG00000020300	Cpeb4	GO:0008135	translation factor activity, RNA binding	translation_factor_activity,_RNA_binding
+ENSMUSG00000016510	Mtif3	GO:0008135	translation factor activity, RNA binding	translation_factor_activity,_RNA_binding
+ENSMUSG00000035150	Eif2s3x	GO:0008135	translation factor activity, RNA binding	translation_factor_activity,_RNA_binding
+ENSMUSG00000005610	Eif4g2	GO:0008135	translation factor activity, RNA binding	translation_factor_activity,_RNA_binding
+ENSMUSG00000039652	Cpeb3	GO:0008135	translation factor activity, RNA binding	translation_factor_activity,_RNA_binding
+ENSMUSG00000028683	Eif2b3	GO:0008135	translation factor activity, RNA binding	translation_factor_activity,_RNA_binding
+ENSMUSG00000025586	Cpeb1	GO:0008135	translation factor activity, RNA binding	translation_factor_activity,_RNA_binding
+ENSMUSG00000035064	Eef2k	GO:0008135	translation factor activity, RNA binding	translation_factor_activity,_RNA_binding

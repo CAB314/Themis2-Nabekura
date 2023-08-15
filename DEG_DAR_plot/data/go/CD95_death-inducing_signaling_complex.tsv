@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024778	Fas	GO:0031265	CD95 death-inducing signaling complex	CD95_death-inducing_signaling_complex
+ENSMUSG00000026031	Cflar	GO:0031265	CD95 death-inducing signaling complex	CD95_death-inducing_signaling_complex
+ENSMUSG00000026029	Casp8	GO:0031265	CD95 death-inducing signaling complex	CD95_death-inducing_signaling_complex
+ENSMUSG00000037613	Tnfrsf23	GO:0031265	CD95 death-inducing signaling complex	CD95_death-inducing_signaling_complex
+ENSMUSG00000031077	Fadd	GO:0031265	CD95 death-inducing signaling complex	CD95_death-inducing_signaling_complex

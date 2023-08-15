@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000022779	Top3b	GO:0003916	DNA topoisomerase activity	DNA_topoisomerase_activity
+ENSMUSG00000020914	Top2a	GO:0003916	DNA topoisomerase activity	DNA_topoisomerase_activity
+ENSMUSG00000000934	Top1mt	GO:0003916	DNA topoisomerase activity	DNA_topoisomerase_activity
+ENSMUSG00000002814	Top3a	GO:0003916	DNA topoisomerase activity	DNA_topoisomerase_activity
+ENSMUSG00000017485	Top2b	GO:0003916	DNA topoisomerase activity	DNA_topoisomerase_activity
+ENSMUSG00000070544	Top1	GO:0003916	DNA topoisomerase activity	DNA_topoisomerase_activity

@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000050511	Oprd1	GO:0004985	G protein-coupled opioid receptor activity	G_protein-coupled_opioid_receptor_activity
+ENSMUSG00000027584	Oprl1	GO:0004985	G protein-coupled opioid receptor activity	G_protein-coupled_opioid_receptor_activity
+ENSMUSG00000025905	Oprk1	GO:0004985	G protein-coupled opioid receptor activity	G_protein-coupled_opioid_receptor_activity
+ENSMUSG00000000766	Oprm1	GO:0004985	G protein-coupled opioid receptor activity	G_protein-coupled_opioid_receptor_activity
+ENSMUSG00000036078	Sigmar1	GO:0004985	G protein-coupled opioid receptor activity	G_protein-coupled_opioid_receptor_activity

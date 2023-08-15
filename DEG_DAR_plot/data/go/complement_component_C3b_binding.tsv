@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000044206	Vsig4	GO:0001851	complement component C3b binding	complement_component_C3b_binding
+ENSMUSG00000016481	Cr1l	GO:0001851	complement component C3b binding	complement_component_C3b_binding
+ENSMUSG00000057037	Cfhr1	GO:0001851	complement component C3b binding	complement_component_C3b_binding
+ENSMUSG00000070594	Cfhr4	GO:0001851	complement component C3b binding	complement_component_C3b_binding
+ENSMUSG00000033898	Cfhr2	GO:0001851	complement component C3b binding	complement_component_C3b_binding
+ENSMUSG00000026365	Cfh	GO:0001851	complement component C3b binding	complement_component_C3b_binding
+ENSMUSG00000038845	Phb	GO:0001851	complement component C3b binding	complement_component_C3b_binding

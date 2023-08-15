@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000038496	Slc19a3	GO:0051180	vitamin transport	vitamin_transport
+ENSMUSG00000040918	Slc19a2	GO:0051180	vitamin transport	vitamin_transport
+ENSMUSG00000032083	Apoa1	GO:0051180	vitamin transport	vitamin_transport
+ENSMUSG00000001436	Slc19a1	GO:0051180	vitamin transport	vitamin_transport
+ENSMUSG00000035540	Gc	GO:0051180	vitamin transport	vitamin_transport
+ENSMUSG00000029369	Afm	GO:0051180	vitamin transport	vitamin_transport
+ENSMUSG00000073988	Ttpa	GO:0051180	vitamin transport	vitamin_transport
+ENSMUSG00000020447	Npc1l1	GO:0051180	vitamin transport	vitamin_transport

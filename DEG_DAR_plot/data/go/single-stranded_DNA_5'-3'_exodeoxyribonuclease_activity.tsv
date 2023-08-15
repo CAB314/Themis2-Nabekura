@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000039748	Exo1	GO:0045145	single-stranded DNA 5'-3' exodeoxyribonuclease activity	single-stranded_DNA_5'-3'_exodeoxyribonuclease_activity
+ENSMUSG00000052160	Pld4	GO:0045145	single-stranded DNA 5'-3' exodeoxyribonuclease activity	single-stranded_DNA_5'-3'_exodeoxyribonuclease_activity
+ENSMUSG00000028629	Exo5	GO:0045145	single-stranded DNA 5'-3' exodeoxyribonuclease activity	single-stranded_DNA_5'-3'_exodeoxyribonuclease_activity
+ENSMUSG00000003363	Pld3	GO:0045145	single-stranded DNA 5'-3' exodeoxyribonuclease activity	single-stranded_DNA_5'-3'_exodeoxyribonuclease_activity
+ENSMUSG00000027424	Mgme1	GO:0045145	single-stranded DNA 5'-3' exodeoxyribonuclease activity	single-stranded_DNA_5'-3'_exodeoxyribonuclease_activity

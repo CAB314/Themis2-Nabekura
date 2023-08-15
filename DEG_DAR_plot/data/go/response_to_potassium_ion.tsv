@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000014852	Adamts13	GO:0035864	response to potassium ion	response_to_potassium_ion
+ENSMUSG00000021490	Slc34a1	GO:0035864	response to potassium ion	response_to_potassium_ion
+ENSMUSG00000002028	Kmt2a	GO:0035864	response to potassium ion	response_to_potassium_ion
+ENSMUSG00000029015	Slc26a5	GO:0035864	response to potassium ion	response_to_potassium_ion
+ENSMUSG00000058975	Kcnc1	GO:0035864	response to potassium ion	response_to_potassium_ion

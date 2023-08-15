@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000026614	Slc30a10	GO:0006828	manganese ion transport	manganese_ion_transport
+ENSMUSG00000048497	Mmgt2	GO:0006828	manganese ion transport	manganese_ion_transport
+ENSMUSG00000023030	Slc11a2	GO:0006828	manganese ion transport	manganese_ion_transport
+ENSMUSG00000034112	Atp2c2	GO:0006828	manganese ion transport	manganese_ion_transport
+ENSMUSG00000032570	Atp2c1	GO:0006828	manganese ion transport	manganese_ion_transport
+ENSMUSG00000009292	Trpm2	GO:0006828	manganese ion transport	manganese_ion_transport
+ENSMUSG00000034591	Slc41a2	GO:0006828	manganese ion transport	manganese_ion_transport
+ENSMUSG00000026177	Slc11a1	GO:0006828	manganese ion transport	manganese_ion_transport

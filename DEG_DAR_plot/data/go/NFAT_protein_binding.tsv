@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000021944	Gata4	GO:0051525	NFAT protein binding	NFAT_protein_binding
+ENSMUSG00000022383	Ppara	GO:0051525	NFAT protein binding	NFAT_protein_binding
+ENSMUSG00000039521	Foxp3	GO:0051525	NFAT protein binding	NFAT_protein_binding
+ENSMUSG00000002111	Spi1	GO:0051525	NFAT protein binding	NFAT_protein_binding
+ENSMUSG00000005836	Gata6	GO:0051525	NFAT protein binding	NFAT_protein_binding
+ENSMUSG00000053436	Mapk14	GO:0051525	NFAT protein binding	NFAT_protein_binding

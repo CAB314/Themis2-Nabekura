@@ -1,0 +1,10 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000022674	Ube2v2	GO:0000729	DNA double-strand break processing	DNA_double-strand_break_processing
+ENSMUSG00000036875	Dna2	GO:0000729	DNA double-strand break processing	DNA_double-strand_break_processing
+ENSMUSG00000031928	Mre11a	GO:0000729	DNA double-strand break processing	DNA_double-strand_break_processing
+ENSMUSG00000032705	Exd2	GO:0000729	DNA double-strand break processing	DNA_double-strand_break_processing
+ENSMUSG00000034639	Setmar	GO:0000729	DNA double-strand break processing	DNA_double-strand_break_processing
+ENSMUSG00000029920	Smarcad1	GO:0000729	DNA double-strand break processing	DNA_double-strand_break_processing
+ENSMUSG00000030528	Blm	GO:0000729	DNA double-strand break processing	DNA_double-strand_break_processing
+ENSMUSG00000074781	Ube2n	GO:0000729	DNA double-strand break processing	DNA_double-strand_break_processing
+ENSMUSG00000028224	Nbn	GO:0000729	DNA double-strand break processing	DNA_double-strand_break_processing

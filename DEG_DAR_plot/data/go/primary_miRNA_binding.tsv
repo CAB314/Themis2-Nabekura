@@ -1,0 +1,11 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000031681	Smad1	GO:0070878	primary miRNA binding	primary_miRNA_binding
+ENSMUSG00000020280	Pus10	GO:0070878	primary miRNA binding	primary_miRNA_binding
+ENSMUSG00000022191	Drosha	GO:0070878	primary miRNA binding	primary_miRNA_binding
+ENSMUSG00000029687	Ezh2	GO:0070878	primary miRNA binding	primary_miRNA_binding
+ENSMUSG00000004040	Stat3	GO:0070878	primary miRNA binding	primary_miRNA_binding
+ENSMUSG00000000787	Ddx3x	GO:0070878	primary miRNA binding	primary_miRNA_binding
+ENSMUSG00000022718	Dgcr8	GO:0070878	primary miRNA binding	primary_miRNA_binding
+ENSMUSG00000015605	Srf	GO:0070878	primary miRNA binding	primary_miRNA_binding
+ENSMUSG00000071172	Srsf3	GO:0070878	primary miRNA binding	primary_miRNA_binding
+ENSMUSG00000020719	Ddx5	GO:0070878	primary miRNA binding	primary_miRNA_binding

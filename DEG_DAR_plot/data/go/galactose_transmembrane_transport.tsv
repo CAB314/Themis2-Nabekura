@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000003153	Slc2a3	GO:0015757	galactose transmembrane transport	galactose_transmembrane_transport
+ENSMUSG00000039838	Slc45a1	GO:0015757	galactose transmembrane transport	galactose_transmembrane_transport
+ENSMUSG00000027690	Slc2a2	GO:0015757	galactose transmembrane transport	galactose_transmembrane_transport
+ENSMUSG00000026791	Slc2a8	GO:0015757	galactose transmembrane transport	galactose_transmembrane_transport
+ENSMUSG00000011034	Slc5a1	GO:0015757	galactose transmembrane transport	galactose_transmembrane_transport

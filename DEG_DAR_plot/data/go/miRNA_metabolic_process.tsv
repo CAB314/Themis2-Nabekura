@@ -1,0 +1,11 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000022191	Drosha	GO:0010586	miRNA metabolic process	miRNA_metabolic_process
+ENSMUSG00000036698	Ago2	GO:0010586	miRNA metabolic process	miRNA_metabolic_process
+ENSMUSG00000007670	Khsrp	GO:0010586	miRNA metabolic process	miRNA_metabolic_process
+ENSMUSG00000055065	Ddx17	GO:0010586	miRNA metabolic process	miRNA_metabolic_process
+ENSMUSG00000050966	Lin28a	GO:0010586	miRNA metabolic process	miRNA_metabolic_process
+ENSMUSG00000035248	Tut7	GO:0010586	miRNA metabolic process	miRNA_metabolic_process
+ENSMUSG00000079259	Trim71	GO:0010586	miRNA metabolic process	miRNA_metabolic_process
+ENSMUSG00000041530	Ago1	GO:0010586	miRNA metabolic process	miRNA_metabolic_process
+ENSMUSG00000042500	Ago4	GO:0010586	miRNA metabolic process	miRNA_metabolic_process
+ENSMUSG00000034610	Tut4	GO:0010586	miRNA metabolic process	miRNA_metabolic_process

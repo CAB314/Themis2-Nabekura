@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000090210	Itga10	GO:0098639	collagen binding involved in cell-matrix adhesion	collagen_binding_involved_in_cell-matrix_adhesion
+ENSMUSG00000015533	Itga2	GO:0098639	collagen binding involved in cell-matrix adhesion	collagen_binding_involved_in_cell-matrix_adhesion
+ENSMUSG00000042284	Itga1	GO:0098639	collagen binding involved in cell-matrix adhesion	collagen_binding_involved_in_cell-matrix_adhesion
+ENSMUSG00000032243	Itga11	GO:0098639	collagen binding involved in cell-matrix adhesion	collagen_binding_involved_in_cell-matrix_adhesion
+ENSMUSG00000025809	Itgb1	GO:0098639	collagen binding involved in cell-matrix adhesion	collagen_binding_involved_in_cell-matrix_adhesion

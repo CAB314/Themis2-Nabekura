@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000021994	Wnt5a	GO:0038031	non-canonical Wnt signaling pathway via JNK cascade	non-canonical_Wnt_signaling_pathway_via_JNK_cascade
+ENSMUSG00000003233	Dvl3	GO:0038031	non-canonical Wnt signaling pathway via JNK cascade	non-canonical_Wnt_signaling_pathway_via_JNK_cascade
+ENSMUSG00000041075	Fzd7	GO:0038031	non-canonical Wnt signaling pathway via JNK cascade	non-canonical_Wnt_signaling_pathway_via_JNK_cascade
+ENSMUSG00000026697	Myoc	GO:0038031	non-canonical Wnt signaling pathway via JNK cascade	non-canonical_Wnt_signaling_pathway_via_JNK_cascade
+ENSMUSG00000081683	Fzd10	GO:0038031	non-canonical Wnt signaling pathway via JNK cascade	non-canonical_Wnt_signaling_pathway_via_JNK_cascade

@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000050697	Prkaa1	GO:0061762	CAMKK-AMPK signaling cascade	CAMKK-AMPK_signaling_cascade
+ENSMUSG00000029471	Camkk2	GO:0061762	CAMKK-AMPK signaling cascade	CAMKK-AMPK_signaling_cascade
+ENSMUSG00000046879	Irgm1	GO:0061762	CAMKK-AMPK signaling cascade	CAMKK-AMPK_signaling_cascade
+ENSMUSG00000043207	Zmpste24	GO:0061762	CAMKK-AMPK signaling cascade	CAMKK-AMPK_signaling_cascade
+ENSMUSG00000078853	Igtp	GO:0061762	CAMKK-AMPK signaling cascade	CAMKK-AMPK_signaling_cascade
+ENSMUSG00000069874	Irgm2	GO:0061762	CAMKK-AMPK signaling cascade	CAMKK-AMPK_signaling_cascade

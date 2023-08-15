@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000039521	Foxp3	GO:0002507	tolerance induction	tolerance_induction
+ENSMUSG00000062593	Gm49339	GO:0002507	tolerance induction	tolerance_induction
+ENSMUSG00000112023	Lilrb4b	GO:0002507	tolerance induction	tolerance_induction
+ENSMUSG00000112148	Lilrb4a	GO:0002507	tolerance induction	tolerance_induction
+ENSMUSG00000047898	Ccr4	GO:0002507	tolerance induction	tolerance_induction

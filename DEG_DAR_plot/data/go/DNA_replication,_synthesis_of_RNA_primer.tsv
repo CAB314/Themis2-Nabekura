@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000038225	Primpol	GO:0006269	DNA replication, synthesis of RNA primer	DNA_replication,_synthesis_of_RNA_primer
+ENSMUSG00000025395	Prim1	GO:0006269	DNA replication, synthesis of RNA primer	DNA_replication,_synthesis_of_RNA_primer
+ENSMUSG00000006678	Pola1	GO:0006269	DNA replication, synthesis of RNA primer	DNA_replication,_synthesis_of_RNA_primer
+ENSMUSG00000026134	Prim2	GO:0006269	DNA replication, synthesis of RNA primer	DNA_replication,_synthesis_of_RNA_primer
+ENSMUSG00000024833	Pola2	GO:0006269	DNA replication, synthesis of RNA primer	DNA_replication,_synthesis_of_RNA_primer
+ENSMUSG00000020228	Helb	GO:0006269	DNA replication, synthesis of RNA primer	DNA_replication,_synthesis_of_RNA_primer
+ENSMUSG00000020329	Polrmt	GO:0006269	DNA replication, synthesis of RNA primer	DNA_replication,_synthesis_of_RNA_primer

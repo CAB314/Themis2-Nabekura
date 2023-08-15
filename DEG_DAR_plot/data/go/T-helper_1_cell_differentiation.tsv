@@ -1,0 +1,12 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000035356	Nfkbiz	GO:0045063	T-helper 1 cell differentiation	T-helper_1_cell_differentiation
+ENSMUSG00000062939	Stat4	GO:0045063	T-helper 1 cell differentiation	T-helper_1_cell_differentiation
+ENSMUSG00000027985	Lef1	GO:0045063	T-helper 1 cell differentiation	T-helper_1_cell_differentiation
+ENSMUSG00000028064	Sema4a	GO:0045063	T-helper 1 cell differentiation	T-helper_1_cell_differentiation
+ENSMUSG00000061414	Cracr2a	GO:0045063	T-helper 1 cell differentiation	T-helper_1_cell_differentiation
+ENSMUSG00000039377	Hlx	GO:0045063	T-helper 1 cell differentiation	T-helper_1_cell_differentiation
+ENSMUSG00000066551	Hmgb1	GO:0045063	T-helper 1 cell differentiation	T-helper_1_cell_differentiation
+ENSMUSG00000002983	Relb	GO:0045063	T-helper 1 cell differentiation	T-helper_1_cell_differentiation
+ENSMUSG00000035413	Tmem98	GO:0045063	T-helper 1 cell differentiation	T-helper_1_cell_differentiation
+ENSMUSG00000030748	Il4ra	GO:0045063	T-helper 1 cell differentiation	T-helper_1_cell_differentiation
+ENSMUSG00000026070	Il18r1	GO:0045063	T-helper 1 cell differentiation	T-helper_1_cell_differentiation

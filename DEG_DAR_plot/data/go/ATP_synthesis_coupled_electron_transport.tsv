@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000064354	mt-Co2	GO:0042773	ATP synthesis coupled electron transport	ATP_synthesis_coupled_electron_transport
+ENSMUSG00000065947	mt-Nd4l	GO:0042773	ATP synthesis coupled electron transport	ATP_synthesis_coupled_electron_transport
+ENSMUSG00000064363	mt-Nd4	GO:0042773	ATP synthesis coupled electron transport	ATP_synthesis_coupled_electron_transport
+ENSMUSG00000064367	mt-Nd5	GO:0042773	ATP synthesis coupled electron transport	ATP_synthesis_coupled_electron_transport
+ENSMUSG00000025968	Ndufs1	GO:0042773	ATP synthesis coupled electron transport	ATP_synthesis_coupled_electron_transport
+ENSMUSG00000041881	Ndufa7	GO:0042773	ATP synthesis coupled electron transport	ATP_synthesis_coupled_electron_transport

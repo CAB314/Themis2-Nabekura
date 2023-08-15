@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000004791	Pgf	GO:0060754	positive regulation of mast cell chemotaxis	positive_regulation_of_mast_cell_chemotaxis
+ENSMUSG00000031520	Vegfc	GO:0060754	positive regulation of mast cell chemotaxis	positive_regulation_of_mast_cell_chemotaxis
+ENSMUSG00000031380	Vegfd	GO:0060754	positive regulation of mast cell chemotaxis	positive_regulation_of_mast_cell_chemotaxis
+ENSMUSG00000031015	Swap70	GO:0060754	positive regulation of mast cell chemotaxis	positive_regulation_of_mast_cell_chemotaxis
+ENSMUSG00000023951	Vegfa	GO:0060754	positive regulation of mast cell chemotaxis	positive_regulation_of_mast_cell_chemotaxis
+ENSMUSG00000024962	Vegfb	GO:0060754	positive regulation of mast cell chemotaxis	positive_regulation_of_mast_cell_chemotaxis
+ENSMUSG00000035042	Ccl5	GO:0060754	positive regulation of mast cell chemotaxis	positive_regulation_of_mast_cell_chemotaxis

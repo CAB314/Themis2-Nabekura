@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024121	Atp6v0c	GO:0008553	P-type proton-exporting transporter activity	P-type_proton-exporting_transporter_activity
+ENSMUSG00000016252	Atp5e	GO:0008553	P-type proton-exporting transporter activity	P-type_proton-exporting_transporter_activity
+ENSMUSG00000038717	Atp5l	GO:0008553	P-type proton-exporting transporter activity	P-type_proton-exporting_transporter_activity
+ENSMUSG00000038600	Atp6v0a4	GO:0008553	P-type proton-exporting transporter activity	P-type_proton-exporting_transporter_activity
+ENSMUSG00000033379	Atp6v0b	GO:0008553	P-type proton-exporting transporter activity	P-type_proton-exporting_transporter_activity

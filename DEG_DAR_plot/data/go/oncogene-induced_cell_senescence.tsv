@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000056758	Hmga2	GO:0090402	oncogene-induced cell senescence	oncogene-induced_cell_senescence
+ENSMUSG00000002111	Spi1	GO:0090402	oncogene-induced cell senescence	oncogene-induced_cell_senescence
+ENSMUSG00000036986	Pml	GO:0090402	oncogene-induced cell senescence	oncogene-induced_cell_senescence
+ENSMUSG00000046711	Hmga1	GO:0090402	oncogene-induced cell senescence	oncogene-induced_cell_senescence
+ENSMUSG00000023067	Cdkn1a	GO:0090402	oncogene-induced cell senescence	oncogene-induced_cell_senescence
+ENSMUSG00000078249	Hmga1b	GO:0090402	oncogene-induced cell senescence	oncogene-induced_cell_senescence
+ENSMUSG00000025499	Hras	GO:0090402	oncogene-induced cell senescence	oncogene-induced_cell_senescence
+ENSMUSG00000044303	Cdkn2a	GO:0090402	oncogene-induced cell senescence	oncogene-induced_cell_senescence

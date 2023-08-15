@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000022141	Nipbl	GO:0048592	eye morphogenesis	eye_morphogenesis
+ENSMUSG00000026042	Col5a2	GO:0048592	eye morphogenesis	eye_morphogenesis
+ENSMUSG00000026837	Col5a1	GO:0048592	eye morphogenesis	eye_morphogenesis
+ENSMUSG00000052957	Gas1	GO:0048592	eye morphogenesis	eye_morphogenesis
+ENSMUSG00000025920	Stau2	GO:0048592	eye morphogenesis	eye_morphogenesis

@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000036083	Slc17a3	GO:0008308	voltage-gated anion channel activity	voltage-gated_anion_channel_activity
+ENSMUSG00000008892	Vdac3	GO:0008308	voltage-gated anion channel activity	voltage-gated_anion_channel_activity
+ENSMUSG00000028096	Gpr89	GO:0008308	voltage-gated anion channel activity	voltage-gated_anion_channel_activity
+ENSMUSG00000021771	Vdac2	GO:0008308	voltage-gated anion channel activity	voltage-gated_anion_channel_activity
+ENSMUSG00000020402	Vdac1	GO:0008308	voltage-gated anion channel activity	voltage-gated_anion_channel_activity

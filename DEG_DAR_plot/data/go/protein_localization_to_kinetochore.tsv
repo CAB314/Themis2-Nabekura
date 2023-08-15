@@ -1,0 +1,12 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000022369	Mtbp	GO:0034501	protein localization to kinetochore	protein_localization_to_kinetochore
+ENSMUSG00000024474	Ik	GO:0034501	protein localization to kinetochore	protein_localization_to_kinetochore
+ENSMUSG00000047710	Champ1	GO:0034501	protein localization to kinetochore	protein_localization_to_kinetochore
+ENSMUSG00000038379	Ttk	GO:0034501	protein localization to kinetochore	protein_localization_to_kinetochore
+ENSMUSG00000069910	Spdl1	GO:0034501	protein localization to kinetochore	protein_localization_to_kinetochore
+ENSMUSG00000066979	Bub3	GO:0034501	protein localization to kinetochore	protein_localization_to_kinetochore
+ENSMUSG00000019942	Cdk1	GO:0034501	protein localization to kinetochore	protein_localization_to_kinetochore
+ENSMUSG00000032400	Zwilch	GO:0034501	protein localization to kinetochore	protein_localization_to_kinetochore
+ENSMUSG00000032264	Zw10	GO:0034501	protein localization to kinetochore	protein_localization_to_kinetochore
+ENSMUSG00000027326	Knl1	GO:0034501	protein localization to kinetochore	protein_localization_to_kinetochore
+ENSMUSG00000020897	Aurkb	GO:0034501	protein localization to kinetochore	protein_localization_to_kinetochore

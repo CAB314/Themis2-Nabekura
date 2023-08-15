@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000022672	Prkdc	GO:0033151	V(D)J recombination	V(D)J_recombination
+ENSMUSG00000040325	Dcaf1	GO:0033151	V(D)J recombination	V(D)J_recombination
+ENSMUSG00000034218	Atm	GO:0033151	V(D)J recombination	V(D)J_recombination
+ENSMUSG00000026648	Dclre1c	GO:0033151	V(D)J recombination	V(D)J_recombination
+ENSMUSG00000066551	Hmgb1	GO:0033151	V(D)J recombination	V(D)J_recombination
+ENSMUSG00000049717	Lig4	GO:0033151	V(D)J recombination	V(D)J_recombination
+ENSMUSG00000032864	Rag2	GO:0033151	V(D)J recombination	V(D)J_recombination
+ENSMUSG00000061311	Rag1	GO:0033151	V(D)J recombination	V(D)J_recombination

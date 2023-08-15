@@ -1,0 +1,11 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000042682	Selenok	GO:0072678	T cell migration	T_cell_migration
+ENSMUSG00000047293	Gpr15	GO:0072678	T cell migration	T_cell_migration
+ENSMUSG00000026166	Ccl20	GO:0072678	T cell migration	T_cell_migration
+ENSMUSG00000001281	Itgb7	GO:0072678	T cell migration	T_cell_migration
+ENSMUSG00000031207	Msn	GO:0072678	T cell migration	T_cell_migration
+ENSMUSG00000042333	Tnfrsf14	GO:0072678	T cell migration	T_cell_migration
+ENSMUSG00000045092	S1pr1	GO:0072678	T cell migration	T_cell_migration
+ENSMUSG00000040899	Ccr6	GO:0072678	T cell migration	T_cell_migration
+ENSMUSG00000036587	Fut7	GO:0072678	T cell migration	T_cell_migration
+ENSMUSG00000030707	Coro1a	GO:0072678	T cell migration	T_cell_migration

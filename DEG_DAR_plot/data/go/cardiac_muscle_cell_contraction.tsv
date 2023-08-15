@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000030249	Abcc9	GO:0086003	cardiac muscle cell contraction	cardiac_muscle_cell_contraction
+ENSMUSG00000053819	Camk2d	GO:0086003	cardiac muscle cell contraction	cardiac_muscle_cell_contraction
+ENSMUSG00000028854	Slc9a1	GO:0086003	cardiac muscle cell contraction	cardiac_muscle_cell_contraction
+ENSMUSG00000020354	Sgcd	GO:0086003	cardiac muscle cell contraction	cardiac_muscle_cell_contraction
+ENSMUSG00000027665	Pik3ca	GO:0086003	cardiac muscle cell contraction	cardiac_muscle_cell_contraction
+ENSMUSG00000026879	Gsn	GO:0086003	cardiac muscle cell contraction	cardiac_muscle_cell_contraction

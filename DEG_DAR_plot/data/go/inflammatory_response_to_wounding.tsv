@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000031639	Tlr3	GO:0090594	inflammatory response to wounding	inflammatory_response_to_wounding
+ENSMUSG00000035356	Nfkbiz	GO:0090594	inflammatory response to wounding	inflammatory_response_to_wounding
+ENSMUSG00000005150	Wdr83	GO:0090594	inflammatory response to wounding	inflammatory_response_to_wounding
+ENSMUSG00000020366	Mapk9	GO:0090594	inflammatory response to wounding	inflammatory_response_to_wounding
+ENSMUSG00000024401	Tnf	GO:0090594	inflammatory response to wounding	inflammatory_response_to_wounding
+ENSMUSG00000049103	Ccr2	GO:0090594	inflammatory response to wounding	inflammatory_response_to_wounding
+ENSMUSG00000025746	Il6	GO:0090594	inflammatory response to wounding	inflammatory_response_to_wounding

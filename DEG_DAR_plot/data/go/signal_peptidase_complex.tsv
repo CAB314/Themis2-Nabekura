@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024516	Sec11c	GO:0005787	signal peptidase complex	signal_peptidase_complex
+ENSMUSG00000054408	Spcs3	GO:0005787	signal peptidase complex	signal_peptidase_complex
+ENSMUSG00000021917	Spcs1	GO:0005787	signal peptidase complex	signal_peptidase_complex
+ENSMUSG00000048040	Arxes2	GO:0005787	signal peptidase complex	signal_peptidase_complex
+ENSMUSG00000048355	Arxes1	GO:0005787	signal peptidase complex	signal_peptidase_complex
+ENSMUSG00000025724	Sec11a	GO:0005787	signal peptidase complex	signal_peptidase_complex
+ENSMUSG00000035227	Spcs2	GO:0005787	signal peptidase complex	signal_peptidase_complex

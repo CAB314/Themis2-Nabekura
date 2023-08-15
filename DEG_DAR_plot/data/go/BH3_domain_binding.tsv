@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000007659	Bcl2l1	GO:0051434	BH3 domain binding	BH3_domain_binding
+ENSMUSG00000020372	Rack1	GO:0051434	BH3 domain binding	BH3_domain_binding
+ENSMUSG00000046879	Irgm1	GO:0051434	BH3 domain binding	BH3_domain_binding
+ENSMUSG00000057329	Bcl2	GO:0051434	BH3 domain binding	BH3_domain_binding
+ENSMUSG00000038612	Mcl1	GO:0051434	BH3 domain binding	BH3_domain_binding
+ENSMUSG00000078853	Igtp	GO:0051434	BH3 domain binding	BH3_domain_binding
+ENSMUSG00000069874	Irgm2	GO:0051434	BH3 domain binding	BH3_domain_binding
+ENSMUSG00000003873	Bax	GO:0051434	BH3 domain binding	BH3_domain_binding

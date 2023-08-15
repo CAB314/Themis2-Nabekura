@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000000751	Rpa1	GO:0034502	protein localization to chromosome	protein_localization_to_chromosome
+ENSMUSG00000038379	Ttk	GO:0034502	protein localization to chromosome	protein_localization_to_chromosome
+ENSMUSG00000028884	Rpa2	GO:0034502	protein localization to chromosome	protein_localization_to_chromosome
+ENSMUSG00000009628	Tex15	GO:0034502	protein localization to chromosome	protein_localization_to_chromosome
+ENSMUSG00000000037	Scml2	GO:0034502	protein localization to chromosome	protein_localization_to_chromosome
+ENSMUSG00000036928	Stag3	GO:0034502	protein localization to chromosome	protein_localization_to_chromosome
+ENSMUSG00000005883	Spo11	GO:0034502	protein localization to chromosome	protein_localization_to_chromosome

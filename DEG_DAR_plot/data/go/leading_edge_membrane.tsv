@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000052085	Dock8	GO:0031256	leading edge membrane	leading_edge_membrane
+ENSMUSG00000019889	Ptprk	GO:0031256	leading edge membrane	leading_edge_membrane
+ENSMUSG00000021314	Amph	GO:0031256	leading edge membrane	leading_edge_membrane
+ENSMUSG00000006699	Cdc42	GO:0031256	leading edge membrane	leading_edge_membrane
+ENSMUSG00000006445	Epha2	GO:0031256	leading edge membrane	leading_edge_membrane
+ENSMUSG00000057135	Scimp	GO:0031256	leading edge membrane	leading_edge_membrane
+ENSMUSG00000033389	Arhgap44	GO:0031256	leading edge membrane	leading_edge_membrane
+ENSMUSG00000020437	Myo1g	GO:0031256	leading edge membrane	leading_edge_membrane

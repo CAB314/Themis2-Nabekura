@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000021730	Hcn1	GO:0045759	negative regulation of action potential	negative_regulation_of_action_potential
+ENSMUSG00000026021	Sumo1	GO:0045759	negative regulation of action potential	negative_regulation_of_action_potential
+ENSMUSG00000062585	Cnr2	GO:0045759	negative regulation of action potential	negative_regulation_of_action_potential
+ENSMUSG00000044288	Cnr1	GO:0045759	negative regulation of action potential	negative_regulation_of_action_potential
+ENSMUSG00000075316	Scn9a	GO:0045759	negative regulation of action potential	negative_regulation_of_action_potential

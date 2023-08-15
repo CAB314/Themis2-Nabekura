@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000000861	Bcl11a	GO:1903860	negative regulation of dendrite extension	negative_regulation_of_dendrite_extension
+ENSMUSG00000031393	Mecp2	GO:1903860	negative regulation of dendrite extension	negative_regulation_of_dendrite_extension
+ENSMUSG00000052276	Ostn	GO:1903860	negative regulation of dendrite extension	negative_regulation_of_dendrite_extension
+ENSMUSG00000013663	Pten	GO:1903860	negative regulation of dendrite extension	negative_regulation_of_dendrite_extension
+ENSMUSG00000020859	Spag9	GO:1903860	negative regulation of dendrite extension	negative_regulation_of_dendrite_extension

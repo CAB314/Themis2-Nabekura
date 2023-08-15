@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000022865	Cxadr	GO:0046629	gamma-delta T cell activation	gamma-delta_T_cell_activation
+ENSMUSG00000054005	Mill1	GO:0046629	gamma-delta T cell activation	gamma-delta_T_cell_activation
+ENSMUSG00000040987	Mill2	GO:0046629	gamma-delta T cell activation	gamma-delta_T_cell_activation
+ENSMUSG00000020395	Itk	GO:0046629	gamma-delta T cell activation	gamma-delta_T_cell_activation
+ENSMUSG00000048534	Jaml	GO:0046629	gamma-delta T cell activation	gamma-delta_T_cell_activation

@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000064358	mt-Co3	GO:0008535	respiratory chain complex IV assembly	respiratory_chain_complex_IV_assembly
+ENSMUSG00000091780	Sco2	GO:0008535	respiratory chain complex IV assembly	respiratory_chain_complex_IV_assembly
+ENSMUSG00000040018	Cox15	GO:0008535	respiratory chain complex IV assembly	respiratory_chain_complex_IV_assembly
+ENSMUSG00000051671	Coa6	GO:0008535	respiratory chain complex IV assembly	respiratory_chain_complex_IV_assembly
+ENSMUSG00000024259	Slc25a46	GO:0008535	respiratory chain complex IV assembly	respiratory_chain_complex_IV_assembly
+ENSMUSG00000042148	Cox10	GO:0008535	respiratory chain complex IV assembly	respiratory_chain_complex_IV_assembly
+ENSMUSG00000035505	Cox18	GO:0008535	respiratory chain complex IV assembly	respiratory_chain_complex_IV_assembly

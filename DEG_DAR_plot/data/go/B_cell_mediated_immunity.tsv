@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000030724	Cd19	GO:0019724	B cell mediated immunity	B_cell_mediated_immunity
+ENSMUSG00000024778	Fas	GO:0019724	B cell mediated immunity	B_cell_mediated_immunity
+ENSMUSG00000019489	Cd70	GO:0019724	B cell mediated immunity	B_cell_mediated_immunity
+ENSMUSG00000058818	Pirb	GO:0019724	B cell mediated immunity	B_cell_mediated_immunity
+ENSMUSG00000020902	Ntn1	GO:0019724	B cell mediated immunity	B_cell_mediated_immunity
+ENSMUSG00000019842	Traf3ip2	GO:0019724	B cell mediated immunity	B_cell_mediated_immunity
+ENSMUSG00000024151	Msh2	GO:0019724	B cell mediated immunity	B_cell_mediated_immunity
+ENSMUSG00000017652	Cd40	GO:0019724	B cell mediated immunity	B_cell_mediated_immunity

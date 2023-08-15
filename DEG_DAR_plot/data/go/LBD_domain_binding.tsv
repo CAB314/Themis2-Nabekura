@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000018160	Med1	GO:0050693	LBD domain binding	LBD_domain_binding
+ENSMUSG00000010175	Prox1	GO:0050693	LBD domain binding	LBD_domain_binding
+ENSMUSG00000039910	Cited2	GO:0050693	LBD domain binding	LBD_domain_binding
+ENSMUSG00000051159	Cited1	GO:0050693	LBD domain binding	LBD_domain_binding
+ENSMUSG00000038156	Spon1	GO:0050693	LBD domain binding	LBD_domain_binding
+ENSMUSG00000015846	Rxra	GO:0050693	LBD domain binding	LBD_domain_binding

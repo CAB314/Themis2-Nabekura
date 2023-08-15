@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000074657	Kif5a	GO:0099641	anterograde axonal protein transport	anterograde_axonal_protein_transport
+ENSMUSG00000024511	Rab27b	GO:0099641	anterograde axonal protein transport	anterograde_axonal_protein_transport
+ENSMUSG00000006740	Kif5b	GO:0099641	anterograde axonal protein transport	anterograde_axonal_protein_transport
+ENSMUSG00000027254	Map1a	GO:0099641	anterograde axonal protein transport	anterograde_axonal_protein_transport
+ENSMUSG00000052572	Dlg2	GO:0099641	anterograde axonal protein transport	anterograde_axonal_protein_transport
+ENSMUSG00000024163	Mapk8ip3	GO:0099641	anterograde axonal protein transport	anterograde_axonal_protein_transport
+ENSMUSG00000004951	Hspb1	GO:0099641	anterograde axonal protein transport	anterograde_axonal_protein_transport
+ENSMUSG00000026764	Kif5c	GO:0099641	anterograde axonal protein transport	anterograde_axonal_protein_transport

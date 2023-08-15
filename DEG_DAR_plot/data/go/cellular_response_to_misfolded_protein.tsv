@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000025939	Ube2w	GO:0071218	cellular response to misfolded protein	cellular_response_to_misfolded_protein
+ENSMUSG00000021189	Atxn3	GO:0071218	cellular response to misfolded protein	cellular_response_to_misfolded_protein
+ENSMUSG00000020109	Dnajb12	GO:0071218	cellular response to misfolded protein	cellular_response_to_misfolded_protein
+ENSMUSG00000074212	Dnajb14	GO:0071218	cellular response to misfolded protein	cellular_response_to_misfolded_protein
+ENSMUSG00000024350	Dnajc18	GO:0071218	cellular response to misfolded protein	cellular_response_to_misfolded_protein
+ENSMUSG00000022769	Sdf2l1	GO:0071218	cellular response to misfolded protein	cellular_response_to_misfolded_protein
+ENSMUSG00000031161	Hdac6	GO:0071218	cellular response to misfolded protein	cellular_response_to_misfolded_protein
+ENSMUSG00000039615	Stub1	GO:0071218	cellular response to misfolded protein	cellular_response_to_misfolded_protein

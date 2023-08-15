@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000040374	Pex2	GO:1990928	response to amino acid starvation	response_to_amino_acid_starvation
+ENSMUSG00000027810	Eif2a	GO:1990928	response to amino acid starvation	response_to_amino_acid_starvation
+ENSMUSG00000037331	Larp1	GO:1990928	response to amino acid starvation	response_to_amino_acid_starvation
+ENSMUSG00000031490	Eif4ebp1	GO:1990928	response to amino acid starvation	response_to_amino_acid_starvation
+ENSMUSG00000029388	Eif2b1	GO:1990928	response to amino acid starvation	response_to_amino_acid_starvation

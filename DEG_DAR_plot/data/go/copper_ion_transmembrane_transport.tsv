@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000033792	Atp7a	GO:0035434	copper ion transmembrane transport	copper_ion_transmembrane_transport
+ENSMUSG00000066152	Slc31a2	GO:0035434	copper ion transmembrane transport	copper_ion_transmembrane_transport
+ENSMUSG00000006567	Atp7b	GO:0035434	copper ion transmembrane transport	copper_ion_transmembrane_transport
+ENSMUSG00000029650	Slc46a3	GO:0035434	copper ion transmembrane transport	copper_ion_transmembrane_transport
+ENSMUSG00000048497	Mmgt2	GO:0035434	copper ion transmembrane transport	copper_ion_transmembrane_transport
+ENSMUSG00000066150	Slc31a1	GO:0035434	copper ion transmembrane transport	copper_ion_transmembrane_transport

@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000028991	Mtor	GO:0002296	T-helper 1 cell lineage commitment	T-helper_1_cell_lineage_commitment
+ENSMUSG00000002147	Stat6	GO:0002296	T-helper 1 cell lineage commitment	T-helper_1_cell_lineage_commitment
+ENSMUSG00000000869	Il4	GO:0002296	T-helper 1 cell lineage commitment	T-helper_1_cell_lineage_commitment
+ENSMUSG00000001444	Tbx21	GO:0002296	T-helper 1 cell lineage commitment	T-helper_1_cell_lineage_commitment
+ENSMUSG00000051457	Spn	GO:0002296	T-helper 1 cell lineage commitment	T-helper_1_cell_lineage_commitment

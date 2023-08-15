@@ -1,0 +1,8 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000041431	Ccnb1	GO:0005113	patched binding	patched_binding
+ENSMUSG00000021466	Ptch1	GO:0005113	patched binding	patched_binding
+ENSMUSG00000006464	Bbs1	GO:0005113	patched binding	patched_binding
+ENSMUSG00000001761	Smo	GO:0005113	patched binding	patched_binding
+ENSMUSG00000023000	Dhh	GO:0005113	patched binding	patched_binding
+ENSMUSG00000006538	Ihh	GO:0005113	patched binding	patched_binding
+ENSMUSG00000002633	Shh	GO:0005113	patched binding	patched_binding

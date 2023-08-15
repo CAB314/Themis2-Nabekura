@@ -1,0 +1,7 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000055531	Cpsf6	GO:0005849	mRNA cleavage factor complex	mRNA_cleavage_factor_complex
+ENSMUSG00000046201	Scaf8	GO:0005849	mRNA cleavage factor complex	mRNA_cleavage_factor_complex
+ENSMUSG00000034820	Cpsf7	GO:0005849	mRNA cleavage factor complex	mRNA_cleavage_factor_complex
+ENSMUSG00000031754	Nudt21	GO:0005849	mRNA cleavage factor complex	mRNA_cleavage_factor_complex
+ENSMUSG00000041328	Pcf11	GO:0005849	mRNA cleavage factor complex	mRNA_cleavage_factor_complex
+ENSMUSG00000027079	Clp1	GO:0005849	mRNA cleavage factor complex	mRNA_cleavage_factor_complex

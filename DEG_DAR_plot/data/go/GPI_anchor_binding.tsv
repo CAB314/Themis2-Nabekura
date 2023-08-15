@@ -1,0 +1,10 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000074272	Ceacam1	GO:0034235	GPI anchor binding	GPI_anchor_binding
+ENSMUSG00000054385	Ceacam2	GO:0034235	GPI anchor binding	GPI_anchor_binding
+ENSMUSG00000062526	Mppe1	GO:0034235	GPI anchor binding	GPI_anchor_binding
+ENSMUSG00000032011	Thy1	GO:0034235	GPI anchor binding	GPI_anchor_binding
+ENSMUSG00000038383	Pigu	GO:0034235	GPI anchor binding	GPI_anchor_binding
+ENSMUSG00000037440	Vnn1	GO:0034235	GPI anchor binding	GPI_anchor_binding
+ENSMUSG00000022561	Gpaa1	GO:0034235	GPI anchor binding	GPI_anchor_binding
+ENSMUSG00000059089	Fcgr4	GO:0034235	GPI anchor binding	GPI_anchor_binding
+ENSMUSG00000019278	Dpep1	GO:0034235	GPI anchor binding	GPI_anchor_binding

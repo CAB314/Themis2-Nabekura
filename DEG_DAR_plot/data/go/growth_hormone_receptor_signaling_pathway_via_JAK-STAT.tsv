@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000024789	Jak2	GO:0060397	growth hormone receptor signaling pathway via JAK-STAT	growth_hormone_receptor_signaling_pathway_via_JAK-STAT
+ENSMUSG00000002147	Stat6	GO:0060397	growth hormone receptor signaling pathway via JAK-STAT	growth_hormone_receptor_signaling_pathway_via_JAK-STAT
+ENSMUSG00000020919	Stat5b	GO:0060397	growth hormone receptor signaling pathway via JAK-STAT	growth_hormone_receptor_signaling_pathway_via_JAK-STAT
+ENSMUSG00000004043	Stat5a	GO:0060397	growth hormone receptor signaling pathway via JAK-STAT	growth_hormone_receptor_signaling_pathway_via_JAK-STAT
+ENSMUSG00000004040	Stat3	GO:0060397	growth hormone receptor signaling pathway via JAK-STAT	growth_hormone_receptor_signaling_pathway_via_JAK-STAT

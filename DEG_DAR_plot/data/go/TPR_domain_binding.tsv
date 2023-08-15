@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000021270	Hsp90aa1	GO:0030911	TPR domain binding	TPR_domain_binding
+ENSMUSG00000036323	Srp72	GO:0030911	TPR domain binding	TPR_domain_binding
+ENSMUSG00000026028	Trak2	GO:0030911	TPR domain binding	TPR_domain_binding
+ENSMUSG00000023944	Hsp90ab1	GO:0030911	TPR domain binding	TPR_domain_binding
+ENSMUSG00000036943	Rab8b	GO:0030911	TPR domain binding	TPR_domain_binding
+ENSMUSG00000032536	Trak1	GO:0030911	TPR domain binding	TPR_domain_binding
+ENSMUSG00000039615	Stub1	GO:0030911	TPR domain binding	TPR_domain_binding
+ENSMUSG00000110195	Pde2a	GO:0030911	TPR domain binding	TPR_domain_binding

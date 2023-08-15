@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000063063	Ctnna2	GO:0098888	extrinsic component of presynaptic membrane	extrinsic_component_of_presynaptic_membrane
+ENSMUSG00000017132	Cyth1	GO:0098888	extrinsic component of presynaptic membrane	extrinsic_component_of_presynaptic_membrane
+ENSMUSG00000019790	Stxbp5	GO:0098888	extrinsic component of presynaptic membrane	extrinsic_component_of_presynaptic_membrane
+ENSMUSG00000027273	Snap25	GO:0098888	extrinsic component of presynaptic membrane	extrinsic_component_of_presynaptic_membrane
+ENSMUSG00000026797	Stxbp1	GO:0098888	extrinsic component of presynaptic membrane	extrinsic_component_of_presynaptic_membrane

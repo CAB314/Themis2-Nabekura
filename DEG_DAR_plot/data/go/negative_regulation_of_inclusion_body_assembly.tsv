@@ -1,0 +1,9 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000048279	Sacs	GO:0090084	negative regulation of inclusion body assembly	negative_regulation_of_inclusion_body_assembly
+ENSMUSG00000005483	Dnajb1	GO:0090084	negative regulation of inclusion body assembly	negative_regulation_of_inclusion_body_assembly
+ENSMUSG00000048206	Dnajb8	GO:0090084	negative regulation of inclusion body assembly	negative_regulation_of_inclusion_body_assembly
+ENSMUSG00000032285	Dnaja4	GO:0090084	negative regulation of inclusion body assembly	negative_regulation_of_inclusion_body_assembly
+ENSMUSG00000059970	Hspa2	GO:0090084	negative regulation of inclusion body assembly	negative_regulation_of_inclusion_body_assembly
+ENSMUSG00000022556	Hsf1	GO:0090084	negative regulation of inclusion body assembly	negative_regulation_of_inclusion_body_assembly
+ENSMUSG00000026203	Dnajb2	GO:0090084	negative regulation of inclusion body assembly	negative_regulation_of_inclusion_body_assembly
+ENSMUSG00000029131	Dnajb6	GO:0090084	negative regulation of inclusion body assembly	negative_regulation_of_inclusion_body_assembly

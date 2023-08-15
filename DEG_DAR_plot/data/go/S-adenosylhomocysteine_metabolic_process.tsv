@@ -1,0 +1,6 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000000301	Pemt	GO:0046498	S-adenosylhomocysteine metabolic process	S-adenosylhomocysteine_metabolic_process
+ENSMUSG00000039662	Icmt	GO:0046498	S-adenosylhomocysteine metabolic process	S-adenosylhomocysteine_metabolic_process
+ENSMUSG00000002769	Gnmt	GO:0046498	S-adenosylhomocysteine metabolic process	S-adenosylhomocysteine_metabolic_process
+ENSMUSG00000020150	Gamt	GO:0046498	S-adenosylhomocysteine metabolic process	S-adenosylhomocysteine_metabolic_process
+ENSMUSG00000019795	Pcmt1	GO:0046498	S-adenosylhomocysteine metabolic process	S-adenosylhomocysteine_metabolic_process

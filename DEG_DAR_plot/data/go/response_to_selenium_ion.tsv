@@ -1,0 +1,13 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000006818	Sod2	GO:0010269	response to selenium ion	response_to_selenium_ion
+ENSMUSG00000040147	Maob	GO:0010269	response to selenium ion	response_to_selenium_ion
+ENSMUSG00000075704	Txnrd2	GO:0010269	response to selenium ion	response_to_selenium_ion
+ENSMUSG00000064373	Selenop	GO:0010269	response to selenium ion	response_to_selenium_ion
+ENSMUSG00000001663	Gstt1	GO:0010269	response to selenium ion	response_to_selenium_ion
+ENSMUSG00000067274	Rplp0	GO:0010269	response to selenium ion	response_to_selenium_ion
+ENSMUSG00000075702	Selenom	GO:0010269	response to selenium ion	response_to_selenium_ion
+ENSMUSG00000063856	Gpx1	GO:0010269	response to selenium ion	response_to_selenium_ion
+ENSMUSG00000028393	Alad	GO:0010269	response to selenium ion	response_to_selenium_ion
+ENSMUSG00000014351	Gip	GO:0010269	response to selenium ion	response_to_selenium_ion
+ENSMUSG00000041571	Selenow	GO:0010269	response to selenium ion	response_to_selenium_ion
+ENSMUSG00000046750	Selenov	GO:0010269	response to selenium ion	response_to_selenium_ion

@@ -1,0 +1,16 @@
+ensembl_gene_id	external_gene_name	go_id	name_1006	name_1006_udb
+ENSMUSG00000015968	Cacna1d	GO:0061337	cardiac conduction	cardiac_conduction
+ENSMUSG00000030249	Abcc9	GO:0061337	cardiac conduction	cardiac_conduction
+ENSMUSG00000030557	Mef2a	GO:0061337	cardiac conduction	cardiac_conduction
+ENSMUSG00000057123	Gja5	GO:0061337	cardiac conduction	cardiac_conduction
+ENSMUSG00000049281	Scn3b	GO:0061337	cardiac conduction	cardiac_conduction
+ENSMUSG00000050953	Gja1	GO:0061337	cardiac conduction	cardiac_conduction
+ENSMUSG00000070304	Scn2b	GO:0061337	cardiac conduction	cardiac_conduction
+ENSMUSG00000043207	Zmpste24	GO:0061337	cardiac conduction	cardiac_conduction
+ENSMUSG00000065432	Mir208a	GO:0061337	cardiac conduction	cardiac_conduction
+ENSMUSG00000051331	Cacna1c	GO:0061337	cardiac conduction	cardiac_conduction
+ENSMUSG00000034533	Scn10a	GO:0061337	cardiac conduction	cardiac_conduction
+ENSMUSG00000006576	Slc4a3	GO:0061337	cardiac conduction	cardiac_conduction
+ENSMUSG00000019194	Scn1b	GO:0061337	cardiac conduction	cardiac_conduction
+ENSMUSG00000011751	Sptbn4	GO:0061337	cardiac conduction	cardiac_conduction
+ENSMUSG00000009545	Kcnq1	GO:0061337	cardiac conduction	cardiac_conduction
